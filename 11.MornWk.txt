@@ -1,0 +1,17 @@
+73: Công viên: Msg, Dex, Anap Exc
+735: 
+ .Tòa nhà: Thay đồ
+ .Office: mở máy + Gắn thẻ
+ .Pantry: Cất Lunch + Mk Coffee + Hygie + Water
+
+80: Prep Wk
+ .05: silent Phone + Nhỏ mắt + Check Laptop Noti: Chat, Mail, Jira
+ .05: Sche + Enable Alarm + Nk Daily Report + Mk Nt
+
+83: Daily Meeting
+90: Break
+10: Change water - Anap - Drop Eye
+11: Change water - Anap
+
+1155: Zenith: Hygie + Ritual Lunch + Lunch>Hygie + Ritual>Med/Rest
+1255: Alarm
