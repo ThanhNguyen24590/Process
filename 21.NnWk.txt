@@ -1,7 +1,9 @@
-1255: 
- .03: Kead Anap: Orifices-Teeth + Msg Skin + Dex
- .02: Ritual Noon
- .Make Coffee + Sche/Outlook + Alarm + Log
+##### 1200: 
++ Lunch: Prey + Sati > Brush Teeth | Cleanse
++ Room: Pray > Your places to Med
+##### 1255:
++ Msg Skin + Dex
++ Make Coffee + Sche/Outlook + Alarm + Log
 
 1400: Water - Anap
 1500: Water - Anap
