@@ -1,4 +1,4 @@
-Daily Task
+:black_square_button: Daily Task
 ## Ditthi: Refuge
 + St Sutta: Rd Sutta, Rsr Pali | Ls Sutta > Rm, Vid Sutta Teaching. >>> St Pitaka
 + Ls Dhamma talk, Med Guide > Med : Thai forest tradition: Thanissaro, Ajahn Brahm, Ajahn Sujato,...
