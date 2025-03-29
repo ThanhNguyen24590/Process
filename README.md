@@ -34,10 +34,10 @@
 + **Manual Skill**: Nt: Sk, Learn about tool & item you used.
 ---
 ## Vāyāma:
-+ Keep 4 protection med theme avail
-+ Maintain main theme of Anap
++ Keep 4 protection med theme avail & Maintain main theme of Anap
++ Maintain Sila & caution for 5 nivarana
 ## Sati: 
-+ Ensure 5 indriya avail
++ Monitoring Satipatthana & Ensure 5 indriya avail
 ## Samādhi: Jhanas - luminous mind: 30+ min
 + Make base Samadhi
 
