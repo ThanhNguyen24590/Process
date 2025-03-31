@@ -10,8 +10,8 @@
 + Philosophy of mind: Western philosophy
 + Neuroscience, Psychology & Science of Mind: Robert M. Sapolsky - Behave (Lib>NonFic.Mind), https://en.wikipedia.org/wiki/Emotion
 ## Sankappa: Intentions
++ Sche: Routine with specific actions
 + Set & Maintain long term goal: 1 days goals.
-+ Set & Maintain next 3h Sche. Respect every moment & compare to your ideal self.
 + Do Timesheet for action, check emotion, mistake,...
 ###### Extended:
 + Productivity: Learning how to learn, time mng.
