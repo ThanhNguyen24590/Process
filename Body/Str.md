@@ -1,3 +1,4 @@
+Feel: blood flow, Heat, Heart -> Viz Lava-Fire
 ##### Hand: 1-2 hand: 
 + Pushup: 30 Reverse push up, 100 cat cow push up, Back push up
 + Hand Stand: 30s
@@ -16,3 +17,4 @@
 . Stiff Leg Dead Lift + Cross body
 https://en.wikipedia.org/wiki/Isometric_exercise
 https://en.wikipedia.org/wiki/Outline_of_exercise
+
