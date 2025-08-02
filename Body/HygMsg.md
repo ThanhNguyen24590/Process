@@ -1,8 +1,4 @@
-[Viz](Viz)
-[9 Orifices](9-orifices)
-[Msg](msg) 
-[Ref](ref)
-
+[Viz](Viz) | [9 Orifices](9-orifices) | [Msg](msg) | [Ref](ref)
 ##### Viz
 Visualize 3D Body. Msg: Xoa-bóp-Vuốt-Kéo-Cào, vỗ-đấm, Knead Anap & Check: 
 + Internal feeling: Discomfort, Itchy, Blocked... > Viz Blood Flow
