@@ -1,3 +1,4 @@
+Feel your joint in Spine, Finger, Toe -> Viz: Blood vessel, Qi/Blood Flow. 
 Gậy gõ nhẹ toàn thân
 ##### Cổ: x: Nhìn ngang | y: Gật-ngửa đầu | z : nhìn sau | Xoay cổ
 ##### Tay: 
