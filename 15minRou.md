@@ -1,6 +1,4 @@
-###### Warmup & Stretch: 5 mins: 
-+ Pinch, pat & connect whole body skin. Using stick to tap.
-+ Circle Joint: Head, Arm, Hip, Leg;
+###### Warmup & Stretch: 5 mins
 ###### Main Workout: 10 mins: 3 rounds, rest 10s
 + Cobra x 3r - Kneel Push up x 15r - Step Reach x 10r - Bodyweight squats  x 20r
 + Glute bridges x 15r - Sit up x 10r - Superman hold x 10s - Plank x 15s
