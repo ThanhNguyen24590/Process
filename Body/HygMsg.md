@@ -1,10 +1,17 @@
-[Viz](Viz) | [9 Orifices](9-orifices) | [Msg](msg) | [Ref](ref)
 ##### Viz
 Viz Body in 3D as Moutain.
 + Internal feeling: Discomfort, Itchy, Blocked... > Viz Blood Flow
 + Skin visual cue (color, shape,..), smell, touch Texture (flaccid, Sticky), Temp (Cold), tension, stretchiness
 ---
-##### 9 Orifices
+Xoa-bóp-Vuốt-Kéo-Cào, vỗ-đấm, Knead Anap & Check: 
+##### Da đầu, Chân Tóc
+Ngứa, Nóng, Dull? Hơ tay vừa đỉnh tóc xoa/vuốt nhẹ, Vuốt mí tóc, Kéo tóc, Vuốt-Trảo đẩy từ trán > đỉnh -> cổ + cúi đầu
+##### Mặt-Má: Cảm độ ẩm, độ dầu/nhớt/dính (sticky-oily), đàn hồi, mụn, Stiff cơ : 
++ Xoa bóp trán, thái dương, Vỗ/ Vuốt | Tập nhăn/cười
++ Nặn mặt/nhờn | Lau mặt 
++ Rửa với nước ấm để mở chân lông, nặn mụn + kiểm tra quần thâm
+##### Cổ: 
+Vỗ nhẹ đầu-sau đầu nối cổ
 ##### 2 Mắt:  
 Mặt ngoài nhãn cầu khô hay ướt ? | áp lực sau nhãn cầu | pulse từ Anap hay tim > Nhỏ mắt
 + Xoa/niết xung quanh xương hốc mắt bằng đầu ngón tay. > Nhấn nhẹ mí mắt + mắt bằng đầu ngón tay. 
@@ -26,21 +33,10 @@ Mặt ngoài nhãn cầu khô hay ướt ? | áp lực sau nhãn cầu | pulse t
 ##### Groin + Anus
 + Groin: Drink water & piss
 + Ass: Sit up, Bowel movement.
----
-##### Msg
-Xoa-bóp-Vuốt-Kéo-Cào, vỗ-đấm, Knead Anap & Check: 
-##### Da: Tóc: Ngứa, Nóng, Dull?
-+ Hơ tay vừa đỉnh tóc xoa/vuốt nhẹ > Vuốt mí tóc > Kéo tóc > Vuốt-Trảo đẩy từ trán -> đỉnh -> cổ + cuối đầu
-+ Xoa + bóp trán, thái dương
-+ Vỗ nhẹ đầu-sau đầu nối cổ
-+ Knee psoriasis
-##### Mặt-Má: Cảm độ ẩm, độ dầu/nhớt/dính (sticky-oily), đàn hồi, mụn, Stiff cơ : 
-+ Nặn mặt/nhờn | Lau mặt 
-+ Vỗ/ Vuốt | Tập nhăn/cười
-+ Rửa với nước ấm để mở chân lông, nặn mụn + kiểm tra quần thâm
 ##### Chân tay: Cảm ngón tay/chân chậm?
 + Bóp-Vuốt móng tay | Bóp đốt ngón tay | Bấm bàn tay, sau bàn tay, giữa ngón tay| Trảo | Kiểm tra móng tay
 + Vuốt cẳng chân | Bẻ ngón chân, kẽ ngón chân | Bóp bàn chân | kiểm tra móng chân.
++ Knee psoriasis
 ##### Toàn thân: 
 + Xương: Vuốt xương đòn, xương sườn
 + Khớp: Vai, khuỷu, cẳng, ngón tay: Bóp-Miết-Kéo | thử tất cả vị trí trong Axis: xyz
