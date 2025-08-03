@@ -1,8 +1,8 @@
 [Viz](Viz) | [9 Orifices](9-orifices) | [Msg](msg) | [Ref](ref)
 ##### Viz
-Visualize 3D Body. Msg: Xoa-bóp-Vuốt-Kéo-Cào, vỗ-đấm, Knead Anap & Check: 
+Viz Body in 3D as Moutain.
 + Internal feeling: Discomfort, Itchy, Blocked... > Viz Blood Flow
-+ Visual cue (color, shape,..), smell, touch Texture (flaccid, Sticky), Temp (Cold)
++ Skin visual cue (color, shape,..), smell, touch Texture (flaccid, Sticky), Temp (Cold), tension, stretchiness
 ---
 ##### 9 Orifices
 ##### 2 Mắt: mặt ngoài nhãn cầu khô hay ướt, áp lực trong hốc mắt, sau nhãn cầu, pulse từ Anap hay tim > Nhỏ mắt
@@ -27,7 +27,7 @@ Visualize 3D Body. Msg: Xoa-bóp-Vuốt-Kéo-Cào, vỗ-đấm, Knead Anap & Che
 + Ass: Sit up, Bowel movement.
 ---
 ##### Msg
-Viz Body as Moutain
+Xoa-bóp-Vuốt-Kéo-Cào, vỗ-đấm, Knead Anap & Check: 
 ##### Da: Tóc: Ngứa, Nóng, Dull?
 + Hơ tay vừa đỉnh tóc xoa/vuốt nhẹ > Vuốt mí tóc > Kéo tóc > Vuốt-Trảo đẩy từ trán -> đỉnh -> cổ + cuối đầu
 + Xoa + bóp trán, thái dương
