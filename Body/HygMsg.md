@@ -5,7 +5,8 @@ Viz Body in 3D as Moutain.
 + Skin visual cue (color, shape,..), smell, touch Texture (flaccid, Sticky), Temp (Cold), tension, stretchiness
 ---
 ##### 9 Orifices
-##### 2 Mắt: mặt ngoài nhãn cầu khô hay ướt, áp lực trong hốc mắt, sau nhãn cầu, pulse từ Anap hay tim > Nhỏ mắt
+##### 2 Mắt:  
+Mặt ngoài nhãn cầu khô hay ướt ? | áp lực sau nhãn cầu | pulse từ Anap hay tim > Nhỏ mắt
 + Xoa/niết xung quanh xương hốc mắt bằng đầu ngón tay. > Nhấn nhẹ mí mắt + mắt bằng đầu ngón tay. 
 + Xoa tay ấm > úp bàn tay lên mắt. | Xoay mắt + Liếc nhìn sang bên.
 + Nhìn chỗ xa + ánh sáng mặt trời: Nhìn bầu trời 10s. Cảm điều chỉnh độ sáng.
