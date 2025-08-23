@@ -1,14 +1,18 @@
-:black_square_button: Daily Task
-## Ditthi: Refuge
-+ St Sutta: Rd Sutta, Rsr Pali | Ls Sutta > Rm, Vid Sutta Teaching. >>> St Pitaka
+#### Ditthi:
++ **TriPitaka**: Rm & Org: Rd [MN 1](https://suttacentral.net/mn-mulapannasa) | [Ls](https://www.paliaudio.com/majjhima-nikaya)
 + Ls Dhamma talk, Med Guide > Med : Thai forest tradition: Thanissaro, Ajahn Brahm, Ajahn Sujato,...
 + Dh Rd: Book: 8 noble path.
-###### Extended:
+<details>
+<summary>Extended</summary>
++ Rsr Pali
++ Vid Sutta
 + Dh St Csr: Early Meditation + Ajahn Brahmamavaso, ...
 + Myanmar tradition, Buddhism Academia, History & Nonfiction : Pa Auk, Bikkhu Bodhi, Culadasa,..+ : Why Buddhism is true
 + Eastern Philosophy: Mahayana, vajrayana, secular Buddhism, Chinese philosophy, Indian philosophy
 + Philosophy of mind: Western philosophy
 + Neuroscience, Psychology & Science of Mind: Robert M. Sapolsky - Behave (Lib>NonFic.Mind), https://en.wikipedia.org/wiki/Emotion
+</details>
+
 ## Sankappa: Intentions
 + Sche: Routine with specific actions
 + Set & Maintain long term goal: 1 days goals.
@@ -40,4 +44,5 @@
 + Monitoring Satipatthana & Ensure 5 indriya avail
 ## Samādhi: Jhanas - luminous mind: 30+ min
 + Make base Samadhi
+
 
