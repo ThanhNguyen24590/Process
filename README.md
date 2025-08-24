@@ -17,7 +17,8 @@
 </details>
 
 #### Sankappa: Maranam
-Ration time for Task. Ratition attention, life. 
++ Ration time\attention for Task & Allocation suitable time.
++ Rw & Upd Process
 <details>
   <summary>Extended</summary>
 + Productivity: Learning how to learn, time mng.
@@ -26,7 +27,7 @@ Ration time for Task. Ratition attention, life.
 + Do Timesheet for action, check emotion, mistake,...
 </details>
 
-#### Vaca: Metta (truth)
+#### Vaca: Metta (truth): Brahma-vihārā
 + Chant zone > Find suitable rythm & move
 + Art: Music: Piano 15 min
 + Lit: Rd Poetry| Ban Do May - David Mitchell | Limit: LN
@@ -37,7 +38,7 @@ Ration time for Task. Ratition attention, life.
 + Event: Travel & Social Event
 </details>
 
-#### Kammanta: Asubha
+#### Kammanta: Asubha - Āhāra 
 + Nt: Body
 #### ājīva: Sila
 + Cs: ISTQB
@@ -46,10 +47,12 @@ Ration time for Task. Ratition attention, life.
 + Manual Skill: Nt: Sk, Learn about tool & item you used.
 </details>
 
-#### Vāyāma:
-+ Keep 4 protection med theme avail & Maintain main theme of Anap
+#### Vāyāma: Dhatu - Āyatana
++ Expand [Kammaṭṭhāna](https://en.wikipedia.org/wiki/Kamma%E1%B9%AD%E1%B9%ADh%C4%81na)
 #### Sati: Anapana
-#### Samādhi: 
++ Keep 4 protection med theme avail & Maintain main theme of Anap
+#### Samādhi: Nibbana
+
 
 
 
