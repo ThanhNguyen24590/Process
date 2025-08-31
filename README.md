@@ -1,14 +1,9 @@
-#### Ditthi: Refuge - Tripple Gem
-Horizonal Line.
-+ Buddha:
-  + TriPitaka: Rm & Org: Rd [MN 1](https://suttacentral.net/mn-mulapannasa) | [Ls](https://www.paliaudio.com/majjhima-nikaya)
-  + Rsr Pali -> Vid Sutta
-+ Dh:
-  + Rd: [stg On The Path](https://www.dhammatalks.org/books/OnThePath/Section0001.html)
+#### Ditthi: Refuge - Dh: $ ariya sacca
++ TriPitaka: Rm & Org: Rd [MN 1](https://suttacentral.net/mn-mulapannasa) | [Ls](https://www.paliaudio.com/majjhima-nikaya) | Rsr Pali -> Vid Sutta
++ Rd: [stg On The Path](https://www.dhammatalks.org/books/OnThePath/Section0001.html)
   + Csr: Early Meditation + Ajahn Brahmamavaso, ...
   + Neuroscience, Psychology & Science of Mind: Robert M. Sapolsky - Behave (Lib>NonFic.Mind), https://en.wikipedia.org/wiki/Emotion
-+ Sangha: [Med Guide](https://www.dhammatalks.org/mp3_guidedMed_index.html)
-  + Daily: [Morn Short](https://www.dhammatalks.org/audio/morning/), [Eve](https://www.dhammatalks.org/audio/evening/)
++ Sangha: [Med Guide](https://www.dhammatalks.org/mp3_guidedMed_index.html). Daily: [Morn Short](https://www.dhammatalks.org/audio/morning/), [Eve](https://www.dhammatalks.org/audio/evening/)
   + Weekly: [Lecture](https://www.dhammatalks.org/audio/lectures/), [Ajahn Sujato](https://bswa.org/teachings/?teaching_topic=0&teacher=585&media_type=&keywords=), [Ajahn Brahm](https://bswa.org/teachings/?teaching_topic=0&teacher=564&media_type=&keywords=)
 <details>
   <summary>Extended</summary>
@@ -19,36 +14,25 @@ Horizonal Line.
 + Philosophy of mind: Western philosophy
 </details>
 
-#### Sankappa: Maranam
-Vertical Line
-+ Sīvathikā-manasikāra
-+ Maranam: Urgenct & Worthness of Dh, even in 1 Anap -> Ration time\attention for Task & Allocation suitable time -> Rw & Upd Process
-  + Journaling, Emotion Log & Check Progress 
-+ Nekkhamma - Nibbana
+#### Sankappa: Sīvathikā-manasikāra > Maranam
++ Urgenct & Worthness of Dh, even in 1 Anap -> Ration time\attention for Task & Allocation suitable time -> Rw & Upd Process
++ Journaling, Emotion Log & Check Progress 
 <details>
   <summary>Extended</summary>
 + Productivity: Learning how to learn, time mng.
 </details>
 
-#### Vaca: Sila - Brahma-vihārā
-+ Sila
-  + Chant zone > Find suitable rythm & move
-  + St communicate & relationship
-+ Metta-Karuna-Mudita
-  + Art: Music: Piano 15 min
+#### Vaca: Brahma-vihārā: Karuna > Mudita > Metta > Upekka
++ Chant zone > Find suitable rythm & move
++ Art: Music: Piano 15 min
   + Lit: Rd Poetry| Ban Do May - David Mitchell | Limit: LN
-  + Event: Travel & Social Event
-<details>
-  <summary>Extended</summary>
-</details>
-
-#### Kammanta: Asubha - Āhāra 
-+ Āhāre-patikkūla -> Kama-patikkūla
-+ Upeka - Sacca - Arupa
-+ Nt: Body
-#### ājīva: Sila
++ Communicate & relationship
+  + Event: Travel & Social Event > Dana
+#### Kammanta: Asubha - Nibbana 
+Āhāre-patikkūla -> Kama-patikkūla vs Nekkhamma - Nibbana : Nt: Body
+#### Ājīva: Sila
 + Cs: ISTQB
-+ + Jp: Duolingo, 10 Kanji, Gammar, Read
++ Jp: Duolingo, 10 Kanji, Gammar, Read
 <details>
   <summary>Extended</summary>
 + Manual Skill: Nt: Sk, Learn about tool & item you used.
@@ -59,6 +43,7 @@ Vertical Line
 #### Sati: Anapana
 + Keep 4 protection med theme avail & Maintain main theme of Anap
 #### Samādhi: Nibbana
+
 
 
 
