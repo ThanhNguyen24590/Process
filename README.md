@@ -1,4 +1,5 @@
 #### Ditthi: Refuge - Tripple Gem
+Horizonal Line.
 + Buddha:
   + TriPitaka: Rm & Org: Rd [MN 1](https://suttacentral.net/mn-mulapannasa) | [Ls](https://www.paliaudio.com/majjhima-nikaya)
   + Rsr Pali -> Vid Sutta
@@ -19,31 +20,35 @@
 </details>
 
 #### Sankappa: Maranam
-+ Ration time\attention for Task & Allocation suitable time.
-+ Rw & Upd Process
+Vertical Line
++ Sīvathikā-manasikāra
++ Maranam: Urgenct & Worthness of Dh, even in 1 Anap -> Ration time\attention for Task & Allocation suitable time -> Rw & Upd Process
+  + Journaling, Emotion Log & Check Progress 
++ Nekkhamma - Nibbana
 <details>
   <summary>Extended</summary>
 + Productivity: Learning how to learn, time mng.
-+ Sche: Routine with specific actions
-+ Set & Maintain long term goal: 1 days goals.
-+ Do Timesheet for action, check emotion, mistake,...
 </details>
 
-#### Vaca: Metta (truth): Brahma-vihārā
-+ Chant zone > Find suitable rythm & move
-+ Art: Music: Piano 15 min
-+ Lit: Rd Poetry| Ban Do May - David Mitchell | Limit: LN
-+ Jp: Duolingo, 10 Kanji, Gammar, Read
+#### Vaca: Sila - Brahma-vihārā
++ Sila
+  + Chant zone > Find suitable rythm & move
+  + St communicate & relationship
++ Metta-Karuna-Mudita
+  + Art: Music: Piano 15 min
+  + Lit: Rd Poetry| Ban Do May - David Mitchell | Limit: LN
+  + Event: Travel & Social Event
 <details>
   <summary>Extended</summary>
-+ St how to communicate & keep relationship
-+ Event: Travel & Social Event
 </details>
 
 #### Kammanta: Asubha - Āhāra 
++ Āhāre-patikkūla -> Kama-patikkūla
++ Upeka - Sacca - Arupa
 + Nt: Body
 #### ājīva: Sila
 + Cs: ISTQB
++ + Jp: Duolingo, 10 Kanji, Gammar, Read
 <details>
   <summary>Extended</summary>
 + Manual Skill: Nt: Sk, Learn about tool & item you used.
@@ -54,6 +59,7 @@
 #### Sati: Anapana
 + Keep 4 protection med theme avail & Maintain main theme of Anap
 #### Samādhi: Nibbana
+
 
 
 
