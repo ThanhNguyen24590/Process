@@ -1,19 +1,21 @@
 #### Ditthi: Refuge - Tripple Gem
-+ **TriPitaka**: Rm & Org: Rd [MN 1](https://suttacentral.net/mn-mulapannasa) | [Ls](https://www.paliaudio.com/majjhima-nikaya)
-+ Rd: [stg On The Path](https://www.dhammatalks.org/books/OnThePath/Section0001.html)
-+ Dh: [Morn Short](https://www.dhammatalks.org/audio/morning/), [Eve](https://www.dhammatalks.org/audio/evening/), [Med Guide](https://www.dhammatalks.org/mp3_guidedMed_index.html), 
-+ Weekly Dh:  [Lecture](https://www.dhammatalks.org/audio/lectures/), [Ajahn Sujato](https://bswa.org/teachings/?teaching_topic=0&teacher=585&media_type=&keywords=), [Ajahn Brahm](https://bswa.org/teachings/?teaching_topic=0&teacher=564&media_type=&keywords=)
++ Buddha:
+  + TriPitaka: Rm & Org: Rd [MN 1](https://suttacentral.net/mn-mulapannasa) | [Ls](https://www.paliaudio.com/majjhima-nikaya)
+  + Rsr Pali -> Vid Sutta
++ Dh:
+  + Rd: [stg On The Path](https://www.dhammatalks.org/books/OnThePath/Section0001.html)
+  + Csr: Early Meditation + Ajahn Brahmamavaso, ...
+  + Neuroscience, Psychology & Science of Mind: Robert M. Sapolsky - Behave (Lib>NonFic.Mind), https://en.wikipedia.org/wiki/Emotion
++ Sangha: [Med Guide](https://www.dhammatalks.org/mp3_guidedMed_index.html)
+  + Daily: [Morn Short](https://www.dhammatalks.org/audio/morning/), [Eve](https://www.dhammatalks.org/audio/evening/)
+  + Weekly: [Lecture](https://www.dhammatalks.org/audio/lectures/), [Ajahn Sujato](https://bswa.org/teachings/?teaching_topic=0&teacher=585&media_type=&keywords=), [Ajahn Brahm](https://bswa.org/teachings/?teaching_topic=0&teacher=564&media_type=&keywords=)
 <details>
   <summary>Extended</summary>
-+ Rsr Pali
-+ Vid Sutta
 + Rd [stg Mindful of the Body](https://www.dhammatalks.org/books/MindfulBody/Section0001.html)
 + Ls Dhamma talk, Med Guide > Med : Thai forest tradition: Thanissaro, Ajahn Brahm, Ajahn Sujato,...
-+ Dh St Csr: Early Meditation + Ajahn Brahmamavaso, ...
 + Myanmar tradition, Buddhism Academia, History & Nonfiction : Pa Auk, Bikkhu Bodhi, Culadasa,..+ : Why Buddhism is true
 + Eastern Philosophy: Mahayana, vajrayana, secular Buddhism, Chinese philosophy, Indian philosophy
 + Philosophy of mind: Western philosophy
-+ Neuroscience, Psychology & Science of Mind: Robert M. Sapolsky - Behave (Lib>NonFic.Mind), https://en.wikipedia.org/wiki/Emotion
 </details>
 
 #### Sankappa: Maranam
@@ -52,6 +54,7 @@
 #### Sati: Anapana
 + Keep 4 protection med theme avail & Maintain main theme of Anap
 #### Samādhi: Nibbana
+
 
 
 
