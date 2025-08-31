@@ -15,12 +15,10 @@
 </details>
 
 #### Sankappa: Sīvathikā-manasikāra > Maranam
-+ Urgenct & Worthness of Dh, even in 1 Anap -> Ration time\attention for Task & Allocation suitable time -> Rw & Upd Process
++ Urgenct & Worthness of Dh, even in 1 Anap -> Ration time\attention for Task & Allocation suitable time
++ Rw & Upd Process
+  + Productivity: Learning how to learn, time mng.
 + Journaling, Emotion Log & Check Progress 
-<details>
-  <summary>Extended</summary>
-+ Productivity: Learning how to learn, time mng.
-</details>
 
 #### Vaca: Brahma-vihārā: Karuna > Mudita > Metta > Upekka
 + Chant zone > Find suitable rythm & move
@@ -33,16 +31,13 @@
 #### Ājīva: Sila
 + Cs: ISTQB
 + Jp: Duolingo, 10 Kanji, Gammar, Read
-<details>
-  <summary>Extended</summary>
 + Manual Skill: Nt: Sk, Learn about tool & item you used.
-</details>
-
-#### Vāyāma: Dhatu - Āyatana
-+ Expand [Kammaṭṭhāna](https://en.wikipedia.org/wiki/Kamma%E1%B9%AD%E1%B9%ADh%C4%81na)
+#### Vāyāma: Dhatu - Āyatana : 
+Expand [Kammaṭṭhāna](https://en.wikipedia.org/wiki/Kamma%E1%B9%AD%E1%B9%ADh%C4%81na)
 #### Sati: Anapana
 + Keep 4 protection med theme avail & Maintain main theme of Anap
 #### Samādhi: Nibbana
+
 
 
 
