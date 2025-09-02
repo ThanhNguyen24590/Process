@@ -1,4 +1,4 @@
-#### Ditthi: Refuge - Dh: $ ariya sacca
+#### Ditthi: Refuge - Dh: 4 ariya sacca
 + TriPitaka: Rm & Org: Rd [MN 1](https://suttacentral.net/mn-mulapannasa) | [Ls](https://www.paliaudio.com/majjhima-nikaya) | Rsr Pali -> Vid Sutta
 + Rd: [stg On The Path](https://www.dhammatalks.org/books/OnThePath/Section0001.html)
   + Csr: Early Meditation + Ajahn Brahmamavaso, ...
@@ -37,6 +37,7 @@ Expand [Kammaṭṭhāna](https://en.wikipedia.org/wiki/Kamma%E1%B9%AD%E1%B9%ADh
 #### Sati: Anapana
 + Keep 4 protection med theme avail & Maintain main theme of Anap
 #### Samādhi: Nibbana
+
 
 
 
