@@ -1,15 +1,16 @@
-##### Viz
-Viz Body in 3D as Moutain.
-+ Internal feeling: Discomfort, Itchy, Blocked... > Viz Blood Flow
-+ Skin visual cue (color, shape,..), smell, touch Texture (flaccid, Sticky), Temp (Cold), tension, stretchiness
++ Lực: Knead Anap, đấm ; Nhiệt: Xoa, Vuốt ; Thanh: Cào, Gõ, vỗ ; Thông: Nhéo, Kéo, Bóp
++ Nội cảm: blocked, weight, Discomfort ?
++ Ngoại cảm: Discomfort ? Itchy? Visual cue (color, shape,..), smell, touch Texture (flaccid, Sticky), Temp (Cold), tension, stretchiness
++ Quán: khí huyết lưu thông. cơ, nội tạng.
 ---
-Xoa-bóp-Vuốt-Kéo-Cào, vỗ-đấm, Knead Anap & Check: 
-##### Da đầu, Chân Tóc
-Ngứa, Nóng, Dull? Hơ tay vừa đỉnh tóc xoa/vuốt nhẹ, Vuốt mí tóc, Kéo tóc, Vuốt-Trảo đẩy từ trán > đỉnh -> cổ + cúi đầu
-##### Mặt-Má: Cảm độ ẩm, độ dầu/nhớt/dính (sticky-oily), đàn hồi, mụn, Stiff cơ : 
-+ Xoa bóp trán, thái dương, Vỗ/ Vuốt | Tập nhăn/cười
-+ Nặn mặt/nhờn | Lau mặt 
-+ Rửa với nước ấm để mở chân lông, nặn mụn + kiểm tra quần thâm
++ Da đầu & Trán: Ngứa, Nóng, Trơ?
+  + Hơ tay vừa đỉnh tóc xoa/vuốt nhẹ > Xoa tóc + trán-thái dương > Knead- knuckle-vỗ Anap > Msg Brain
+  + Vuốt mí tóc,  Vuốt-Trảo đẩy từ trán > đỉnh -> cổ + cúi đầu * ngược lại
+  + Kéo tóc
++ Mặt-Má: Cảm độ ẩm, độ dầu/nhớt/dính (sticky-oily), đàn hồi, mụn, căng cơ
+  + Xoa bóp trán, thái dương, Vỗ/ Vuốt | Tập nhăn/cười
+  + Nặn mặt/nhờn | Lau mặt 
+  + Rửa với nước ấm để mở chân lông, nặn mụn + kiểm tra quần thâm
 ##### Cổ: 
 Vỗ nhẹ đầu-sau đầu nối cổ
 ##### 2 Mắt:  
