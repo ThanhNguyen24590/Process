@@ -1,8 +1,8 @@
 Svākkhāto bhagavatā dhammo, Sandiṭṭhiko, Akāliko, Ehipassiko, Opanayiko, Paccattaṁ veditabbo viññūhi.
 <details><summary>4 facets: Pariyatti, Paṭipatti, Bhāvanā, Paṭivedha</summary>
 + Scriptural (Pariyatti): Texts, structure, and tradition of preserving and transmitting the teachings.
-+ Practical Life (Paṭipatti): Daily application — Dhamma in real-world behavior, choices, and practice.
-+ Experiential / Meditative (Bhāvanā): Direct inner experience - observation and cultivation during meditation. The psychological and phenomenological layer.
++ Practical Life (Paṭipatti): Daily practial application — Dhamma in real-world behavior, choices, and practice.
++ Experiential / Meditative (Bhāvanā): Direct inner experience - observation and cultivation during meditation. The psychological and phenomenological layer -> systematic inner transformation
 + Supramundane / Transcendent (Paṭivedha):	The ultimate realization — liberation, Nibbāna, final wisdom.
 </details>
 
