@@ -1,5 +1,7 @@
-10 mins: defaut x10 3 rounds, Child pose rest 10s
-+ Frog sit, Roll backward, Glute bridges, Sit up, Kneel Push up, Plank raise hand.
-+ Horizontal Step, Bodyweight squats, Skater, Punch, Kick, Drum
-+ Wall sit, Cobra x 3r, Superman hold, Plank
+10x3:
++ Tiger -Boxing: Slow Punch > Horizontal Step > Horizontal Step Squat > Elbow to Knee > Fast Punch
++ Bear -Rolly Polly: Kneel Push up > Frog sit > Roll backward > Sit up > Low Straight kicks
++ Deer -Cobra: Cobra > Plank raise hand > Glute bridges > Superman hold > Plank
++ Monkey: Hand-edge-claw > Drum > Kick > Skater > High Kick
++ Crane: Use dumbbell 
 
