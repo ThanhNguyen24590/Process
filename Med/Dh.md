@@ -37,7 +37,29 @@ Buddha & Sangha deliberately shaped suttas to be easy to memorize, as there was 
 + Preserved through communal recitation -> Ongoing Sangha chanting
 </details>
 
+**Paṭipatti**
+<details><summary>Foundation for Conviction & Direction: Showing the rule book of kamma</summary>
   
++ Understanding **kamma**: what causes harm and what leads to well-being.
++ Avoiding bad destinations (apāya) and nurturing conditions for good -> Clear sense of purpose and direction -> Greater calm, stability, and reduced anger, greed, and confusion. Ex: five immediate benefits of mettā, including peaceful sleep and freedom from fear. (AN 5.43)
++ Gradual training: generosity → virtue → meditation → wisdom. Four Noble Truths as a **compass for the path**. Deepening insight into Truth.
++ Aligning actions with your ultimate goal.
+</details>
+<details><summary>Wide medicine for your mind</summary>
+
++ **Different meditation objects** for different mental states: Mettā for anger, Ānāpāna for restlessness, Asubha for lust or pride, Marana-sati for attachment or fear,..
++ **Right Effort**: abandoning unwholesome, cultivating wholesome states.
++ Experimentation and testing — finding what works for your temperament (*ehipassiko*).
+</details>
+<details><summary>Living Tradition & Communities</summary>
+
++ Monastic Saṅgha provides living examples of the path and discipline.
++ **Kalyāṇamitta** (spiritual friends and teachers) offer guidance and correction.
++ Lay communities support each other through generosity and shared practice.
++ Rituals like chanting, almsgiving, and group meditation build collective energy.
+</details>
+
+
 ---
   + Saddhā, vīriya, hirī, ottappa, paññā < Upasaṅkamanaṁ (visiting)< Payirupāsanā (paying respect)< Sotāvadhānaṁ (sota:ear + vadati:speak) < Dhammassavanaṁ (hearing of )< Dhammadhāraṇā (dhāra:holding/Memorize) < Atthūpaparikkhā (attha+upaparikkhā : examinate meaning) < Dhammanijjhānakkhanti (reflective acceptance)< Chando (zeal)< Ussāho (effort) < Tulanā (scrutiny)< Padhānaṁ (striving) < Dhammānudhammappaṭipatti (an10.68) (MN 70)
 ##### Paṭipatti
