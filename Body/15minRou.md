@@ -1,5 +1,5 @@
 10x3:
-+ Tiger -Boxing: Slow Punch > Horizontal Step > Horizontal Step Squat > Elbow to Knee > Fast Punch
++ Tiger -Boxing: Slow Punch > Horizontal Step-Punch > Horizontal Step Squat > Elbow to Knee > Fast Punch
 + Bear -Rolly Polly: Kneel Push up > Frog sit > Roll backward > Sit up > Low Straight kicks
 + Deer -Cobra: Cobra > Plank raise hand > Glute bridges > Superman hold > Plank
 + Monkey: Hand-edge-claw > Drum > Kick > Skater > High Kick
