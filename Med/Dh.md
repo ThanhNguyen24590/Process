@@ -26,10 +26,10 @@ Buddha & Sangha deliberately shaped suttas to be easy to memorize, as there was 
 + Preserved through communal recitation -> Ongoing Sangha chanting
 </details>
 <details>
-<summary>Rich and Varied Canonical Sources</summary>
+<summary>Rich and Varied Canonical Sources, Not Counting Tradition, Histories, Legends or Research.</summary>
 Multi-layered system ensures Dhamma is preserved in multiple forms for different needs
 
-+ Multiple canonical source & Languages: Sutta, Vinaya, Abhidhamma, Atthakathā, Ṭīkā (sub-commentaries: scholastic expansions and debates). Not even count non-canonical, traditional sources & legends.
++ Multiple canonical source & Languages: Sutta, Vinaya, Abhidhamma, Atthakathā, Ṭīkā (sub-commentaries: scholastic expansions and debates).
 + Multiple approach - Skillful means (Upāya-kosalla): The Buddha adjusted his teaching method to suit: listener’s capacity, temperament, and situation, ensures clarity for diverse audiences — from kings to ascetics, farmers to scholars.
 </details>
 <details>
