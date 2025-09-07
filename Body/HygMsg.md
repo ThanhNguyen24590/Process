@@ -1,14 +1,15 @@
-Tứ Chẩn 四診: 
+<details><summary>Tứ Chẩn 四診</summary>
+ 
 + Vọng (望): Thần sắc (da, mắt, nét mặt), Sắc diện (màu sắc da), Lưỡi (hình dạng, màu sắc, rêu lưỡi), Hình dáng cơ thể (béo, tỷ lệ cơ thể: phù nề,..), Cử động (run, yếu liệt, cứng, loạng choạng)
 + Văn (聞 – Nghe / Ngửi): Mùi hơi thở, mùi cơ thể, tiếng thở - nói, tim đập
 + Vấn (問): Chỗ nào khó chịu, chỗ nào ngứa, cảm thấy ko thông, cảm thấy nặng, thói quen xấu, bệnh ..
 + Thiết (切 –  / Bắt mạch): Sờ da (đàn hồi, lạnh-nóng, ẩm-nhớt), cơ (lỏng, ), bắt mạch.
----
-An Ma (按摩): Ấn Xoa - Tui Na (推拿): Đẩy Kéo
+</details>
+<details><summary> Nguyên Tắc cho An Ma (按摩): Ấn Xoa - Tui Na (推拿): Đẩy Kéo </summary>
+ 
 + 先表后里: Trước ngoài, sau trong. 先上后下: Trước trên, sau dưới. 先近后远: Trước gần, sau xa.
 + 先轻后重: Trước nhẹ, sau mạnh. 先慢后快: Trước chậm, sau nhanh. 由外及内: Từ ngoài vào trong.
 + 由通至補瀉: Từ thông đến bổ tả
----
 ##### Kỹ thuật xoa bóp Tui Na: 通 (Thông) → 補 (Bổ) → 瀉 (Tả) → 收 (Kết thúc)
 | Giai đoạn (漢字)      | Mục tiêu chính                   | Kỹ thuật gợi ý                                                | Đặc điểm lực                         | Tốc độ        | Phạm vi         | Ví dụ huyệt/điểm               |
 |-----------------------|----------------------------------|---------------------------------------------------------------|--------------------------------------|--------------|----------------|--------------------------------|
@@ -24,6 +25,10 @@ An Ma (按摩): Ấn Xoa - Tui Na (推拿): Đẩy Kéo
 | 2    | **補 (Bổ)**      | Day sâu Kiên Tỉnh (GB21), Phong Trì (GB20)     | 3–5 phút               | Tăng lực từ từ, giữ cảm giác “căng tức dễ chịu” |
 | 3    | **瀉 (Tả)**      | Bấm A-thị, đấm dọc hai bên cột sống, kéo giãn nhẹ | 2–4 phút               | Tránh ấn lên xương hoặc mạch máu lớn |
 | 4    | **收 (Kết thúc)**| Vuốt dài và cào nhẹ toàn vùng                 | 30–60 giây             | Đưa cơ thể về trạng thái thư giãn, ổn định |
+</details>
+
+
+
 
 ---
 #### Da đầu & Trán (頭皮與前額)
