@@ -35,34 +35,33 @@
 #### Da đầu & Trán (頭皮與前額)
 | Bước | Thao tác | Mục đích |
 |------|----------|----------|
-| 1 準  | Sát khuẩn tay, làm ấm tay, chuẩn bị dầu/tinh dầu (tay sạch, móng gọn gàng) | Đảm bảo vệ sinh, tăng hiệu quả dẫn khí và kích hoạt tuần hoàn |
-| 2 察  | Quan sát da đầu, sờ nắn, hỏi cảm giác(độ ấm, độ mềm, phản ứng đau hoặc căng) | Đánh giá tình trạng ban đầu, xác định vùng cần tập trung |
-| 3 通  | Hơ tay trên tóc, không chạm trực tiếp da đầu (tay ấm, không quá nóng, di chuyển liên tục) | Làm ấm vùng đầu, khai thông vi tuần hoàn, giảm tê cứng |
-| 4    | Xoa bóp da đầu → vuốt trán → thái dương (tránh ấn sâu vào thái dương) | Thư giãn thần kinh, khai thông lỗ chân lông |
-| 5 補  | Day → ấn khớp ngón → vỗ nhẹ vùng chẩm → thái dương → đỉnh đầu (lực vừa, tránh trượt trên tóc) | Tăng cường lưu thông máu, nuôi dưỡng nang tóc |
-| 6    | Ấn huyệt: Phong Trì (GB20) → Bách Hội (GV20) → Thái Dương (EX-HN5) → Ấn Đường (EX-HN3, giữa hai cung lông mày) | Thư giãn thần kinh, khai thông khí huyết vùng đầu mặt |
-| 7    | Xoa tròn đều khắp da đầu, từ nhẹ đến sâu (nhịp ổn định, kết hợp hít thở sâu) | Giảm căng thẳng, điều hòa hoạt động não bộ |
-| 8 瀉  | Vuốt sát chân tóc → trảo đẩy từ trán → đỉnh đầu → cổ → cúi đầu → ngửa nhẹ (theo chiều mọc tóc, không giật mạnh) | Giải tỏa ứ trệ, khai thông kinh lạc |
-| 9    | Cào nhẹ da đầu bằng đầu ngón tay (không dùng móng, tránh gây trầy xước) | Kích thích thần kinh, tăng dẫn truyền cảm giác |
-| 10   | Kéo tóc nhẹ, đều khắp vùng đầu (kéo vừa lực, không gây gãy tóc) | Tăng lưu thông máu, giải phóng căng cơ da đầu |
-| 11 察 | Kiểm tra lại da đầu: độ ấm, độ mềm, phản ứng đau hoặc căng (dừng ngay nếu có đau bất thường) | Xác định hiệu quả và phản ứng sau trị liệu |
-| 12 收 | Vuốt dài từ đỉnh đầu → trán → gáy → vai (chậm rãi, nhẹ nhàng, thư giãn tối đa) | Ổn định thần kinh, hoàn tất quy trình |
+| 1 準察 | Sát khuẩn, làm ấm tay, chuẩn bị dầu/tinh dầu | Đảm bảo vệ sinh, an toàn và đánh giá tình trạng ban đầu trước khi trị liệu |
+|       | Quan sát, sờ nắn, hỏi cảm giác (độ ấm, độ mềm, phản ứng đau, căng cơ) | |
+| 2 通   | Hơ tay trên đỉnh đầu → hơ trên tóc, không chạm trực tiếp da đầu | Làm ấm và kích hoạt vi tuần hoàn, khai thông khí huyết bề mặt |
+|       | Kéo tóc nhẹ, đều khắp đầu | |
+| 3 補   | Xoa bóp da đầu → vuốt trán → thái dương | Thư giãn thần kinh, khai thông lỗ chân lông, giảm căng thẳng |
+|       | Xoa tròn đều → cào nhẹ (không dùng móng) | |
+|       | Day, ấn khớp ngón, vỗ nhẹ | Tăng lưu thông máu, nuôi dưỡng nang tóc |
+|       | Ấn huyệt: Phong Trì (GB20) → Bách Hội (GV20) → Thái Dương (EX-HN5) → Ấn Đường (EX-HN3) | Khai thông khí huyết, thư giãn thần kinh, hỗ trợ nuôi dưỡng vùng đầu mặt |
+| 4 瀉   | Vuốt sát chân tóc → trảo đẩy từ trán → đỉnh đầu → cổ → cúi đầu → ngửa nhẹ (theo chiều mọc tóc, không giật mạnh) | Giải tỏa ứ trệ, giảm đau và căng cứng, khai thông kinh lạc |
+| 5 收察 | Vuốt dài từ đỉnh đầu → trán → gáy → vai (chậm, nhẹ, êm) | Ổn định thần kinh, kết thúc quy trình |
+|       | Kiểm tra lại: độ ấm, độ mềm, phản ứng đau hoặc căng (dừng ngay nếu có đau bất thường) | Đánh giá hiệu quả sau trị liệu |
+
 
 
 #### Mặt – Má (面部與雙頰)
 | Bước | Thao tác | Mục đích |
 |------|----------|----------|
-| 1 準  | Sát khuẩn tay, cố định tóc, chuẩn bị khăn sạch, dầu massage hoặc kem dưỡng (tay sạch, dụng cụ vô trùng) | Đảm bảo vệ sinh, chuẩn bị cho thao tác trị liệu |
+| 1 準察 | Sát khuẩn tay, cố định tóc, chuẩn bị khăn sạch, dầu/tinh dầu (tay sạch, dụng cụ vô trùng) | Đảm bảo vệ sinh, an toàn trước trị liệu |
+|       | Quan sát và sờ nắn, hỏi cảm giác: độ ẩm, độ nhờn/nhớt, độ đàn hồi, vùng mụn, căng cơ | Đánh giá toàn diện tình trạng da và cơ mặt trước (để so sánh sau) |
+|       | Quan sát quầng thâm, độ sưng quanh mắt  |Đánh giá tuần hoàn và tình trạng mệt mỏi|
 | 2 通  | Rửa mặt bằng nước ấm → mở lỗ chân lông (nhiệt độ vừa phải, tránh bỏng rát) | Làm sạch sâu, làm mềm mô da, hỗ trợ dẫn lưu |
-| 3    | Đánh giá da: độ ẩm, độ nhờn, độ đàn hồi, vùng mụn, tình trạng căng cơ (sờ nhẹ, không làm tổn thương da) | Chẩn đoán tình trạng da và cơ mặt |
-| 4 補  | Vuốt từ trán → thái dương → má → vỗ nhẹ (vuốt từ trong ra ngoài, hướng về hạch bạch huyết) | Kích thích tuần hoàn máu, tăng dẫn lưu bạch huyết |
-| 5    | Day quanh cánh mũi → gò má → vùng máu kém lưu thông (lực vừa, không kéo căng da) | Khai thông khí huyết, giảm sưng nề |
-| 6    | Tập co giãn cơ mặt: nhăn trán → cười rộng (thực hiện chậm, có kiểm soát) | Tăng trương lực cơ, cải thiện độ đàn hồi |
-| 7 瀉  | Nặn mụn → loại bỏ bã nhờn (dùng bông gạc vô trùng, không dùng móng tay) | Làm sạch tắc nghẽn, hạn chế viêm nhiễm |
-| 8    | Lau sạch mặt bằng khăn mềm hoặc bông gạc (thấm nhẹ, không chà xát mạnh) | Loại bỏ dịch tiết, làm dịu da |
-| 9 察  | Quan sát quầng thâm, độ sưng quanh mắt (không ấn mạnh vào vùng mí) | Đánh giá tuần hoàn và tình trạng mệt mỏi |
-| 10 補 | Dưỡng ẩm hoặc đắp mặt nạ làm dịu (sản phẩm phù hợp với loại da) | Hồi phục mô da, se khít lỗ chân lông |
-| 11 收 | Vuốt nhẹ từ trán → má → cằm → cổ (vuốt chậm, đều, tạo cảm giác thư giãn) | Làm dịu da, ổn định trạng thái cuối |
+| 3 補  | Vuốt từ trán → thái dương → má → cằm → cổ → vỗ nhẹ toàn mặt (từ trong ra ngoài, hướng về hạch bạch huyết) | Kích thích tuần hoàn máu, dẫn lưu bạch huyết, thư giãn cơ mặt |
+|       | Day quanh cánh mũi → gò má → vùng máu kém lưu thông → ấn huyệt: Ấn Đường (EX-HN3) → Thái Dương (EX-HN5) → Nghinh Hương (LI20) → Quyền Liêu (SI18) | Khai thông khí huyết, giảm sưng nề, thông tỵ khiếu |
+|       | Tập co giãn cơ mặt: nhăn trán → cười rộng (thực hiện chậm, có kiểm soát) | Tăng trương lực cơ, cải thiện độ đàn hồi |
+| 4 瀉  | Nặn mụn, loại bỏ bã nhờn (bông gạc vô trùng, không dùng móng tay) → lau sạch mặt bằng khăn mềm hoặc bông gạc (thấm nhẹ, không chà xát mạnh) | Làm sạch tắc nghẽn, hạn chế viêm, làm dịu da |
+| 5 收  | Vuốt nhẹ từ trán → thái dương → má → cằm → cổ (chậm, đều, lực nhẹ) | Hồi phục, khóa ẩm, làm dịu da, ổn định trạng thái cuối |
+||Dưỡng ẩm hoặc đắp mặt nạ làm dịu (sản phẩm phù hợp loại da)||
 
 
 
