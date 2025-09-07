@@ -10,7 +10,7 @@
 + 先表后里: Trước ngoài, sau trong. 先上后下: Trước trên, sau dưới. 先近后远: Trước gần, sau xa.
 + 先轻后重: Trước nhẹ, sau mạnh. 先慢后快: Trước chậm, sau nhanh. 由外及内: Từ ngoài vào trong.
 + 由通至補瀉: Từ thông đến bổ tả
-##### Kỹ thuật xoa bóp Tui Na: 察 (Sát) → 通 (Thông) → 補 (Bổ) → 瀉 (Tả) → 收 (Thu: Kết thúc)
+##### Kỹ thuật xoa bóp Tui Na: 準 (Chuẩn: Chuẩn bị) → 察 (Sát) → 通 (Thông) → 補 (Bổ) → 瀉 (Tả) → 收 (Thu: Kết thúc)
  
 | Giai đoạn (漢字) | Mục tiêu chính                   | Kỹ thuật gợi ý                                               | Đặc điểm lực                         | Tốc độ        | Phạm vi         | Ví dụ huyệt/điểm               |
 |------------------|----------------------------------|--------------------------------------------------------------|--------------------------------------|--------------|----------------|--------------------------------|
