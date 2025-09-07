@@ -1,7 +1,29 @@
-+ Lực: Knead Anap, đấm ; Nhiệt: Xoa, Vuốt ; Thanh: Cào, Gõ, vỗ ; Thông: Nhéo, Kéo, Bóp
-+ Nội cảm: blocked, weight, Discomfort ?
-+ Ngoại cảm: Discomfort ? Itchy? Visual cue (color, shape,..), smell, touch Texture (flaccid, Sticky), Temp (Cold), tension, stretchiness
-+ Quán: khí huyết lưu thông. cơ, nội tạng.
+Tứ Chẩn 四診: 
++ Vọng (望): Thần sắc (da, mắt, nét mặt), Sắc diện (màu sắc da), Lưỡi (hình dạng, màu sắc, rêu lưỡi), Hình dáng cơ thể (béo, tỷ lệ cơ thể: phù nề,..), Cử động (run, yếu liệt, cứng, loạng choạng)
++ Văn (聞 – Nghe / Ngửi): Mùi hơi thở, mùi cơ thể, tiếng thở - nói, tim đập
++ Vấn (問): Chỗ nào khó chịu, chỗ nào ngứa, cảm thấy ko thông, cảm thấy nặng, thói quen xấu, bệnh ..
++ Thiết (切 –  / Bắt mạch): Sờ da (đàn hồi, lạnh-nóng, ẩm-nhớt), cơ (lỏng, ), bắt mạch.
+An Ma (按摩): Ấn Xoa - Tui Na (推拿): Đẩy Kéo
++ 先表后里: Trước ngoài, sau trong. 先上后下: Trước trên, sau dưới. 先近后远: Trước gần, sau xa.
++ 先轻后重: Trước nhẹ, sau mạnh. 先慢后快: Trước chậm, sau nhanh. 由外及内: Từ ngoài vào trong.
++ 由通至補瀉: Từ thông đến bổ tả
+#### Kỹ thuật xoa bóp Tui Na: 通 (Thông) → 補 (Bổ) → 瀉 (Tả) → 收 (Kết thúc)
+
+| Giai đoạn (漢字)      | Mục tiêu chính                   | Kỹ thuật gợi ý                                                | Đặc điểm lực                         | Tốc độ        | Phạm vi         | Ví dụ huyệt/điểm               |
+|-----------------------|----------------------------------|---------------------------------------------------------------|--------------------------------------|--------------|----------------|--------------------------------|
+| **通 (Thông)**        | Khai thông khí huyết, làm ấm     | **Xoa (摩)**, **Vuốt (推)**, **Miết (擠)**, **Day nông (按)**  | Nhẹ – vừa, liên tục, đều             | Chậm         | Rộng           | Làm nóng vùng, vuốt dọc kinh lạc |
+| **補 (Bổ)**           | Nuôi dưỡng phần hư, phục hồi     | **Day sâu chậm (按)**, **Ấn giữ**, **Miết theo kinh (擠)**      | Vừa – sâu, tăng dần, êm              | Chậm         | Vừa            | Phong Trì (GB20), Kiên Tỉnh (GB21), Túc Tam Lý (ST36) |
+| **瀉 (Tả)**           | Giải ứ trệ, tiêu thực tà, giảm đau | **Bấm A-thị huyệt (阿是穴)**, **Đấm (捶)**, **Vỗ (拍)**, **Kéo giãn (牽引)**, **Cào (抓)** | Mạnh, dứt khoát, ngắt quãng hoặc kéo giãn đều | Nhanh – trung bình | Hẹp hoặc chuyên biệt | A-thị điểm, Hợp Cốc (LI4), Khúc Trì (LI11), Hoàn Khiêu (GB30) |
+| **收 (Kết thúc)**     | Thư giãn, ổn định thần kinh      | **Vuốt dài (撫)**, **Cào nhẹ (抓)**, **Xoa vòng (摩)**         | Nhẹ, êm dịu, đều đặn                  | Chậm         | Rộng           | Vuốt từ trung tâm ra ngoài, kết thúc vùng trị liệu |
+###### Quy trình mẫu: Vai – Gáy
+| Bước | Giai đoạn (漢字) | Thao tác chính                                | Thời lượng (tham khảo) | Ghi chú an toàn |
+|------|------------------|-----------------------------------------------|------------------------|-----------------|
+| 1    | **通 (Thông)**   | Xoa, vuốt, miết làm nóng toàn bộ vùng vai – gáy | 2–4 phút               | Dùng dầu/balm để tránh ma sát gây rát |
+| 2    | **補 (Bổ)**      | Day sâu Kiên Tỉnh (GB21), Phong Trì (GB20)     | 3–5 phút               | Tăng lực từ từ, giữ cảm giác “căng tức dễ chịu” |
+| 3    | **瀉 (Tả)**      | Bấm A-thị, đấm dọc hai bên cột sống, kéo giãn nhẹ | 2–4 phút               | Tránh ấn lên xương hoặc mạch máu lớn |
+| 4    | **收 (Kết thúc)**| Vuốt dài và cào nhẹ toàn vùng                 | 30–60 giây             | Đưa cơ thể về trạng thái thư giãn, ổn định |
+
+
 ---
 + Da đầu & Trán: Ngứa, Nóng, Trơ?
   + Hơ tay vừa đỉnh tóc xoa/vuốt nhẹ > Xoa tóc + trán-thái dương > Knead- knuckle-vỗ Anap > Msg Brain
