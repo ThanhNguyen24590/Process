@@ -30,25 +30,19 @@
 | 4    | **收 (Kết thúc)**| Vuốt dài và cào nhẹ toàn vùng                 | 30–60 giây             | Đưa cơ thể về trạng thái thư giãn, ổn định |
 </details>
 
-
 ---
-#### Da đầu & Trán (頭皮與前額)
-| Bước | Thao tác | Mục đích |
-|------|----------|----------|
-| 準察 | Sát khuẩn, làm ấm tay, chuẩn bị dầu/tinh dầu | Đảm bảo vệ sinh, an toàn và đánh giá tình trạng ban đầu trước khi trị liệu |
-|    | Quan sát, sờ nắn, hỏi cảm giác (độ ấm, độ mềm, phản ứng đau, căng cơ) | |
-| 通 | Hơ tay trên đỉnh đầu → hơ trên tóc, không chạm trực tiếp da đầu | Làm ấm và kích hoạt vi tuần hoàn, khai thông khí huyết bề mặt |
-|    | Kéo tóc nhẹ đều khắp đầu | |
-| 補 | Cào nhẹ xoay tròn đều (không dùng móng) | Thư giãn thần kinh, giảm căng thẳng |
-|    | Bóp nhẹ da đầu - chân tóc, trán, gáy | |
-|    | Miết theo chân tóc ||
-| | Vuốt dài từ đỉnh đầu → trán → gáy → vai (chậm, nhẹ, êm)||
-|    | Day, Miết huyệt: Phong Trì (GB20) → Bách Hội (GV20) → Thái Dương (EX-HN5) → Ấn Đường (EX-HN3)| Khai thông khí huyết |
-|    | Day, ấn khớp ngón, vỗ nhẹ | Tăng lưu thông máu |
-|    |   |  |
-| 瀉 | Trảo đẩy từ trán → đỉnh đầu → cổ → cúi đầu → ngửa nhẹ (theo chiều mọc tóc, không giật mạnh) | Giải tỏa ứ trệ, giảm đau và căng cứng, khai thông kinh lạc |
-| 收察 | Kiểm tra lại: độ ấm, độ mềm, phản ứng đau hoặc căng (dừng ngay nếu có đau bất thường)| Đánh giá hiệu quả sau trị liệu |
-
+#### Da đầu, Trán, Ót & Cổ Sau
++ **準** : Sát khuẩn, làm ấm tay, chuẩn bị dầu/tinh dầu; Đảm bảo vệ sinh, an toàn và đánh giá tình trạng ban đầu trước khi trị liệu.
++ 察: Quan sát, sờ nắn, hỏi cảm giác (độ ấm, độ mềm, phản ứng đau, căng cơ)
++ 通: Hơ tay trên đỉnh đầu → hơ trên tóc, không chạm trực tiếp da đầu; Làm ấm và kích hoạt vi tuần hoàn, khai thông khí huyết bề mặt
+  + Kéo tóc nhẹ đều khắp đầu
++ 補: Cào nhẹ xoay tròn đều (không dùng móng) giảm căng thẳng
+  + Bóp nhẹ da đầu - chân tóc, trán, gáy + Miết theo chân tóc
+  + Vuốt dài từ đỉnh đầu → trán → gáy → vai (chậm, nhẹ, êm)
+  + Day, Miết huyệt: Phong Trì (GB20) → Bách Hội (GV20) → Thái Dương (EX-HN5) → Ấn Đường (EX-HN3)| Khai thông khí huyết
+  + Day, ấn khớp ngón, vỗ nhẹ
++ 瀉: Trảo đẩy từ trán → đỉnh đầu → cổ → cúi đầu → ngửa nhẹ (theo chiều mọc tóc, không giật mạnh); Giải tỏa ứ trệ, giảm đau và căng cứng, khai thông kinh lạc
++ 收: Kiểm tra lại: độ ấm, độ mềm, phản ứng đau hoặc căng (dừng ngay nếu có đau bất thường); Đánh giá hiệu quả trị liệu
 
 #### Mặt – Má (面部與雙頰)
 | Bước | Thao tác | Mục đích |
