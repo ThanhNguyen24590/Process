@@ -41,6 +41,7 @@
   + Bóp nhẹ da đầu - chân tóc, trán, gáy + Miết theo chân tóc
   + Vuốt dài từ đỉnh đầu → trán → gáy → vai (chậm, nhẹ, êm)
   + Day, Miết huyệt: Phong Trì (GB20) → Bách Hội (GV20) → Thái Dương (EX-HN5) → Ấn Đường (EX-HN3)| Khai thông khí huyết
+  + Suất Cốc (GB8) → Hạ Quan (ST7)
   + Day, ấn khớp ngón, Vỗ nhẹ đầu-sau đầu nối cổ
 + 瀉: Trảo đẩy từ trán → đỉnh đầu → cổ → cúi đầu → ngửa nhẹ (theo chiều mọc tóc, không giật mạnh); Giải tỏa ứ trệ, giảm đau và căng cứng, khai thông kinh lạc
 + 收: Kiểm tra lại: độ ấm, độ mềm, phản ứng đau hoặc căng (dừng ngay nếu có đau bất thường); Đánh giá hiệu quả trị liệu
@@ -55,14 +56,24 @@
   - Day quanh cánh mũi → gò má → vùng máu kém lưu thông
   - Ấn huyệt: Ấn Đường (EX-HN3) → Thái Dương (EX-HN5) → Nghinh Hương (LI20) → Quyền Liêu (SI18)  → Khai thông khí huyết, giảm sưng nề, thông tỵ khiếu.
   - Tập co giãn cơ mặt: nhăn trán → cười rộng (thực hiện chậm, có kiểm soát)  → Tăng trương lực cơ, cải thiện độ đàn hồi.
-+ **瀉**: Vuốt nhẹ từ **trán → thái dương → má → cằm → cổ (chậm, đều, lực nhẹ) 
++ **瀉**: Vuốt nhẹ từ trán → thái dương → má → cằm → cổ (chậm, đều, lực nhẹ) 
 + **收**: Dưỡng ẩm hoặc đắp mặt nạ làm dịu
 
-##### 2 Mắt:  
-Mặt ngoài nhãn cầu khô hay ướt ? | áp lực sau nhãn cầu | pulse từ Anap hay tim > Nhỏ mắt
-+ Xoa/niết xung quanh xương hốc mắt bằng đầu ngón tay. > Nhấn nhẹ mí mắt + mắt bằng đầu ngón tay. 
-+ Xoa tay ấm > úp bàn tay lên mắt. | Xoay mắt + Liếc nhìn sang bên.
-+ Nhìn chỗ xa + ánh sáng mặt trời: Nhìn bầu trời 10s. Cảm điều chỉnh độ sáng.
+#### Mắt 
++ **準**: Nhỏ mắt.
++ **察**: Quan sát tình trạng mắt: Mặt ngoài nhãn cầu khô hay ướt, đỏ, mờ.  
+  - Cảm nhận áp lực sau nhãn cầu, xung động từ tim hoặc động mạch cảnh.    
++ **通**: Xoa tay ấm → Úp lòng bàn tay lên mắt, giữ nhẹ 10–15 giây, truyền nhiệt, hít thở sâu. 
+  - Vuốt nhẹ xung quanh xương hốc mắt bằng đầu ngón tay (chậm, đều, không đè mạnh).  
+  - Xoay nhãn cầu: nhìn vòng tròn theo chiều kim đồng hồ → ngược chiều (5–10 lần mỗi chiều).  
+  - Liếc mắt sang các hướng: trái, phải, lên, xuống.  
++ **補**: Nhấn nhẹ mí mắt và nhãn cầu (rất nhẹ, không gây đau).  
+  - Vuốt từ khóe mắt trong → đuôi mắt → thái dương → Tăng lưu thông khí huyết, giảm mỏi mắt.  
+  - Nhìn xa bầu trời hoặc vật xa trong 10 giây → Nhắm mắt thư giãn → Điều chỉnh thích ứng ánh sáng.  
++ **瀉**: Niết quanh xương hốc mắt, di chuyển chậm, tập trung vùng căng hoặc đau.  
+  - Miết nhẹ từ sống mũi → cung mày → thái dương, kết hợp hít thở sâu.  
++ **收**: Nhìn dần ra xa + Chớp mắt nhẹ nhàng nhiều lần để kích hoạt tuyến lệ và tăng độ ẩm tự nhiên.
+    
 ##### 2 Tai: Cảm vòi nhĩ air/Anap 
 + Ấp bàn tay vào tai + gõ ngón + hum +
 + Vuốt kéo dái tai > Xoa ghờ tai
