@@ -10,8 +10,9 @@
 + 先表后里: Trước ngoài, sau trong. 先上后下: Trước trên, sau dưới. 先近后远: Trước gần, sau xa.
 + 先轻后重: Trước nhẹ, sau mạnh. 先慢后快: Trước chậm, sau nhanh. 由外及内: Từ ngoài vào trong.
 + 由通至補瀉: Từ thông đến bổ tả
-##### Kỹ thuật xoa bóp Tui Na: 準 (Chuẩn: Chuẩn bị) → 察 (Sát) → 通 (Thông) → 補 (Bổ) → 瀉 (Tả) → 收 (Thu: Kết thúc)
- 
+</details>
+<details><summary>Quy trình Tui Na: 準 (Chuẩn: Chuẩn bị) → 察 (Sát) → 通 (Thông) → 補 (Bổ) → 瀉 (Tả) → 收 (Thu: Kết thúc)</summary>
+
 | Giai đoạn (漢字) | Mục tiêu chính                   | Kỹ thuật gợi ý                                               | Đặc điểm lực                         | Tốc độ        | Phạm vi         | Ví dụ huyệt/điểm               |
 |------------------|----------------------------------|--------------------------------------------------------------|--------------------------------------|--------------|----------------|--------------------------------|
 | 察 (Sát)         | Quan sát, xem xét, kiểm chứng    | Quan sát, sờ nắn, hỏi bệnh nhân, đánh giá trước và sau liệu trình | Rất nhẹ, tập trung cảm nhận           | Chậm         | Toàn vùng       | Độ ấm, độ mềm, phản ứng đau, sắc mặt |
@@ -28,8 +29,8 @@
 | 2    | **補 (Bổ)**      | Day sâu Kiên Tỉnh (GB21), Phong Trì (GB20)     | 3–5 phút               | Tăng lực từ từ, giữ cảm giác “căng tức dễ chịu” |
 | 3    | **瀉 (Tả)**      | Bấm A-thị, đấm dọc hai bên cột sống, kéo giãn nhẹ | 2–4 phút               | Tránh ấn lên xương hoặc mạch máu lớn |
 | 4    | **收 (Kết thúc)**| Vuốt dài và cào nhẹ toàn vùng                 | 30–60 giây             | Đưa cơ thể về trạng thái thư giãn, ổn định |
-</details>
-
+ </details>
+ 
 ---
 #### Da đầu, Trán, Ót & Cổ Sau
 + **準** : Sát khuẩn, làm ấm tay, chuẩn bị dầu/tinh dầu; Đảm bảo vệ sinh, an toàn và đánh giá tình trạng ban đầu trước khi trị liệu.
