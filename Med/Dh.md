@@ -39,7 +39,12 @@ the Dhamma they point to remains ever-present.The Buddha did not create the Dham
 - **Bhāvanā – Cultivate & Test:** Encourages moving from theory to practice and direct experience, turning your life into a living experiment where results can be tested immediately. As practice reveals what truly works, false claims and distortions're exposed, misunderstandings naturally self-correct.
 - **Passanā – See:** With steady practice, direct insight (cattāri ariya-saccā, paṭiccasamuppāda,..) are directly seen & move beyond mere concepts.
 - **Paṭivedha – Realize:**  The culmination is unshakable personal verification of liberation, a direct knowing that goes beyond speculation, belief, or external authority.
-  
+#### Opanayiko – Leading Inward
+- **Direction:** The path leads the mind away from external entanglements towards inward freedom, dealing with the real problem of dukkha, which arises from the mind itself, driven by the three poisons and the five hindrances.
+- **Force:** Similar to kite-flying, the initial force comes from your effort, but the primary momentum comes from the mind’s natural inclination towards its nourishment — whether that is joy, truth, or freedom.
+- **Path:** Unfolds gradually, steadily, and sustainably. It is clear with the progress, layer by layer, through the Atthangika-Magga (Sīla, Samādhi, and Paññā), with each element reinforcing the others.
+- **Correction:** Inherent feedback mechanism that naturally corrects itself through direct experience, guiding the practitioner back toward the right course when missteps occur.
+
 ---
 **Paṭipatti**
 <details><summary>Foundation for Conviction & Direction: Showing the rule book of kamma</summary>
