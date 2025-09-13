@@ -7,35 +7,13 @@ Svākkhāto bhagavatā dhammo, Sandiṭṭhiko, Akāliko, Ehipassiko, Opanayiko,
 </details>
 
 #### Svākkhāto bhagavatā dhammo
-**Pariyatti**
-<details><summary>Complete and Comprehensive Teaching</summary>
-covers everything necessary for liberation. “Just as the great ocean has but one taste — the taste of salt — so too this Dhamma and Discipline has but one taste — the taste of liberation.” (AN 8.19)
-
-+ Nothing lacking: Addresses the entire path — from ordinary life (ethics) to profound meditative insight and final liberation. Includes teachings for laypeople, monastics, beginners, and advanced practitioners.
-+ Nothing extra: Contains no useless speculation, no irrelevant doctrines, only what is directly beneficial to ending suffering.
-+ Internally coherent and consistent: Terms are carefully defined, avoiding ambiguity. No contradiction across suttas and Vinaya rules. Commentarial tradition ensures deeper explanation and resolution of apparent contradictions. Example: Visuddhimagga elaborates on meditation terms and stages to keep interpretation consistent across traditions.
-</details>
-<details><summary>Designed to Be Gradual and Accessible</summary>
-The teachings' structure helps progress step-by-step.
-
-+ Start simple, deepen later: Begin with generosity and ethical conduct -> Move to meditation and insight when ready.
-+ Gradual training (anupubbasikkhā): Each step is fully developed before the next is taught. Prevents confusion and overwhelm. Standard sequence of teaching: Generosity (dāna) → Virtue (sīla) → Heaven (sagga) → Drawback of sensual pleasures → Renunciation → Four Noble Truths
-+ Encourages dialogue and questioning rather than blind obedience.
-</details>
-<details><summary>Rich and Varied Canonical Sources, Not Counting Tradition, Histories, Legends or Research.</summary>
-Multi-layered system ensures Dhamma is preserved in multiple forms for different needs
-
-+ Multiple canonical source & Languages: Sutta, Vinaya, Abhidhamma, Atthakathā, Ṭīkā (sub-commentaries: scholastic expansions and debates).
-+ Multiple approach - Skillful means (Upāya-kosalla): The Buddha adjusted his teaching method to suit: listener’s capacity, temperament, and situation, ensures clarity for diverse audiences — from kings to ascetics, farmers to scholars.
-</details>
-<details><summary>Crafted for Memorization and Oral Transmission, Built To Endure</summary>
-Buddha & Sangha deliberately shaped suttas to be easy to memorize, as there was no writing during his time. It is maintained by collective chanting and councils, making the scriptures a living tradition.
-
-+ Repetition and formulaic patterns, acting like a “template” -> reinforces memory: gradual training sequence (generosity → virtue → concentration → wisdom), ..
-+ Rhythmic phrasing: natural chanting rhythm, easier to recite in groups, like poetry or song.
-+ Use of lists and numbered sets -> aid recall and teaching.: Four Noble Truths, Five Aggregates, Eightfold Path, etc.
-+ Preserved through communal recitation -> Ongoing Sangha chanting
-</details>
++ Clarity of Goal: Buddha clearly defined what's truly Dhamma and what's not based on the results 
++ Clarity of Thematic Structure: The teachings follow a gradual pedagogical progression (anupubbasikkhā): generosity → virtue → concentration → wisdom → liberation.
++ Integrity of Transmission: carefully crafted, preserved, explained through an unbroken lineage, ensuring they remain accessible and authentic:
+  + Buddha adapted teachings for individuals and communities, using repetition, numbered lists, and rhythmic phrasing to support memorization and reflection.
+  + The early Saṅgha organized and recited the teachings collectively at councils to maintain precision and clarity.
+  + Generations of practitioners safeguarded the oral tradition until modern times, when translations and texts made the Dhamma available worldwide. There are sutta chanting to this day.
++ Self-Verifying Nature: Dhamma can be confirmed through direct experience and practice, allowing practitioners to see its truth for themselves at each stage.
 
 **Paṭipatti**
 <details><summary>Foundation for Conviction & Direction: Showing the rule book of kamma</summary>
