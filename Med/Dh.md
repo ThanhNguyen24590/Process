@@ -45,7 +45,7 @@ Buddha & Sangha deliberately shaped suttas to be easy to memorize, as there was 
 + Gradual training: generosity → virtue → meditation → wisdom. Four Noble Truths as a **compass for the path**. Deepening insight into Truth.
 + Aligning actions with your ultimate goal.
 </details>
-<details><summary>Wide medicine for your mind</summary>
+<details><summary>Wide array of medicine for your mind</summary>
 
 + **Different meditation objects** for different mental states: Mettā for anger, Ānāpāna for restlessness, Asubha for lust or pride, Marana-sati for attachment or fear,..
 + **Right Effort**: abandoning unwholesome, cultivating wholesome states.
