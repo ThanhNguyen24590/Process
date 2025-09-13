@@ -14,7 +14,33 @@ Svākkhāto bhagavatā dhammo, Sandiṭṭhiko, Akāliko, Ehipassiko, Opanayiko,
   + The early Saṅgha organized and recited the teachings collectively at councils to maintain precision and clarity.
   + Generations of practitioners safeguarded the oral tradition until modern times, when translations and texts made the Dhamma available worldwide. There are sutta chanting to this day.
 + Self-Verifying Nature: Dhamma can be confirmed through direct experience and practice, allowing practitioners to see its truth for themselves at each stage.
+  
+#### Sandiṭṭhiko
+- Accessible Anytime, Anywhere, by Anyone: The Dhamma is a training of the mind, not bound by place, culture, or era.
+- Immediate Benefits: The fruits of practice can be felt right away, even with the smallest effort.
+  - A single moment of mindful breathing (ānāpānasati) can bring clarity and calm.
+  - Practice brings joy and groundedness, marking real progress in letting go.
+- See and Know for Yourself: The Dhamma is to be personally confirmed through direct observation of body, mind, and practice.
+  - Move beyond labels like “body” or “mind” to directly see raw phenomena as they are.
+  - Witness causality unfolding in real time, seeing dependent co-arising directly.
+- Progressive Verification and Deepening: can be verified at any stage; early results encourage continued practice, and sustained practice deepens and broadens what can directly see and know.
+  - Small, immediate confirmations (calm, insight, reduced reactivity) validate further training.
+  - Continued practice uncovers subtler truths (insight, jhānic stability, deeper release).
 
+#### Akāliko
++ Unbroken Living Lineage and Verification Across Generations
++ Timeless Truth: its root not in culture, dogmas, philosophy but universal principles. Even if no Buddha appears, these truths still exist, waiting to be rediscovered.[AN 3.136](https://suttacentral.net/an3.136/en/sujato) 
++ Unchanging Reality Beyond Words: The teachings are expressions of this reality, but even if the texts are lost,
+the Dhamma they point to remains ever-present.The Buddha did not create the Dhamma; he discovered and revealed it.
++ Direct Contact with the Timeless: Through deep meditation (samādhi, jhāna, arūpa-jhāna, and Nibbāna) one can personally experience the timeless reality, beyond the flow of past, present, and future.
+#### Ehipassiko
+- **Savana – Listen:** Openly invitate for anyone willing to hear the Dhamma, where even a single verse can plant the seed of understanding and inspiration.
+- **Cintā – Reflect:** Encourage thoughtful investigation, weighing the teachings against personal experience and reasoning, with doubt's transformed into inquiry, leading to clarity and protection against dogma or misunderstanding.
+- **Bhāvanā – Cultivate & Test:** Encourages moving from theory to practice and direct experience, turning your life into a living experiment where results can be tested immediately. As practice reveals what truly works, false claims and distortions're exposed, misunderstandings naturally self-correct.
+- **Passanā – See:** With steady practice, direct insight (cattāri ariya-saccā, paṭiccasamuppāda,..) are directly seen & move beyond mere concepts.
+- **Paṭivedha – Realize:**  The culmination is unshakable personal verification of liberation, a direct knowing that goes beyond speculation, belief, or external authority.
+  
+---
 **Paṭipatti**
 <details><summary>Foundation for Conviction & Direction: Showing the rule book of kamma</summary>
   
@@ -53,8 +79,7 @@ The Eightfold Path perfectly leads to Nibbāna when practiced fully.
 + Chattiṁsa (thirtySix) sattapadā (positions) veditabbā (should be understood) : Cha (six) gehasitaṁ (layperson) somanassaṁ (joy: gain of sense world), Cha gehasitāni domanassāni (distress-sadness: loss of senses world), Cha gehasitā upekkhā(not overcome/transcend sense world) < Cha nekkhammasitāni (renunciate)  domanassāni (panna of anicca, loss of sense pleasure, yearn for anuttaresu vimokkha:supreme liberation) < Cha nekkhammasitaṁ somanassaṁ (joy of anicca panna) < Cha nekkhammasitā upekkhā(panna of anicca, overcome/transcend sense world)(MN 137)
 + anavajjasukhaṁ < abyāsekasukhaṁ (silakhanda) < vivicceva kāmehi vivicca akusalehi dhammehi savitakkaṁ savicāraṁ vivekajaṁ pītisukhaṁ paṭhamaṁ jhānaṁ < vitakkavicārānaṁ vūpasamā ajjhattaṁ sampasādanaṁ cetaso ekodibhāvaṁ avitakkaṁ avicāraṁ samādhijaṁ pītisukhaṁ dutiyaṁ jhānaṁ < pītiyā ca virāgā upekkhako ca viharati sato ca sampajāno, sukhañca kāyena paṭisaṁvedeti. Yaṁ taṁ ariyā ācikkhanti: ‘upekkhako satimā sukhavihārī’ti tatiyaṁ jhānaṁ < sukhassa ca pahānā dukkhassa ca pahānā, pubbeva somanassadomanassānaṁ atthaṅgamā, adukkhamasukhaṁ upekkhāsatipārisuddhiṁ catutthaṁ jhānaṁ < anāsavā sukhā (MN101)
 ---
-#### Sandiṭṭhiko
-> *The results of practice can be seen directly in this very life.*
+
 
 ##### Pariyatti
 The suttas record many who experienced profound transformation immediately upon hearing the Dhamma.
@@ -83,14 +108,6 @@ Liberation arises the very moment wisdom penetrates the Four Noble Truths.
 + By time: the practice is immediate, sati every moment, not seperate by time.
 + By time: the result is also immediate, even with small thing like mood change, being focus,....
 ### Ehipassiko
-##### Pariyatti
-The Buddha encouraged inquiry and testing rather than blind belief.
-##### Paṭipatti
-Trying small practices like mindfulness of breathing or kindness shows tangible effects.
-##### Bhāvanā
-Progressively seeing for oneself leads to confidence and faith based on direct evidence.
-##### Paṭivedha
-By following the path fully, one personally verifies the highest truths beyond doubt.
 
 + Worthy of inspection, contemplation & research
 + Open hand: No secret teaching.
