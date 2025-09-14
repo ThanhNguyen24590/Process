@@ -43,7 +43,7 @@ Svākkhāto bhagavatā dhammo, Sandiṭṭhiko, Akāliko, Ehipassiko, Opanayiko,
 + One End: Endless samsara as multi-verse, manifest this reality.
 + Other End: Nibbāna & The path lead to it, always be existing, althought hidden. [AN 3.136](https://suttacentral.net/an3.136/en/sujato) 
 + This **limited** life can be make infinite by the Path of Ariay Sacca
-+ **Direct Contact** with the Timeless beyond the flow of past, present, and future. This is the singularity in chaos system, the Refuge..
++ **Direct Contact** with the Timeless beyond time & space. This's the singularity in chaos system, the Refuge.
   - By deep meditation (samādhi, jhāna, arūpa-jhāna, and Nibbāna)
   - By direct realization, immediately upon hearing the Dhamma.
 
