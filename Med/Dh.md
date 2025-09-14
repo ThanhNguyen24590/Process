@@ -23,7 +23,7 @@ Svākkhāto bhagavatā dhammo, Sandiṭṭhiko, Akāliko, Ehipassiko, Opanayiko,
 #### Svākkhāto bhagavatā dhammo
 + **Goal & Boundary:** clearly defined by Buddha -> make clear what your daily choice is Dhamma or not, with no room for confusion or deceit.
 + **Concept:** clearly defined through definition, example, counter-example, from multiple approach and how to verified, with action's steps detailed. Ex: jhana, how to deal with bad thoughs,...
-+ **Thematic Structure:** clearly show what causes harm, what's long-term benefits & the actions to reach them accordingly, follow gradual pedagogical progression (anupubbasikkhā), making foundation for Conviction & Practice Direction.
++ **Anupubbasikkhā:** clearly show what causes harm, what's long-term benefits & the actions to reach them accordingly, making foundation for Conviction & Direction.
   + Multiple approach of same path: Atthangika-Magga (sila, samadhi, panna), sattapadā (MN 137) , deepening of sukhaṁ (in MN101: anavajja), action (an10.68)..
   + Test & finding what works for your temperament, using the wide array of medicine-Kammaṭṭhāna & theme for moment-to-moment state-of-mind. 
 + **Transmission:** carefully crafted, preserved, explained through unbroken lineage, ensuring them accessible and authentic:
