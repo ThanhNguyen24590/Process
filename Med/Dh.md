@@ -50,9 +50,9 @@ Svākkhāto bhagavatā dhammo, Sandiṭṭhiko, Akāliko, Ehipassiko, Opanayiko,
 
 #### Ehipassiko
 - Announcement to the world, open invitation to all who has ear. This is what need to be seen, need to be seek. [MN 26](https://suttacentral.net/mn26/en/sujato?lang=en) Even you have doubts, there is unfalling practice to be take. [MN 60](https://suttacentral.net/mn60/en/sujato?lang=en)
-- How do you see yourself & How does it measured against your experiences & reality? [MN 39](https://suttacentral.net/mn39/en/sujato?lang=en), [MN 40](https://suttacentral.net/mn40/en/sujato?lang=en)
-- Dhamma's Reputation & Yours (https://suttacentral.net/mn3/en/sujato?lang=en)
 - Dhammacetiyā [MN 89](https://suttacentral.net/mn89/en/sujato?lang=en)
+- Dhamma's Reputation & Yours [MN 3](https://suttacentral.net/mn3/en/sujato?lang=en)
+- How do you see yourself? How does it measured against your experiences & reality? [MN 39](https://suttacentral.net/mn39/en/sujato?lang=en), [MN 40](https://suttacentral.net/mn40/en/sujato?lang=en)
 
 #### Opanayiko – Leading Inward
 - **Direction:** leads the mind away from external entanglements towards inward freedom, align your actions to deal with dukkha.
