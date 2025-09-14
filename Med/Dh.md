@@ -40,13 +40,12 @@ Svākkhāto bhagavatā dhammo, Sandiṭṭhiko, Akāliko, Ehipassiko, Opanayiko,
   - Life: Give sense of purpose, direction, confirmation about the Transcendence, against confusion & Mara. Ex: mettā (AN 5.43) 
 
 #### Akāliko
-+ Unbroken Living Lineage and Verification Across Generations
-+ **Timeless Truth:** its root not in culture, dogmas, philosophy but universal principles. Even if no Buddha appears, these truths still exist, waiting to be rediscovered.[AN 3.136](https://suttacentral.net/an3.136/en/sujato) 
-+ **Unchanging Reality Beyond Words:** The teachings are expressions of this reality, but even if the texts are lost,
-the Dhamma they point to remains ever-present.The Buddha did not create the Dhamma; he discovered and revealed it.
-+ **Direct Contact with the Timeless:** Through let go one can personally experience the timeless reality, beyond the flow of past, present, and future.
-  - Let go by deep meditation (samādhi, jhāna, arūpa-jhāna, and Nibbāna)
-  - Let go by direct realization, immediately upon hearing the Dhamma.
++ One End: Endless samsara as multi-verse, manifest this reality.
++ Other End: Nibbāna & The path lead to it, always be existing, althought hidden. [AN 3.136](https://suttacentral.net/an3.136/en/sujato) 
++ This **limited** life can be make infinite by the Path of Ariay Sacca
++ **Direct Contact** with the Timeless beyond the flow of past, present, and future. This is the singularity in chaos system, the Refuge..
+  - By deep meditation (samādhi, jhāna, arūpa-jhāna, and Nibbāna)
+  - By direct realization, immediately upon hearing the Dhamma.
 
 #### Ehipassiko
 - **Savana – Listen:** Dhamma-cakkhu is worthy of being seen, inviting all who willing to hear the Dhamma.
