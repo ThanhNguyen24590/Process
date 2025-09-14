@@ -38,12 +38,13 @@
 + 察: Tìm tóc bạc, hỏi cảm giác (độ ấm, độ mềm, phản ứng đau, căng thẳng)
 + 通: Hơ tay xoay nhẹ trên tóc-đỉnh đầu, không chạm trực tiếp da → Kéo tóc nhẹ kích hoạt vi tuần hoàn.
   + Cào xoay nhẹ (không dùng móng) giảm căng thẳng
+  + Vuốt sau 
 + 補: Bóp nhẹ & Thở sâu → Vuốt chậm, nhẹ, êm, dài từ đỉnh đầu → trán → gáy → vai
   + Bóp nhẹ da đầu, trán + Ngón cái miết theo chân tóc
   + Trảo/Vuốt nhẹ, đẩy từ trán → đỉnh đầu → cổ → cúi đầu, sau đó ngửa nhẹ
   + Bóp nhẹ sau cổ và vai.
   + Day đầu ngón tay tìm huyệt & miết: Phong Trì, Ấn Đường, Suất Cốc,.. giải ứ trệ, thông khí huyết, giảm sưng nề → tìm kinh mạch lưu thông.
-+ 瀉: Xoa, ấn khớp ngón; Vỗ nhẹ trán → đỉnh đầu → nối cổ
++ 瀉: Xoa, ấn khớp ngón; Vỗ nhẹ trán → đỉnh đầu → nối cổ; 
 + 收: Kiểm tra độ ấm, độ mềm, phản ứng đau hoặc căng
 
 #### Mặt, Má & Cổ 
@@ -51,12 +52,13 @@
 + 察: Sờ nắn, hỏi cảm giác: Độ ẩm, độ nhờn/nhớt, độ đàn hồi, vùng mụn, căng cơ.  
   + Quầng thâm, độ sưng quanh mắt.  
 + 通: Rửa mặt bằng nước ấm. Nặn nhờn (không dùng móng tay) làm sạch tắc nghẽn, hạn chế viêm, làm dịu da
-+ 補: Vuốt nhẹ, chậm, đều từ trán → thái dương → má → cằm → cổ
++ 補: Vuốt nhẹ, chậm, đều từ trán → thái dương → má → cằm → cổ; Vuốt dọc hàm dưới qua yết hầu. Bóp nhẹ yết hầu.
   - Day quanh cánh mũi → hốc mắt
   - Day đầu ngón tay tìm huyệt & miết: Nghinh Hương, Quyền Liêu,.. giải ứ trệ, thông khí huyết, giảm sưng nề → tìm kinh mạch lưu thông.
   - Tập chậm co giãn cơ mặt: nhăn, cười, mếu,.. tăng trương lực cơ, cải thiện độ đàn hồi.
   - Vuốt cổ mặt trước.
 + 瀉: Vỗ nhẹ, chậm, đều má thư giãn cơ mặt.
+  - Gật đầu theo các hướng: **dọc → ngang → ra sau → xoay tròn**. 
 + 收: Dưỡng ẩm hoặc đắp mặt nạ làm dịu
 
 #### Mắt 
@@ -74,19 +76,27 @@
   - Miết nhẹ từ sống mũi → cung mày → thái dương, kết hợp hít thở sâu.  
 + 收: Nhìn dần ra xa + Chớp mắt nhẹ nhàng nhiều lần để kích hoạt tuyến lệ và tăng độ ẩm tự nhiên.
     
-##### 2 Tai: Cảm vòi nhĩ air/Anap 
-+ Ấp bàn tay vào tai + gõ ngón + hum +
-+ Vuốt kéo dái tai > Xoa ghờ tai
-##### 2 Mũi: Cảm nghẹt trên/ dưới. Tập thở 1 bên + hum.
-+ Xoa/Vỗ nasal cavity ở trán, má, cằm.thông tỵ khiếu
-+ Breath Exc: Box breath, Bịt mũi + hum
-##### Miệng, Cổ-Họng: Cảm họng có vướng? vai-cổ sượng/cứng? 
-+ Ngón tay gõ răng + Chà/ấn nướu
-+ Cắn răng | lưỡi | môi
-+ Cà lưỡi bằng răng > Xoay lưỡi > Lưỡi chà răng
-+ Xúc miệng không khí
-+ Vuốt sau gáy | Vuốt hàm | bóp nhẹ adam | Gật dọc-ngang-sau-xoay
-+ Tập hum hạ giọng > purr > gầm
+#### Tai
++ Cảm nhận luồng khí qua vòi nhĩ và tiếng thở, nhịp đập từ động mạch.
++ Ấp bàn tay vào tai, tạo kín khí → Gõ đầu ngón tay nhẹ phía sau tai → Phát âm **"hum"** để cộng hưởng.
++ Vuốt và kéo nhẹ dái tai → Xoa toàn bộ vành tai, di chuyển từ gốc tai đến đỉnh tai.
+
+#### Mũi
++ Cảm nhận mức độ nghẹt: **nghẹt trên** (vùng trán, xoang sàng) hoặc **nghẹt dưới** (xoang hàm).
++ Xoa và vỗ nhẹ quanh hốc mũi: trán → sống mũi → má → cằm > thông đường thở.
++ Tập thở:
+  - Box breath: Hít vào 4s → Giữ 4s → Thở ra 4s → Giữ 4s → Lặp lại.
+  - Hít vào bằng mũi → Thở ra kèm **hum** để rung động làm sạch hốc mũi.
+  - Thở 1 bên mũi: Bịt một bên mũi, hít sâu → đổi bên.
+
+#### Miệng, Cổ - Họng
++ Kiểm tra: cảm giác **vướng** ở họng, **vai - cổ** có sượng/cứng, màu sắc răng và lưỡi.
++ Tập cho miệng, lưỡi và răng:
+  - Dùng đầu ngón tay gõ nhẹ lên răng + Chà hoặc ấn nướu.
+  - Cắn nhẹ: răng → lưỡi → môi.
+  - Cà lưỡi bằng răng → Xoay lưỡi vòng quanh → Lưỡi chà răng từ trong ra ngoài > Xúc miệng bằng không khí  
++ Âm thanh trị liệu: Phát âm **hum** với âm trầm > Chuyển sang **purr** (rung cổ nhẹ) > Cuối cùng **gầm** sâu, giúp khai thông họng và thanh quản.
+  
 ##### Groin + Anus
 + Groin: Drink water & piss
 + Ass: Sit up, Bowel movement.
