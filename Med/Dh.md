@@ -65,10 +65,10 @@ Svākkhāto bhagavatā dhammo, Sandiṭṭhiko, Akāliko, Ehipassiko, Opanayiko,
 - Lead to introspection, re-evalutation, direction & correction of your being.
 
 #### Paccattaṁ veditabbo viññūhi
-- The Dhamma's personal, progress or regressed by each of your very own choices, wise or unwise. 
-- The Dhamma can be practice in any situation with the right tools, as it is of mind. Not Kamma nor situation, you have only yourself to blame.
+- The Dhamma's personal, progress or regressed by each of your very own choices, wise or unwise. Dhamma can be practice in any situation with the right tools, as it is of mind, not depend on Kamma nor situation.
+- The scholatic path open. Bikkhu Bodhi, Tuzuji,...
 - Others, through experience or power will recognize what your progress or state of mind > who you are.
-- Living principals're shared by the community.
+- Living principals're recognized by community of the wise.
 
 ----
 [DN 22 Mahāsatipaṭṭhānasutta](https://suttacentral.net/dn22/en/sujato)
