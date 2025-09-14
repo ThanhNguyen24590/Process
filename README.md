@@ -38,14 +38,23 @@
 
 <details><summary>Eve</summary>
 
-|       |   Eve                                               |
+|       |                                               |
 | :------- | :------------------------------------------------------------------------ |
-| 10 | :muscle: Check Body & Clothes: Visual, Proportion, Feeling & Discomfort: [Face & Orifices](https://github.com/ThanhNguyen24590/Process/blob/main/Body/HygMsg.md)  |
-|          | :full_moon: Upd Sche paper, set goal & Progress Bar + Rec [8 fold path](https://github.com/ThanhNguyen24590/Process/blob/main/README.md) |
-|          | :mushroom: Prep meal: Veggies + Prep drink: milk, herb tea, salted lemon. No caffein  |
-|          | :seedling: Check Back pain & Settle: [DexL](https://github.com/ThanhNguyen24590/Process/blob/main/Body/DexL.md), [Str](https://github.com/ThanhNguyen24590/Process/blob/main/Body/Str.md) |
-| --- | ---Work--- |
-| 2130  |  :recycle: [DexL](https://github.com/ThanhNguyen24590/Process/blob/main/Body/DexL.md) > Sleep |
+| 10 | :wind_chime: Change Clothes, Check Light & Air  |
+| 10 | :moyai: Check Body : Visual, Proportion, Feeling & Discomfort > Msg [Face & Orifices](https://github.com/ThanhNguyen24590/Process/blob/main/Body/HygMsg.md)  |
+| 10 | :shower: Bath |
+| 20 | :mushroom: Prep meal: Veggies + Prep drink: milk, herb tea, salted lemon. No caffein  |
+| 05 | :full_moon: Upd Sche paper, set Work & Progress Bar |
+|    | :diamonds::diamonds::diamonds::diamonds::diamonds::diamonds::diamonds::diamonds: Done 60 |
+| 20 | :anchor:[Eve Dh](https://www.dhammatalks.org/audio/evening/) :u7a7a: Rm Full MN Sutta > Learn: Lying down, walk : > :waning_crescent_moon: Rnd (1..50) |
+| 30 | Med, Sleep, Music > Feel |
+| 10 | :seedling: Check Back pain & Settle: [DexL](https://github.com/ThanhNguyen24590/Process/blob/main/Body/DexL.md), [Str](https://github.com/ThanhNguyen24590/Process/blob/main/Body/Str.md) |
+|    | :diamonds::diamonds::diamonds::diamonds::diamonds::diamonds::diamonds::diamonds: Done 60 |
+| 30 | Jp: :fallen_leaf: Grammar-Speak (25 lession) :cherry_blossom: Vocabulary :mount_fuji: Kanji (Part 2-300 words)  |
+| 30 | :computer: Read Full ISTQB Bok + Crs + Mock Test |
+|    | :diamonds::diamonds::diamonds::diamonds::diamonds::diamonds::diamonds::diamonds: Done 60 |
+| 2130 | :musical_keyboard: Piano-Make it fun   |
+| 2200 | :recycle: [DexL](https://github.com/ThanhNguyen24590/Process/blob/main/Body/DexL.md) > Sleep |
 </details>
 
 ---
@@ -102,6 +111,7 @@ Weekly
 + Cs: ISTQB
 + Jp: Duolingo, 10 Kanji, Gammar, Read
 + Manual Skill: Nt: Sk, Learn about tool & item you used.
+
 
 
 
