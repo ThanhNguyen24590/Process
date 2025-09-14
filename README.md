@@ -5,14 +5,16 @@
 
 <details><summary>Morn 1 </summary>
   
-| Morn 1  |                                                                |
+|   |                                                                |
 | :-------: | :----------------------------------------------------------------------- |
-| **Refuge Dh** | :pray: Anap as Stillness & warning system of Khanda :pray: Ls [Morn Chant](https://www.dhammatalks.org/chant_index.html)  |
-|           |  :sunny: [Morn Talk](https://www.dhammatalks.org/audio/morning/) |
-| **Qigong** | :fire: Anap & Connect Sky > :fire: Obs body process: Skin-[HygMsg](https://github.com/ThanhNguyen24590/Process/blob/main/Body/HygMsg.md), Joint- [DexL](https://github.com/ThanhNguyen24590/Process/blob/main/Body/DexL.md)-[Dex](https://github.com/ThanhNguyen24590/Process/blob/main/Body/Dex.md)     |
-|   | :muscle: Unify Rythm of [Str](https://github.com/ThanhNguyen24590/Process/blob/main/Body/Str.md)- [15minRou](https://github.com/ThanhNguyen24590/Process/blob/main/Body/15minRou.md) |
-| Dh | :orange_book: [Rd Sutta](https://www.dhammatalks.org/random_sutta.php): Topic & Background sati|
-| **0620** | :bus: Prep Transport - Anap-Dhatu   |
+|  | :low_brightness: [DexL](https://github.com/ThanhNguyen24590/Process/blob/main/Body/DexL.md) > :toilet: bathroom |
+| Refuge Dh | 10: :sunny: Anap as Khanda's warning system <br/> 15: :pray: Ls [Morn Chant](https://www.dhammatalks.org/chant_index.html) > :sunflower: [Morn Talk](https://www.dhammatalks.org/audio/morning/)|
+| Qigong | 15: :fire: Connect Sky & Anap > :fire: Obs body process: [Skin](https://github.com/ThanhNguyen24590/Process/blob/main/Body/HygMsg.md), [Joint](https://github.com/ThanhNguyen24590/Process/blob/main/Body/Dex.md)     |
+|    | 15: :muscle: Unify Rythm of [Str](https://github.com/ThanhNguyen24590/Process/blob/main/Body/Str.md)- [15minRou](https://github.com/ThanhNguyen24590/Process/blob/main/Body/15minRou.md) |
+|    | :a::a::a::a::a::a::a::a: Done 60|
+|    | 10: :rice: Break fast & Prep   |
+| Dh | 10: :orange_book: [Rd Sutta](https://www.dhammatalks.org/random_sutta.php): Topic & Background sati|
+| **0630** | :bus: Anap-Dhatu   |
 </details>
 
 <details><summary>Morn 2</summary>
@@ -111,6 +113,7 @@ Weekly
 + Cs: ISTQB
 + Jp: Duolingo, 10 Kanji, Gammar, Read
 + Manual Skill: Nt: Sk, Learn about tool & item you used.
+
 
 
 
