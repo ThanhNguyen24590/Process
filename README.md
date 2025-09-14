@@ -1,9 +1,62 @@
-#### Setup Sati
-Base for measurement & monitor 4 sectors: 
-+ Kaya: Anapana, Asubha 
-+ Vedana: Marana, Karuna
-+ Citta: Dhatu - Āyatana - Nibbana
-+ Dhamma: Refuge Tripple Gems - 4 ariya sacca
+ <details><summary>Sati: Anapana, Asubha, Marana, Karuna, Dhamma > Dhatu, Arupa</summary>
+
++ :high_brightness: Anapana > Kaya, Vedana, Citta, Dhamma
+</details>
+
+<details><summary>Morn 1 </summary>
+  
+| Morn 1  |                                                                |
+| :-------: | :----------------------------------------------------------------------- |
+| **Refuge Dh** | :pray: Anap as Stillness & warning system of Khanda :pray: Ls [Morn Chant](https://www.dhammatalks.org/chant_index.html)  |
+|           |  :sunny: [Morn Talk](https://www.dhammatalks.org/audio/morning/) |
+| **Qigong** | :fire: Anap & Connect Sky > :fire: Obs body process: Skin-[HygMsg](https://github.com/ThanhNguyen24590/Process/blob/main/Body/HygMsg.md), Joint- [DexL](https://github.com/ThanhNguyen24590/Process/blob/main/Body/DexL.md)-[Dex](https://github.com/ThanhNguyen24590/Process/blob/main/Body/Dex.md)     |
+|   | :muscle: Unify Rythm of [Str](https://github.com/ThanhNguyen24590/Process/blob/main/Body/Str.md)- [15minRou](https://github.com/ThanhNguyen24590/Process/blob/main/Body/15minRou.md) |
+| Dh | :orange_book: [Rd Sutta](https://www.dhammatalks.org/random_sutta.php): Topic & Background sati|
+| **0620** | :bus: Prep Transport - Anap-Dhatu   |
+</details>
+
+<details><summary>Morn 2</summary>
+
+| Morn 2  |                                                                |
+| :-------: | :----------------------------------------------------------------------- |
+| 0700   | :sunny: [Dex](https://github.com/ThanhNguyen24590/Process/blob/main/Body/Dex.md) > [5 animals frolic](https://github.com/ThanhNguyen24590/Process/blob/main/Body/5-Animals.md) | 
+| 0800   | :coffee: Prep Work: Prep Drink, Check Calendar, Mail, Task |
+|   | :sunny: Rec [8 fold path](https://github.com/ThanhNguyen24590/Process/blob/main/README.md) :sunny: Rw Rou > Sche paper, set goal & Progress Bar |
+|---|--Work--|
+| Zenith  | 40: :white_flower: Fd, Fruit :white_flower: Dex :white_flower: Dh Talk -> Med Anap |
+</details>
+
+<details><summary>afNoon</summary>
+
+|   | Noon                                     |
+|-------|---------------------------------------------|
+|           |  :coffee: Prep Drink :sunny: [Morn Talk](https://www.dhammatalks.org/audio/morning/) |
+|           |  :sunny: [Morn Talk](https://www.dhammatalks.org/audio/morning/) :sunny: Rec [8 fold path](https://github.com/ThanhNguyen24590/Process/blob/main/README.md) :sunny: Rw Rou > Sche paper, set goal & Progress Bar|
+|---| --Work--|
+| 1700 - Body| Transit & Exc                               |
+</details>
+
+<details><summary>Eve</summary>
+
+|       |   Eve                                               |
+| :------- | :------------------------------------------------------------------------ |
+| 10 | :muscle: Check Body & Clothes: Visual, Proportion, Feeling & Discomfort: [Face & Orifices](https://github.com/ThanhNguyen24590/Process/blob/main/Body/HygMsg.md)  |
+|          | :full_moon: Upd Sche paper, set goal & Progress Bar + Rec [8 fold path](https://github.com/ThanhNguyen24590/Process/blob/main/README.md) |
+|          | :mushroom: Prep meal: Veggies + Prep drink: milk, herb tea, salted lemon. No caffein  |
+|          | :seedling: Check Back pain & Settle: [DexL](https://github.com/ThanhNguyen24590/Process/blob/main/Body/DexL.md), [Str](https://github.com/ThanhNguyen24590/Process/blob/main/Body/Str.md) |
+| --- | ---Work--- |
+| 2130  |  :recycle: [DexL](https://github.com/ThanhNguyen24590/Process/blob/main/Body/DexL.md) > Sleep |
+</details>
+
+---
+##### Work
++ :anchor:[Eve Dh](https://www.dhammatalks.org/audio/evening/) :u7a7a: Rm Full MN Sutta > Learn: Lying down, walk : > :waning_crescent_moon: Rnd (1..50)
++ :muscle: Learn Exc: [15minRou](https://github.com/ThanhNguyen24590/Process/blob/main/Body/15minRou.md), [5 animals frolic](https://github.com/ThanhNguyen24590/Process/blob/main/Body/5-Animals.md), [HygMsg](https://github.com/ThanhNguyen24590/Process/blob/main/Body/HygMsg.md)
++ :computer: Read Full ISTQB Bok + Crs + Mock Test
++ Jp: :fallen_leaf: Grammar-Speak (25 lession) :cherry_blossom: Vocabulary :mount_fuji: Kanji (Part 2-300 words)
++ :musical_keyboard: Piano-Make it fun  
+
+---
 #### Prj
 <details><summary>Dh Study</summary>
 
@@ -49,6 +102,7 @@ Weekly
 + Cs: ISTQB
 + Jp: Duolingo, 10 Kanji, Gammar, Read
 + Manual Skill: Nt: Sk, Learn about tool & item you used.
+
 
 
 
