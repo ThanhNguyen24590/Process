@@ -25,6 +25,7 @@ Svākkhāto bhagavatā dhammo, Sandiṭṭhiko, Akāliko, Ehipassiko, Opanayiko,
 + **Concept:** clearly defined through definition, example, counter-example, from multiple approach and how to verified, with action's steps detailed. Ex: jhana, how to deal with bad thoughs,...
 + **Thematic Structure:** clearly show what causes harm, what's long-term benefits & the actions to reach them accordingly, follow gradual pedagogical progression (anupubbasikkhā), making foundation for Conviction & Practice Direction.
   + Multiple approach of same path: Atthangika-Magga (sila, samadhi, panna), sattapadā (MN 137) , deepening of sukhaṁ (in MN101: anavajja), action (an10.68)..
+  + Test & finding what works for your temperament, using the wide array of medicine-Kammaṭṭhāna & theme for moment-to-moment state-of-mind. 
 + **Transmission:** carefully crafted, preserved, explained through unbroken lineage, ensuring them accessible and authentic:
   + Buddha adapted teachings for individuals and communities, using repetition, numbered lists, and rhythmic phrasing to support memorization and reflection.
   + The early Saṅgha organized and recited the teachings collectively at councils to maintain precision and clarity.
@@ -48,15 +49,10 @@ Svākkhāto bhagavatā dhammo, Sandiṭṭhiko, Akāliko, Ehipassiko, Opanayiko,
   - By direct realization, immediately upon hearing the Dhamma.
 
 #### Ehipassiko
-- **Savana – Listen:** Dhamma-cakkhu is worthy of being seen, inviting all who willing to hear the Dhamma.
-- **Cintā – Reflect:** Encourage thoughtful investigation, weighing the teachings against personal experience and reasoning, with doubt's transformed into inquiry, leading to clarity and protection against dogma or misunderstanding.
-  - Monastic Saṅgha provides living examples of the path and discipline, open to critize.
-- **Bhāvanā – Cultivate & Test:** Encourages moving from theory to practice and direct experience, turning your life into a living experiment where results can be tested immediately. 
-  - Test & finding what works for your temperament, using the wide array of medicine-meditation objects (40 and many more recollection themes) for moment-to-moment state-of-mind. 
-  - Acts of generosity, mindfulness, or restraint show visible benefits in relationships and mental well-being.
-  - As practice reveals what truly works, false claims and distortions're exposed, misunderstandings naturally self-correct.
-- **Passanā – See:** With steady practice, direct insight (cattāri ariya-saccā, paṭiccasamuppāda,..) are directly seen & move beyond mere concepts.
-- **Paṭivedha – Realize:** goes beyond speculation, belief, or external authority, to directly know the nature of your mind.
+- Announcement to the world, open invitation to all who has ear. This is what need to be seen, need to be seek. [MN 26](https://suttacentral.net/mn26/en/sujato?lang=en) Even you have doubts, there is unfalling practice to be take. [MN 60](https://suttacentral.net/mn60/en/sujato?lang=en)
+- How do you see yourself & How does it measured against your experiences & reality? [MN 39](https://suttacentral.net/mn39/en/sujato?lang=en), [MN 40](https://suttacentral.net/mn40/en/sujato?lang=en)
+- Dhamma's Reputation & Yours (https://suttacentral.net/mn3/en/sujato?lang=en)
+- Dhammacetiyā [MN 89](https://suttacentral.net/mn89/en/sujato?lang=en)
 
 #### Opanayiko – Leading Inward
 - **Direction:** leads the mind away from external entanglements towards inward freedom, align your actions to deal with dukkha.
