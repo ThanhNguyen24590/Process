@@ -13,6 +13,7 @@
 |    | 15: :muscle: Unify Rythm of [Str](https://github.com/ThanhNguyen24590/Process/blob/main/Body/Str.md)- [15minRou](https://github.com/ThanhNguyen24590/Process/blob/main/Body/15minRou.md) |
 |    | :a::a::a::a::a::a::a::a: Done 60|
 |    | 10: :rice: Break fast & Prep   |
+|    | 10: :shower: Bath |
 | Dh | 10: :orange_book: [Rd Sutta](https://www.dhammatalks.org/random_sutta.php): Topic & Background sati|
 | **0630** | :bus: Anap-Dhatu   |
 </details>
@@ -113,6 +114,7 @@ Weekly
 + Cs: ISTQB
 + Jp: Duolingo, 10 Kanji, Gammar, Read
 + Manual Skill: Nt: Sk, Learn about tool & item you used.
+
 
 
 
