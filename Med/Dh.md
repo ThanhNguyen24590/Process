@@ -45,8 +45,10 @@ the Dhamma they point to remains ever-present.The Buddha did not create the Dham
 - **Path:** Unfolds gradually, steadily, and sustainably. It is clear with the progress, layer by layer, through the Atthangika-Magga (Sīla, Samādhi, and Paññā), with each element reinforcing the others.
 - **Correction:** Inherent feedback mechanism that naturally corrects itself through direct experience, guiding the practitioner back toward the right course when missteps occur.
 #### Paccattaṁ veditabbo viññūhi
-- **Cooperative Verification of Truth:**  The wisdom of the Dhamma is not just a private matter. As individuals practice and verify the teachings, their insights contribute to the collective understanding of the community. The Dhamma becomes a living truth, confirmed by the shared wisdom of all.
-- **Mutual Recognition of Insight:**  The wise, having seen the truth for themselves, recognize and appreciate the wisdom in others. The wisdom of the Dhamma is not confined to one person but is a living, growing recognition that spreads within a community of practitioners.
+- The Dhamma's personal, progress or regressed by each of your very own choices, wise or unwise. 
+- The Dhamma can be practice in any situation with the right tools, as it is of mind. Not Kamma nor situation, you have only yourself to blame.
+- Others, through experience or power will recognize what your progress or state of mind > who you are.
+- Living principals're shared by the community.
 ---
 **Paṭipatti**
 <details><summary>Foundation for Conviction & Direction: Showing the rule book of kamma</summary>
