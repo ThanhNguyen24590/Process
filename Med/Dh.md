@@ -21,13 +21,14 @@ Svākkhāto bhagavatā dhammo, Sandiṭṭhiko, Akāliko, Ehipassiko, Opanayiko,
 </details>
 
 #### Svākkhāto bhagavatā dhammo
-+ **Clarity of Goal:** Buddha clearly defined what's truly Dhamma, make clear what your daily choice is Dhamma or not, leaving no room for confusion or asava's deceit.
-+ **Clarity of Thematic Structure:** Show what causes harm and what leads to well-being, follow a gradual pedagogical progression (anupubbasikkhā), making foundation for Conviction & Practice Direction. There are multiple approach: Atthangika-Magga (sila, samadhi, panna), sattapadā (MN 137) , deepening of sukhaṁ (in MN101: anavajja), action (an10.68)..
-+ **Integrity of Transmission:** carefully crafted, preserved, explained through an unbroken lineage, ensuring they remain accessible and authentic:
++ **Goal & Boundary:** clearly defined by Buddha -> make clear what your daily choice is Dhamma or not, with no room for confusion or deceit.
++ **Concept:** clearly defined through definition, example, counter-example, from multiple approach and how to verified, with action's steps detailed. Ex: jhana, how to deal with bad thoughs,...
++ **Thematic Structure:** clearly show what causes harm, what's long-term benefits & the actions to reach them accordingly, follow gradual pedagogical progression (anupubbasikkhā), making foundation for Conviction & Practice Direction.
+  + Multiple approach of same path: Atthangika-Magga (sila, samadhi, panna), sattapadā (MN 137) , deepening of sukhaṁ (in MN101: anavajja), action (an10.68)..
++ **Transmission:** carefully crafted, preserved, explained through unbroken lineage, ensuring them accessible and authentic:
   + Buddha adapted teachings for individuals and communities, using repetition, numbered lists, and rhythmic phrasing to support memorization and reflection.
   + The early Saṅgha organized and recited the teachings collectively at councils to maintain precision and clarity.
   + Generations of practitioners safeguarded the oral tradition until modern times, when translations and texts made the Dhamma available worldwide. There are sutta chanting to this day.
-+ **Self-Verifying Nature:** Dhamma can be confirmed through direct experience and practice, allowing practitioners to see its truth for themselves at each stage.
   
 #### Sandiṭṭhiko
 - **Accessible:** Anytime, Anywhere, by Anyone: The Dhamma is a training of the mind, not bound by place, culture, or era.
