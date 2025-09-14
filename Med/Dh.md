@@ -54,14 +54,15 @@ Svākkhāto bhagavatā dhammo, Sandiṭṭhiko, Akāliko, Ehipassiko, Opanayiko,
 - Dhamma's Reputation & Yours [MN 3](https://suttacentral.net/mn3/en/sujato?lang=en)
 - How do you see yourself? How does it measured against your experiences & reality? [MN 39](https://suttacentral.net/mn39/en/sujato?lang=en), [MN 40](https://suttacentral.net/mn40/en/sujato?lang=en)
 
-#### Opanayiko – Leading Inward
-- **Direction:** leads the mind away from external entanglements towards inward freedom, align your actions to deal with dukkha.
-- **Force:** Similar to kite-flying, the initial force comes from your effort, but the primary momentum comes from the mind’s natural inclination towards its nourishment — whether that is joy, truth, or freedom.
-  + **Kalyāṇamitta** (spiritual friends and teachers) offer guidance and correction.
-  + Lay communities support each other through generosity and shared practice.
+#### Opanayiko
+- Lead inward to freedom, away from Mara [MN 25](https://suttacentral.net/mn25/en/sujato?lang=en), tested by 8 winds.
+- The calling, the natural path.
+- Intitial efforts are needed, but the momentum comes from the mind’s natural inclination towards its nourishment (joy, truth, or freedom), like flying kite. 
+  + **Kalyāṇamitta** offer guidance and correction.
   + Rituals like chanting, almsgiving, and group meditation build collective energy.
-- **Path:** Unfolds gradually, steadily, and sustainably. It is clear with the progress, layer by layer, through the Atthangika-Magga (Sīla, Samādhi, and Paññā), with each element reinforcing the others.
-- **Correction:** Inherent feedback mechanism that naturally corrects itself through direct experience, guiding the practitioner back toward the right course when missteps occur.
+  + Lay communities support each other through generosity and shared practice.
+  + Monastic Saṅgha provides living examples of the path and discipline
+- Lead to introspection, re-evalutation, direction & correction of your being.
 
 #### Paccattaṁ veditabbo viññūhi
 - The Dhamma's personal, progress or regressed by each of your very own choices, wise or unwise. 
