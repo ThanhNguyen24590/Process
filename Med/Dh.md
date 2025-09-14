@@ -31,16 +31,13 @@ Svākkhāto bhagavatā dhammo, Sandiṭṭhiko, Akāliko, Ehipassiko, Opanayiko,
   + Generations of practitioners safeguarded the oral tradition until modern times, when translations and texts made the Dhamma available worldwide. There are sutta chanting to this day.
   
 #### Sandiṭṭhiko
-- **Accessible:** Anytime, Anywhere, by Anyone: The Dhamma is a training of the mind, not bound by place, culture, or era.
-- **Immediate Benefits:** Result (joy, groundedness) can be felt right away, even with the smallest effort.
-  - A single moment of mindful breathing (ānāpānasati) can bring clarity and calm.
-  - Avoiding bad destinations (apāya) and nurturing conditions for good -> Clear sense of purpose and direction -> Greater calm, stability, and reduced anger, greed, and confusion. Ex: five immediate benefits of mettā, including peaceful sleep and freedom from fear. (AN 5.43) 
-- **See and Know for Yourself:** The Dhamma is to be personally confirmed through direct observation of body, mind, and practice.
-  - Move beyond labels like “body” or “mind” to directly see raw phenomena as they are.
-  - Witness causality unfolding in real time, seeing dependent co-arising directly.
-- **Progressive Verification and Deepening:** can be verified at any stage; early results encourage continued practice, and sustained practice deepens and broadens what can directly see and know.
-  - Small, immediate confirmations (calm, insight, reduced reactivity) validate further training.
-  - Continued practice uncovers subtler truths (insight, jhānic stability, deeper release).
+- **Accessible:** can be practice or studied in anytime, anywhere, by anyone, in any situation, as Dhamma is about the mind.
+- Supramundane vision of beauty can only be appreciate through practice, move beyond labels or concepts to directly see.
+- Practice Can only work with introspection (of sankara), as mirror checking reflection [MN 61](https://suttacentral.net/mn61/en/sujato?lang=en)
+- **Result** are visible  (joy, groundedness)
+  - Here and Now: A single ānāpāna-sati can bring joy, clarity and calm.
+  - Powers: Mundane or supermundance.
+  - Life: Give sense of purpose, direction, confirmation about the Transcendence, against confusion & Mara. Ex: mettā (AN 5.43) 
 
 #### Akāliko
 + Unbroken Living Lineage and Verification Across Generations
