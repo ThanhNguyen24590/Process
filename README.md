@@ -7,7 +7,7 @@
   
 |   |                                                                |
 | :-------: | :----------------------------------------------------------------------- |
-|  | :low_brightness: [DexL](https://github.com/ThanhNguyen24590/Process/blob/main/Body/DexL.md) > :toilet: bathroom |
+|  | :low_brightness: [DexL](https://github.com/ThanhNguyen24590/Process/blob/main/Body/DexL.md) :toilet: Bathroom :meat_on_bone: [Mara](https://github.com/ThanhNguyen24590/Process/blob/main/Med/Marana.md) |
 | Refuge Dh | 10: :sunny: Anap as Khanda's warning system <br/> 15: :pray: Ls [Morn Chant](https://www.dhammatalks.org/chant_index.html) > :sunflower: [Morn Talk](https://www.dhammatalks.org/audio/morning/)|
 | Qigong | 15: :fire: Connect Sky & Anap > :fire: Obs body process: [Skin](https://github.com/ThanhNguyen24590/Process/blob/main/Body/HygMsg.md), [Joint](https://github.com/ThanhNguyen24590/Process/blob/main/Body/Dex.md)     |
 |    | 15: :muscle: Unify Rythm of [Str](https://github.com/ThanhNguyen24590/Process/blob/main/Body/Str.md)- [15minRou](https://github.com/ThanhNguyen24590/Process/blob/main/Body/15minRou.md) |
@@ -43,12 +43,12 @@
 
 |       |                                               |
 | :------- | :------------------------------------------------------------------------ |
-| Transition | 10: :wind_chime: Change Clothes, Check Light & Air > :full_moon: Upd Sche paper, set Work & Progress Bar |
+| Transition | 10: :wind_chime: Change Clothes, Check Light & Air :meat_on_bone: [Mara](https://github.com/ThanhNguyen24590/Process/blob/main/Med/Marana.md) :full_moon: Upd Sche paper, set Work & Progress Bar |
 |  | 10: :moyai: Check Body : Visual, Proportion, Feeling & Discomfort > Msg [Face & Orifices](https://github.com/ThanhNguyen24590/Process/blob/main/Body/HygMsg.md)  |
 |  | 20: :shower: Bath :mushroom: Prep meal: Veggies + Prep drink: milk, herb tea, salted lemon. No caffein |
 |    | |
-| Dh | 10: :anchor:[Eve Dh](https://www.dhammatalks.org/audio/evening/) :u7a7a: Rm Full MN Sutta > Learn: Lying down, walk : > :waning_crescent_moon: Rnd (1..50) |
-|  | 30: Med, Sleep, Music > Feel |
+| Dh | 10: :anchor:[Eve Dh](https://www.dhammatalks.org/audio/evening/) :u7a7a: Rm Full MN Sutta > Learn: Lying down, walk > :waning_crescent_moon: Rnd (1..50) |
+|  | 30: Med Anap - [Dhamma](https://github.com/ThanhNguyen24590/Process/blob/main/Med/Dh.md), Sleep, Music > Feel |
 | Health | 10: :seedling: Check Back pain & Settle: [DexL](https://github.com/ThanhNguyen24590/Process/blob/main/Body/DexL.md), [Str](https://github.com/ThanhNguyen24590/Process/blob/main/Body/Str.md) |
 |    | |
 | St | 20: Jp: :fallen_leaf: Grammar-Speak (25 lession) :cherry_blossom: Vocabulary :mount_fuji: Kanji (Part 2-300 words)  |
@@ -112,6 +112,7 @@ Weekly
 + Cs: ISTQB
 + Jp: Duolingo, 10 Kanji, Gammar, Read
 + Manual Skill: Nt: Sk, Learn about tool & item you used.
+
 
 
 
