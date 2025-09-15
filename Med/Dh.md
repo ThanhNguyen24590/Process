@@ -56,7 +56,6 @@ Svākkhāto bhagavatā dhammo, Sandiṭṭhiko, Akāliko, Ehipassiko, Opanayiko,
 
 #### Opanayiko
 - Lead inward to freedom, away from Mara [MN 25](https://suttacentral.net/mn25/en/sujato?lang=en), tested by 8 winds.
-- The calling, the natural path.
 - Intitial efforts are needed, but the momentum comes from the mind’s natural inclination towards its nourishment (joy, truth, or freedom), like flying kite. 
   + **Kalyāṇamitta** offer guidance and correction.
   + Rituals like chanting, almsgiving, and group meditation build collective energy.
