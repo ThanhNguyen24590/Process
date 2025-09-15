@@ -7,11 +7,12 @@
   
 |   |                                                                |
 | :-------: | :----------------------------------------------------------------------- |
-|  | :low_brightness: [DexL](https://github.com/ThanhNguyen24590/Process/blob/main/Body/DexL.md) :toilet: Bathroom :meat_on_bone: [Mara](https://github.com/ThanhNguyen24590/Process/blob/main/Med/Marana.md) |
-| Refuge Dh | 10: :sunny: Anap as Khanda's warning system <br/> 15: :pray: Ls [Morn Chant](https://www.dhammatalks.org/chant_index.html) > :sunflower: [Morn Talk](https://www.dhammatalks.org/audio/morning/)|
+|  | :low_brightness: [DexL](https://github.com/ThanhNguyen24590/Process/blob/main/Body/DexL.md) :toilet: Bathroom :high_brightness: Aware Rou  |
+| Refuge Dh | 20: :sunflower: [Morn Talk](https://www.dhammatalks.org/audio/morning/) > :sunny: Anap-weather station   |
+| | 20: 4 protect: :pray: [Dhamma](https://github.com/ThanhNguyen24590/Process/blob/main/Med/Dh.md) :milky_way: Metta/Karuna :meat_on_bone: [Mara](https://github.com/ThanhNguyen24590/Process/blob/main/Med/Marana.md) :biohazard: Asubha|
 | Qigong | 15: :fire: Connect Sky & Anap > :fire: Obs body process: [Skin](https://github.com/ThanhNguyen24590/Process/blob/main/Body/HygMsg.md), [Joint](https://github.com/ThanhNguyen24590/Process/blob/main/Body/Dex.md)     |
 |    | 15: :muscle: Unify Rythm of [Str](https://github.com/ThanhNguyen24590/Process/blob/main/Body/Str.md)- [15minRou](https://github.com/ThanhNguyen24590/Process/blob/main/Body/15minRou.md) |
-|    | :a::a::a::a::a::a::a::a: Done 60|
+|    | |
 |    | 10: :rice: Break fast & Prep   |
 |    | 10: :shower: Bath |
 | Dh | 10: :orange_book: [Rd Sutta](https://www.dhammatalks.org/random_sutta.php): Topic & Background sati|
@@ -112,6 +113,7 @@ Weekly
 + Cs: ISTQB
 + Jp: Duolingo, 10 Kanji, Gammar, Read
 + Manual Skill: Nt: Sk, Learn about tool & item you used.
+
 
 
 
