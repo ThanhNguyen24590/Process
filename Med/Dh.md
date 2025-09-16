@@ -21,11 +21,11 @@ Svākkhāto bhagavatā dhammo, Sandiṭṭhiko, Akāliko, Ehipassiko, Opanayiko,
 </details>
 
 #### Svākkhāto bhagavatā dhammo
-+ **Goal & Boundary:** clearly defined by Buddha -> make clear what your daily choice is Dhamma or not, with no room for confusion or deceit.
-+ **Concept:** clearly defined through definition, example, counter-example, from multiple approach and how to verified, with action's steps detailed. Ex: jhana, how to deal with bad thoughs,...
 + **Anupubbasikkhā:** clearly show what causes harm, what's long-term benefits & the actions to reach them accordingly, making foundation for Conviction & Direction.
   + Multiple approach of same path: Atthangika-Magga (sila, samadhi, panna), sattapadā (MN 137) , deepening of sukhaṁ (in MN101: anavajja), action (an10.68)..
   + Test & finding what works for your temperament, using the wide array of medicine-Kammaṭṭhāna & theme for moment-to-moment state-of-mind. 
++ **Goal & Boundary:** clearly defined by Buddha -> make clear what your daily choice is Dhamma or not, with no room for confusion or deceit.
++ **Concept:** clearly defined through definition, example, counter-example, from multiple approach and how to verified, with action's steps detailed. Ex: jhana, how to deal with bad thoughs,...
 + **Transmission:** carefully crafted, preserved, explained through unbroken lineage, ensuring them accessible and authentic:
   + Buddha adapted teachings for individuals and communities, using repetition, numbered lists, and rhythmic phrasing to support memorization and reflection.
   + The early Saṅgha organized and recited the teachings collectively at councils to maintain precision and clarity.
@@ -41,12 +41,12 @@ Svākkhāto bhagavatā dhammo, Sandiṭṭhiko, Akāliko, Ehipassiko, Opanayiko,
   - Life: Give sense of purpose, direction, confirmation about the Transcendence, against confusion & Mara. Ex: mettā (AN 5.43) 
 
 #### Akāliko
-+ One End: Endless samsara as multi-verse, manifest this reality.
-+ Other End: Nibbāna & The path lead to it, always be existing, althought hidden. [AN 3.136](https://suttacentral.net/an3.136/en/sujato) 
-+ This **limited** life can be make infinite by the Path of Ariay Sacca
 + **Direct Contact** with the Timeless beyond time & space. This's the singularity in chaos system, the Refuge.
   - By deep meditation (samādhi, jhāna, arūpa-jhāna, and Nibbāna)
   - By direct realization, immediately upon hearing the Dhamma.
++ One End: Endless samsara as multi-verse, manifest this reality.
++ Other End: Nibbāna & The path lead to it, always be existing, althought hidden. [AN 3.136](https://suttacentral.net/an3.136/en/sujato) 
++ This **limited** life can be make infinite by the Path of Ariay Sacca
 
 #### Ehipassiko
 - Announcement to the world, open invitation to all who has ear. This is what need to be seen, need to be seek. [MN 26](https://suttacentral.net/mn26/en/sujato?lang=en) Even you have doubts, there is unfalling practice to be take. [MN 60](https://suttacentral.net/mn60/en/sujato?lang=en)
@@ -65,7 +65,7 @@ Svākkhāto bhagavatā dhammo, Sandiṭṭhiko, Akāliko, Ehipassiko, Opanayiko,
 
 #### Paccattaṁ veditabbo viññūhi
 - The Dhamma's personal, progress or regressed by each of your very own choices, wise or unwise. Dhamma can be practice in any situation with the right tools, as it is of mind, not depend on Kamma nor situation.
-- The scholatic path open. Bikkhu Bodhi, Tuzuji,...
+- The scholatic path open. Bikkhu Bodhi, D.T.Suzuki,...
 - Others, through experience or power will recognize what your progress or state of mind > who you are.
 - Living principals're recognized by community of the wise.
 
