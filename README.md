@@ -7,16 +7,19 @@
   
 |   |                                                                |
 | :-------: | :----------------------------------------------------------------------- |
-|  | :low_brightness: [DexL](https://github.com/ThanhNguyen24590/Process/blob/main/Body/DexL.md) :toilet: Bathroom :high_brightness: Aware Rou  |
-| Refuge Dh | 20: :sunflower: [Morn Talk](https://www.dhammatalks.org/audio/morning/) > :sunny: Anap-weather station   |
+|  | :low_brightness: [DexL](https://github.com/ThanhNguyen24590/Process/blob/main/Body/DexL.md) :toilet: Bathroom   |
+|  | 10: :high_brightness: Out & Aware Rou :fire: Obs body process > Connect Sky & Anap: [Skin](https://github.com/ThanhNguyen24590/Process/blob/main/Body/HygMsg.md) |
+| Refuge Dh | 10: :sunflower: Short DhL [Morn Talk](https://www.dhammatalks.org/audio/morning/)  |
+| | 20: :sunny: set base/refuge: Anap-weather station |
 | | 20: 4 protect: :pray: [Dhamma](https://github.com/ThanhNguyen24590/Process/blob/main/Med/Dh.md) :milky_way: Metta/Karuna :meat_on_bone: [Mara](https://github.com/ThanhNguyen24590/Process/blob/main/Med/Marana.md) :biohazard: Asubha|
-| Qigong | 15: :fire: Connect Sky & Anap > :fire: Obs body process: [Skin](https://github.com/ThanhNguyen24590/Process/blob/main/Body/HygMsg.md), [Joint](https://github.com/ThanhNguyen24590/Process/blob/main/Body/Dex.md)     |
+| | |
+| Qigong | 15: :fire: Connect Sky & Anap > , [Joint](https://github.com/ThanhNguyen24590/Process/blob/main/Body/Dex.md)     |
 |    | 15: :muscle: Unify Rythm of [Str](https://github.com/ThanhNguyen24590/Process/blob/main/Body/Str.md)- [15minRou](https://github.com/ThanhNguyen24590/Process/blob/main/Body/15minRou.md) |
 |    | |
 |    | 10: :rice: Break fast & Prep   |
 |    | 10: :shower: Bath |
-| Dh | 10: :orange_book: [Rd Sutta](https://www.dhammatalks.org/random_sutta.php): Topic & Background sati|
-| **0630** | :bus: Anap-Dhatu   |
+| Dh | 10: :orange_book: [Rd Sutta](https://www.dhammatalks.org/random_sutta.php(sad) Topic & Background sati|
+| 0630 | :bus: Anap-Dhatu   |
 </details>
 
 <details><summary>Morn 2</summary>
@@ -113,6 +116,7 @@ Weekly
 + Cs: ISTQB
 + Jp: Duolingo, 10 Kanji, Gammar, Read
 + Manual Skill: Nt: Sk, Learn about tool & item you used.
+
 
 
 
