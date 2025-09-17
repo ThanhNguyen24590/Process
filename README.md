@@ -1,6 +1,12 @@
- <details><summary>Sati: Anapana, Asubha, Marana, Karuna, Dhamma > Dhatu, Arupa</summary>
+ <details><summary>Sati: Anapana, Marana, Dhamma, Karuna, Asubha > Dhatu, Arupa</summary>
 
-+ :high_brightness: Anapana > Kaya, Vedana, Citta, Dhamma
++ :high_brightness: Anapana: Stability & Joy > Kaya, Vedana, Citta, Dhamma
++ Marana: Limitation & Goals > Schedule to hour, even min if neccessary
++ Dhamma: Refuge & Direction
++ Karuna: Emotion
++ Asubha: Nekkamma
++ Dhatu: Open vs Small/Strict
++ Arupa: vs Rupa
 </details>
 
 <details><summary>Morn 1 </summary>
@@ -116,6 +122,7 @@ Weekly
 + Cs: ISTQB
 + Jp: Duolingo, 10 Kanji, Gammar, Read
 + Manual Skill: Nt: Sk, Learn about tool & item you used.
+
 
 
 
