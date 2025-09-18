@@ -49,10 +49,15 @@
 | Jumping Jack | Vai | Tim phổi |
 --------------------
 **Dumbbell**
+<details><summary>Dumb bell </summary>
+   
+Shoulder Raise > Bicep-Zottman Curl > Arnold Press > One Arm Swing - Dumbbell Clean > Cross Body Hammer Curl > Upright Row - Spider Curl, Single-Leg Romanian Deadlift, Plank Pass Through, Mixed Rack Overhead Carry
+</details>
 . Hand: 20 Lên-xuống(Dumbell Clean) + 2 Bên(Dumbell Scaption) + Trước-sau(Đấm-Trỏ)
 . Stiff Leg Dead Lift + Cross body
 https://en.wikipedia.org/wiki/Isometric_exercise
 https://en.wikipedia.org/wiki/Outline_of_exercise
+
 
 
 
