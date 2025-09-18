@@ -105,6 +105,7 @@
 + Vuốt cẳng chân | Bẻ ngón chân, kẽ ngón chân | Bóp bàn chân | kiểm tra móng chân.
 + Knee psoriasis
 ##### Toàn thân: 
++ Vỗ ngực | Vai/Ngực | Tim phổi |
 + Xương: Vuốt xương đòn, xương sườn
 + Khớp: Vai, khuỷu, cẳng, ngón tay: Bóp-Miết-Kéo | thử tất cả vị trí trong Axis: xyz
 + Cơ: Bóp, Gồng, Gõ-Vỗ-Đấm
