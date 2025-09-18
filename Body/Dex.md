@@ -80,7 +80,8 @@ Hãy viết **hướng dẫn chi tiết** cho các bài tập giãn khớp & tă
 - Ngồi giang thẳng chân, giang rộng háng, cúi người
 - Cobra (giữ)
 - Forward Roll
-
+- Roll Backward (giữ bụng)
+  
 ### Gối (Knee)
 - Xoay gối (Knee CARs)  
 - Half Squat Hold  
