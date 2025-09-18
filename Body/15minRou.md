@@ -113,8 +113,9 @@ Có thể thêm các động tác khác
 ````
 <details><summary>Buổi Tập T2 – Core & Cardio Bụng (20 phút)</summary>
 
-### timeline từng phút
-- 0:00–1:00 Slow Punch – 40s  Nghỉ 10s  
+### timeline theo hơi thở
+**Khởi động (3 phút)** 
+- Slow Punch – 8 nhịp thở...– Nghỉ 5s  
 - ...
 </details>
 ````
