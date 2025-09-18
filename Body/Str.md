@@ -1,29 +1,59 @@
-Feel: blood flow, Heat, Heart -> Viz Lava-Fire
-Feel: Rage Against the emptiness/harden of heart
-##### Hand: 1-2 hand: 
-+ Pushup: 30 Reverse push up, 100 cat cow push up, Back push up
-+ Hand Stand: 30s
-##### Leg: 
-+ Squat: 30 Deep squat, 30 Standup, 20 Situp Step aside
-+ Walk: Walk Lunge | Duck Walk | Bear Walk | Đinh tấn + Đấm
-+ Jump: Burpee + Jumping Jack
-##### Abdoment**: 
-+ 20 Cross Crunch | 20 Sit up | 10 Army Crawl
-+ Stand/Plank: One leg one arm Plank + Side Plank Leg Rise + Reverse Plank + Wall Hand
-+ Roll: Forward Roll + Cartwheel
-+ power training
-  + Đánh khuỷu tay: xyz – Chéo
-  + Đấm: thẳng, móc, lao, múc, bật ngược, bạt ngang, xuống
-  + Chưởng: thẳng, chặt, trảo xuống
-  + Cầm gối đánh
-  + Chạy tại chỗ - cúi/ngửa
-  + Drumming (như đánh trống taiko)
+| Động tác | Nhóm cơ chính | Nhóm cơ phụ |
+|----------|---------------|-------------|
+| Slow Punch | Vai | Ngực, Core |
+| Horizontal Step-Punch | Vai | Ngực, Core |
+| Hand-edge, claw | Vai | Cẳng tay |
+| Fast Punch | Vai | Core |
+| Kneel Push up | Ngực | Tay sau, Vai |
+| Reverse Push up | Ngực | Tay sau |
+| Back Push up | Ngực | Vai, Tay sau |
+| wall handstand | Vai | Core, Tay |
+| Lizard Crawl | Lưng, Tay | Core |
+| Đánh khuỷu tay (chéo) | Vai | Core |
+| Đấm (thẳng, móc, lao, múc, bật ngược, bạt ngang, xuống) | Ngực, Vai | Tay |
+| Chưởng (thẳng, chặt, trảo xuống) | Ngực, Vai | Tay |
+| Cầm gối đánh | Ngực, Vai | Core |
+| Bear Walk | Lưng, Tay trước | Chân |
+| Drumming (Taiko) | Core | Vai |
+| Elbow to Knee (giữ) | Core | Xiên |
+| Sit up | Bụng trước | Core  |
+| Frog Sit | Bụng trước | Hông |
+| Cross Crunch | Xiên bụng | Core |
+| Army Crawl | Bụng dưới | Vai |
+| One leg one arm Plank | Core tổng hợp | Vai, Xiên |
+| Plank Side Step | Core tổng hợp | Hông |
+| Cross Leg & Raise Hand | Core, Xiên | Cân bằng |
+| Glute Bridges | Mông | Lưng dưới |
+| Walk Lunge | Đùi trước, Mông | Đùi sau |
+| Duck Walk | Đùi trước, Mông | Bắp chân |
+| Đinh tấn + Đấm | Đùi trước, Mông | Vai |
+| Deep Squat | Đùi trước | Mông |
+| Standup | Đùi trước | Core |
+| Situp Step aside | Đùi trước | Core |
+| Horizontal Step Squat | Đùi trước | Core |
+| High Kick | Đùi trước | Core |
+| Low Straight Kicks | Bắp chân | Core |
+| Raise Leg Forward – Skater | Bắp chân | Core |
+
+| Động tác Plank | Nhóm cơ chính | Nhóm cơ phụ |
+|----------|---------------|-------------|
+| Side Plank | Xiên bụng | Core |
+| Side Plank Leg Rise | Xiên bụng | Chân |
+| Superman Hold | Lưng dưới | Mông |
+| Reverse Plank | Lưng | Core |
+
+| Động tác nhảy | Nhóm cơ chính | Nhóm cơ phụ |
+|----------|---------------|-------------|
+| Chạy tại chỗ – cúi/ngửa | Core | Tim phổi |
+| Burpee | Ngực, Tay sau | Core, Chân |
+| Jumping Jack | Vai | Tim phổi |
 --------------------
 **Dumbbell**
 . Hand: 20 Lên-xuống(Dumbell Clean) + 2 Bên(Dumbell Scaption) + Trước-sau(Đấm-Trỏ)
 . Stiff Leg Dead Lift + Cross body
 https://en.wikipedia.org/wiki/Isometric_exercise
 https://en.wikipedia.org/wiki/Outline_of_exercise
+
 
 
 
