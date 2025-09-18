@@ -11,13 +11,20 @@ Feel: Rage Against the emptiness/harden of heart
 + 20 Cross Crunch | 20 Sit up | 10 Army Crawl
 + Stand/Plank: One leg one arm Plank + Side Plank Leg Rise + Reverse Plank + Wall Hand
 + Roll: Forward Roll + Cartwheel
-
++ power training
+  + Đánh khuỷu tay: xyz – Chéo
+  + Đấm: thẳng, móc, lao, múc, bật ngược, bạt ngang, xuống
+  + Chưởng: thẳng, chặt, trảo xuống
+  + Cầm gối đánh
+  + Chạy tại chỗ - cúi/ngửa
+  + Drumming (như đánh trống taiko)
 --------------------
 **Dumbbell**
 . Hand: 20 Lên-xuống(Dumbell Clean) + 2 Bên(Dumbell Scaption) + Trước-sau(Đấm-Trỏ)
 . Stiff Leg Dead Lift + Cross body
 https://en.wikipedia.org/wiki/Isometric_exercise
 https://en.wikipedia.org/wiki/Outline_of_exercise
+
 
 
 
