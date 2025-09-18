@@ -130,181 +130,210 @@ Shoulder Raise > Bicep-Zottman Curl > Arnold Press > One Arm Swing - Dumbbell Cl
   
 </details>
 
+
+<details><summary>Buổi Tập T2 – Core & Cardio Bụng (20 phút)</summary>
+
+### Nguyên tắc thở & tâm ý
+- Hít bằng mũi – thở ra bằng miệng.  
+- Thở bụng: hít vào bụng phình, thở ra bụng xẹp.  
+- Quán tưởng: hít vào hút thanh khí, thở ra nhả trọc khí.  
+
 ---
-### Giáo án 1 tuần – Phiên bản Nam  
 
-**Nguyên tắc thở:** Hít mũi – Thở miệng – Thở bụng (ra lâu hơn vào).  
-**Nghỉ:** 5s giữa động tác (10s khi đổi tư thế đứng ↔ nằm).  
-**Thời lượng:** 20–22 phút/buổi.  
-**Cấu trúc:** 3 phần – Khởi động (3’), Vòng lặp chính (15’), Thư giãn (3’).  
+### Khởi động (3 phút) – Khí khai mạch
+- Slow Punch – 8 nhịp thở, đẩy vật nặng, khí từ Đan điền ra tay. – Nghỉ 5s  
+- Horizontal Step-Punch – 6 lần mỗi bên, mở lồng ngực. – Nghỉ 5s  
+- Vỗ ngực – 12 nhịp, như gấu gõ, đánh thức tim phổi. – Nghỉ 5s  
 
 ---
 
-<details><summary>Buổi Tập T2 – Core & Cardio Bụng</summary>
+### Bài tập chính (15 phút) – Bụng & Đốt mỡ
+**Vòng 1 (6 động tác), lặp lại 2 vòng (ai khỏe tập 3 vòng)**  
 
-### Khởi động (3’)  
-- Slow Punch – 8 nhịp thở – Nghỉ 5s  
-- Horizontal Step-Punch – 8 nhịp thở – Nghỉ 5s  
-- Hand-edge, claw, Drum – 6 nhịp thở – Nghỉ 5s  
+1. Fast Punch – 20 cái, mưa rơi gõ đất, xả uế khí. – Nghỉ 5s  
+2. Elbow to Knee (giữ 1s) – 12 lần mỗi bên, khỉ co người, khí dồn bụng dưới. – Nghỉ 5s  
+3. Low Straight Kicks – 12 lần mỗi bên, ngựa tung vó, quét trệ khí. – Nghỉ 5s  
+4. Frog Sit (gập bụng dạng ếch) – 15 lần, khí hội ở Đan điền. – Nghỉ 5s  
+5. Roll Backward (gồng bụng giữ khi lăn) – 8 lần, khí xoáy quanh rốn. – Nghỉ 5s  
+6. Side Plank – giữ 5 nhịp thở mỗi bên, khí dọc sườn. – Nghỉ 5s  
 
-### Vòng lặp chính (15’) – 3 vòng  
-- Elbow to Knee (chậm, giữ 2s) – 10 nhịp thở – Nghỉ 5s  
-- Fast Punch – 15 nhịp thở – Nghỉ 5s  
-- Sit up (chậm, siết bụng) – 10 lần – Nghỉ 5s  
-- Push up (Kneel hoặc Full) – 8–12 lần – Nghỉ 5s  
-- Low Straight Kicks – 12 mỗi chân – Nghỉ 5s  
-- Side Plank – 5 nhịp thở/bên – Nghỉ 5s  
-- Glute Bridge (một chân nếu khỏe) – 10–12 lần – Nghỉ 5s  
+---
 
-### Thư giãn (3’)  
-- Cobra – 5 nhịp thở – Nghỉ 5s  
-- Superman Hold – 5 nhịp thở – Nghỉ 5s  
-- Cross Leg & Raise Hand – 6 nhịp thở  
+### Thư giãn – Dưỡng sinh (3–4 phút)
+- Cobra Hold – giữ 6 nhịp thở, mở ngực, giải phóng lưng dưới.  
+- Superman Hold – giữ 5 nhịp thở, khí từ thắt lưng lan toàn thân.  
+- Ngồi xếp bằng, Cross Leg & Raise Hand – 8 nhịp thở, hít vào nâng tay, thở ra hạ.  
 
 </details>
 
----
 
-<details><summary>Buổi Tập T3 – Toàn Thân Sức Mạnh</summary>
+<details><summary>Buổi Tập T3 – Upper Body & Tư Thế (22 phút)</summary>
 
-### Khởi động (3’)  
-- Horizontal Step-Punch – 8 nhịp thở – Nghỉ 5s  
-- Tiptoe Bounce – 10 nhịp thở – Nghỉ 5s  
-- Drum (vỗ bụng – lưng) – 6 nhịp thở  
-
-### Vòng lặp chính (15’) – 3 vòng  
-- Push up (Full hoặc Kneel) – 10–12 lần – Nghỉ 5s  
-- Elbow to Knee – 10 nhịp thở – Nghỉ 5s  
-- Frog Sit – 12 lần – Nghỉ 5s  
-- Plank Side Step (giữ plank, bước nhỏ) – 8–10 bước mỗi bên – Nghỉ 5s  
-- Raise Leg Forward – Skater – 12 lần mỗi bên – Nghỉ 5s  
-- Lizard Crawl (ngắn, giữ hông thấp) – 6 bước mỗi bên – Nghỉ 5s  
-
-### Thư giãn (3’)  
-- Superman Hold – 5 nhịp thở – Nghỉ 5s  
-- Cobra – 5 nhịp thở – Nghỉ 5s  
-- Cross Leg & Raise Hand – 6 nhịp thở  
-
-</details>
+### Khởi động (3 phút) – Khí khởi tay vai
+- Drum (đánh trống) – 12 nhịp, ấm vai ngực. – Nghỉ 5s  
+- Hand-edge, claw – 8 lần mỗi bên, hổ cào, khí dồn cánh tay. – Nghỉ 5s  
+- Tiptoe Bounce – 12 nhịp, nhẹ nhàng, khai thông chân khí. – Nghỉ 5s  
 
 ---
 
-<details><summary>Buổi Tập T4 – Cardio & Vai – Ngực</summary>
+### Bài tập chính (15 phút) – Vai – Ngực – Cột sống
+**Vòng 1 (6 động tác), lặp lại 2–3 vòng**  
 
-### Khởi động (3’)  
-- Slow Punch – 8 nhịp thở – Nghỉ 5s  
-- Horizontal Step-Punch – 8 nhịp thở – Nghỉ 5s  
-- Drum (gõ vai – ngực) – 6 nhịp thở  
-
-### Vòng lặp chính (15’) – 3 vòng  
-- Fast Punch (nhanh) – 20 nhịp thở – Nghỉ 5s  
-- Kneel Push up → Full Push up nếu khỏe – 10–12 lần – Nghỉ 5s  
-- Elbow to Knee – 10 nhịp thở – Nghỉ 5s  
-- Low Straight Kicks – 12 mỗi chân – Nghỉ 5s  
-- Side Plank với nâng tay trên – 5 nhịp thở/bên – Nghỉ 5s  
-- Glute Bridge 1 chân – 8–10 lần mỗi bên – Nghỉ 5s  
-
-### Thư giãn (3’)  
-- Cobra – 5 nhịp thở – Nghỉ 5s  
-- Superman Hold – 5 nhịp thở – Nghỉ 5s  
-- Cross Leg & Raise Hand – 6 nhịp thở  
-
-</details>
+1. Fast Punch – 20 cái, giải tỏa khí trệ vai. – Nghỉ 5s  
+2. Kneel Push up – 12–15 cái, khí bàn tay dồn ngực. (Khó hơn: push-up thường) – Nghỉ 5s  
+3. Plank Side Step – 12 bước mỗi bên, giữ thân như núi. – Nghỉ 5s  
+4. Lizard Crawl (chậm) – 6 bước mỗi bên, thân mềm dẻo như thằn lằn. – Nghỉ 5s  
+5. Sit up – 12–15 cái, khí hội vùng bụng. – Nghỉ 5s  
+6. Side Plank with Arm Raise – giữ 5 nhịp thở, khí dọc sườn – Nghỉ 5s  
 
 ---
 
-<details><summary>Buổi Tập T5 – Core & Hông</summary>
-
-### Khởi động (3’)  
-- Horizontal Step-Punch – 8 nhịp thở – Nghỉ 5s  
-- Hand-edge, claw, Drum – 6 nhịp thở – Nghỉ 5s  
-- Tiptoe Bounce – 10 nhịp thở  
-
-### Vòng lặp chính (15’) – 3 vòng  
-- Sit up (chậm) – 10 lần – Nghỉ 5s  
-- Glute Bridge (giữ 2s trên cao) – 10–12 lần – Nghỉ 5s  
-- Elbow to Knee – 10 nhịp thở – Nghỉ 5s  
-- Frog Sit – 12 lần – Nghỉ 5s  
-- Side Plank (gõ hông nhẹ xuống đất) – 8 lần mỗi bên – Nghỉ 5s  
-- Lizard Crawl – 6 bước mỗi bên – Nghỉ 5s  
-
-### Thư giãn (3’)  
-- Cobra – 5 nhịp thở – Nghỉ 5s  
-- Superman Hold – 5 nhịp thở – Nghỉ 5s  
-- Cross Leg & Raise Hand – 6 nhịp thở  
+### Thư giãn (3–4 phút)
+- Cat–Cow (tự thêm) – 6 chu kỳ, khí chạy dọc cột sống.  
+- Cross Leg & Raise Hand – 8 nhịp thở, khai mở phổi.  
 
 </details>
+
+
+<details><summary>Buổi Tập T4 – Hạ Thân & Giải Phóng Hông (21 phút)</summary>
+
+### Khởi động (3 phút)
+- Slow Punch – 8 nhịp thở, tỉnh khí. – Nghỉ 5s  
+- Horizontal Step Punch – 6 lần mỗi bên. – Nghỉ 5s  
+- Vỗ ngực – 10 nhịp. – Nghỉ 5s  
 
 ---
 
-<details><summary>Buổi Tập T6 – Cardio + Toàn Thân</summary>
+### Bài tập chính (15 phút) – Hông – Mông – Đùi
+**Vòng 1, lặp 2 vòng**  
 
-### Khởi động (3’)  
-- Slow Punch – 8 nhịp thở – Nghỉ 5s  
-- Horizontal Step-Punch – 8 nhịp thở – Nghỉ 5s  
-- Tiptoe Bounce – 10 nhịp thở  
-
-### Vòng lặp chính (15’) – 3 vòng  
-- Fast Punch – 20 nhịp thở – Nghỉ 5s  
-- Horizontal Step Squat – 10 lần – Nghỉ 5s  
-- Sit up – 10 lần – Nghỉ 5s  
-- Raise Leg Forward – Skater – 12 lần mỗi bên – Nghỉ 5s  
-- Low Straight Kicks – 12 lần mỗi chân – Nghỉ 5s  
-- Push up – 8–12 lần – Nghỉ 5s  
-- Side Plank – 5 nhịp thở/bên – Nghỉ 5s  
-
-### Thư giãn (3’)  
-- Cobra – 5 nhịp thở – Nghỉ 5s  
-- Superman Hold – 5 nhịp thở – Nghỉ 5s  
-- Cross Leg & Raise Hand – 6 nhịp thở  
-
-</details>
+1. Horizontal Step Squat – 12 lần, khí tụ hạ thân. – Nghỉ 5s  
+2. Glute Bridge – 15 cái, sông nâng thuyền, khí dâng từ bụng dưới lên ngực. – Nghỉ 5s  
+3. Raise Leg Forward – Skater – 12 lần mỗi bên, trượt băng nhẹ nhàng. – Nghỉ 5s  
+4. Low Straight Kicks – 12 lần mỗi bên, quét khí. – Nghỉ 5s  
+5. Side Plank – giữ 5 nhịp thở mỗi bên. – Nghỉ 5s  
+6. Lizard Crawl – 6 bước, mở hông. – Nghỉ 5s  
 
 ---
 
-<details><summary>Buổi Tập T7 – Core & Sức Mạnh</summary>
-
-### Khởi động (3’)  
-- Drum (vỗ ngực – bụng – lưng) – 6 nhịp thở – Nghỉ 5s  
-- Horizontal Step-Punch – 8 nhịp thở – Nghỉ 5s  
-- Tiptoe Bounce – 10 nhịp thở  
-
-### Vòng lặp chính (15’) – 3 vòng  
-- Sit up (có xoay chéo) – 8–10 mỗi bên – Nghỉ 5s  
-- Push up (Full hoặc nghiêng người) – 10–12 lần – Nghỉ 5s  
-- Frog Sit – 12 lần – Nghỉ 5s  
-- Glute Bridge 1 chân – 8–10 mỗi bên – Nghỉ 5s  
-- Side Plank (giữ cao hông) – 5 nhịp thở/bên – Nghỉ 5s  
-- Lizard Crawl – 6 bước mỗi bên – Nghỉ 5s  
-
-### Thư giãn (3’)  
-- Cobra – 5 nhịp thở – Nghỉ 5s  
-- Superman Hold – 5 nhịp thở – Nghỉ 5s  
-- Cross Leg & Raise Hand – 6 nhịp thở  
+### Thư giãn (3–4 phút)
+- Cobra Hold – 5 nhịp thở.  
+- Cross Leg & Raise Hand – 8 nhịp thở.  
 
 </details>
+
+
+<details><summary>Buổi Tập T5 – Cardio Nhẹ & Xả Stress (22 phút)</summary>
+
+### Khởi động (3 phút)
+- Drum – 12 nhịp, khai dương khí. – Nghỉ 5s  
+- Tiptoe Bounce – 15 nhịp. – Nghỉ 5s  
+- Vỗ ngực – 10 nhịp. – Nghỉ 5s  
 
 ---
 
-<details><summary>Buổi Tập CN – Dưỡng Sinh & Hồi Phục</summary>
+### Bài tập chính (15 phút) – Đốt mỡ – Thư giãn tâm
+**Vòng 1, lặp 2–3 vòng**  
 
-### Khởi động (3’)  
-- Slow Punch – 8 nhịp thở – Nghỉ 5s  
-- Horizontal Step-Punch – 8 nhịp thở – Nghỉ 5s  
-- Drum – 6 nhịp thở  
+1. Fast Punch – 25 cái, mưa gõ đất. – Nghỉ 5s  
+2. Horizontal Step Squat – 12 lần, ổn định gối. – Nghỉ 5s  
+3. Elbow to Knee (giữ 1s) – 12 lần mỗi bên. – Nghỉ 5s  
+4. Sit up – 15 cái, tập trung Đan điền. – Nghỉ 5s  
+5. Glute Bridge – 15 cái, thông khí hạ thân. – Nghỉ 5s  
+6. Plank Hold – giữ 6 nhịp thở, thân như tấm ván. – Nghỉ 5s  
 
-### Vòng lặp chính (15’) – 3 vòng (nhẹ hơn)  
-- Elbow to Knee (giữ chậm 3s) – 6 nhịp thở – Nghỉ 5s  
-- Sit up (chậm, nửa chừng) – 8 lần – Nghỉ 5s  
-- Low Straight Kicks (nhẹ) – 10 mỗi chân – Nghỉ 5s  
-- Plank (giữ 5 nhịp thở) – Nghỉ 5s  
-- Glute Bridge (chậm) – 10 lần – Nghỉ 5s  
+---
 
-### Thư giãn (3’)  
-- Cobra – 6 nhịp thở – Nghỉ 5s  
-- Superman Hold – 5 nhịp thở – Nghỉ 5s  
-- Cross Leg & Raise Hand – 6 nhịp thở  
+### Thư giãn (3–4 phút)
+- Superman Hold – 5 nhịp thở.  
+- Cross Leg & Raise Hand – 8 nhịp thở.  
 
 </details>
+
+
+<details><summary>Buổi Tập T6 – Core & Lưng Dưới (21 phút)</summary>
+
+### Khởi động (3 phút)
+- Slow Punch – 8 nhịp. – Nghỉ 5s  
+- Hand-edge, claw – 8 lần mỗi bên. – Nghỉ 5s  
+- Drum – 12 nhịp. – Nghỉ 5s  
+
+---
+
+### Bài tập chính (15 phút)
+**Vòng 1, lặp 2 vòng**  
+
+1. Low Straight Kick – 12 lần mỗi bên. – Nghỉ 5s  
+2. Roll Backward (gồng bụng) – 10 lần. – Nghỉ 5s  
+3. Frog Sit – 15 cái. – Nghỉ 5s  
+4. Glute Bridge March (từng chân) – 12 lần mỗi bên. – Nghỉ 5s  
+5. Side Plank – giữ 5 nhịp mỗi bên. – Nghỉ 5s  
+6. Lizard Crawl – 6 bước mỗi bên. – Nghỉ 5s  
+
+---
+
+### Thư giãn (3–4 phút)
+- Cobra Hold – 6 nhịp thở.  
+- Superman Hold – 5 nhịp thở.  
+
+</details>
+
+
+<details><summary>Buổi Tập T7 – Toàn Thân & Khí Hành (23 phút)</summary>
+
+### Khởi động (3 phút)
+- Slow Punch – 8 nhịp. – Nghỉ 5s  
+- Tiptoe Bounce – 12 nhịp. – Nghỉ 5s  
+- Vỗ ngực – 12 nhịp. – Nghỉ 5s  
+
+---
+
+### Bài tập chính (16 phút) – Toàn thân
+**Vòng 1 (7 động tác), lặp 2 vòng**  
+
+1. Fast Punch – 25 cái. – Nghỉ 5s  
+2. Horizontal Step Squat – 12 lần. – Nghỉ 5s  
+3. Elbow to Knee (giữ 1s) – 12 lần mỗi bên. – Nghỉ 5s  
+4. Kneel Push up – 12–15 cái. – Nghỉ 5s  
+5. Sit up – 15 cái. – Nghỉ 5s  
+6. Glute Bridge – 15 cái. – Nghỉ 5s  
+7. Plank Side Step – 10 bước mỗi bên. – Nghỉ 5s  
+
+---
+
+### Thư giãn (3–4 phút)
+- Cat–Cow – 6 chu kỳ.  
+- Cross Leg & Raise Hand – 8 nhịp thở.  
+
+</details>
+
+
+<details><summary>Buổi Tập CN – Dưỡng Sinh & Phục Hồi (20 phút)</summary>
+
+### Khởi động (3 phút)
+- Slow Punch – 6 nhịp. – Nghỉ 5s  
+- Drum – 10 nhịp. – Nghỉ 5s  
+- Vỗ ngực – 8 nhịp. – Nghỉ 5s  
+
+---
+
+### Bài tập chính (14 phút) – Nhẹ nhàng, phục hồi
+**Vòng 1, lặp 2 vòng**  
+
+1. Horizontal Step Punch – 10 lần mỗi bên. – Nghỉ 5s  
+2. Elbow to Knee (nhẹ) – 8 lần mỗi bên. – Nghỉ 5s  
+3. Glute Bridge – 12 lần. – Nghỉ 5s  
+4. Side Plank – giữ 4 nhịp mỗi bên. – Nghỉ 5s  
+5. Superman Hold – giữ 5 nhịp. – Nghỉ 5s  
+6. Cat–Cow – 6 chu kỳ. – Nghỉ 5s  
+
+---
+
+### Thư giãn (3 phút)
+- Cobra Hold – 6 nhịp thở.  
+- Ngồi xếp bằng, Cross Leg & Raise Hand – 8 nhịp thở, thu khí về Đan điền.  
+
+</details>
+
 
 
