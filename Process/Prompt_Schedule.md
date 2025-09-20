@@ -11,7 +11,7 @@
   + 4 number - 4 number is time block. Ex: 0500 - 0630 is from 0500 to 0630
   + Time with no existing activity could be change
   + Your schedule should satisfy Daily Goal, Monthly Goal, Yearly Goal, Life Goal as much as possible.
-  + Always add task to write check, update and write the schedule you response to paper. This task should be in the schedule start as soon as possible.
+  + Always add task for me to write check, update and write the schedule you response to paper. This task should be in the schedule start as soon as possible.
 
 #### Requirement:
 - Use **small, achievable steps** to prevent overwhelm.
