@@ -1,9 +1,11 @@
 ### Daily goal
-#### Dhamma Practice
+#### Dhamma Pratice
++ Meditation Anapana, Marana, Dhamma, Karuna, Asubha, Dhatu, Arupa for each at least 5 minutes
+#### Dhamma Study
 + :anchor:Listen [Everning Thanissaro Dhamma talk](https://www.dhammatalks.org/audio/evening/) for 15+ minutes, or Short [Morn Short](https://www.dhammatalks.org/audio/morning/) for 3+ minutes.
 + :u7a7a: Read  [Majjhima Nikaya Sutta](https://suttacentral.net/mn-mulapannasa) or Listen [Audio](https://www.paliaudio.com/majjhima-nikaya) & Remember, Learn by Lying down, walk :,:waning_crescent_moon: if bored, could read random short sutta. Read  Or
 + Read Book: [stg On The Path](https://www.dhammatalks.org/books/OnThePath/Section0001.html)
-+ Meditation for at least 5 minutes
+
 #### Take care Body
 + :muscle: Learn Excercise and get familiar with it: [20Rou](https://github.com/ThanhNguyen24590/Body/blob/main/Exc/20Rou.md)
 #### Study Career
