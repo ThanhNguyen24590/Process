@@ -4,6 +4,7 @@
 - Gender: Male, Heterosexual
 - Marital status: Single
 - Occupation: Software Developer
+- Nationality: Southern Vietnamese (Saigon), never travel out country.
 - Living situation: Live with parent & have separate room
 
 #### Personality
