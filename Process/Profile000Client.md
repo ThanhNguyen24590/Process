@@ -1,6 +1,8 @@
 #### Basic Information
 - Name: Tan
 - Birth year: 1990
+- Height: 1m65
+- Weight: 80kg
 - Gender: Male, Heterosexual
 - Marital status: Single
 - Occupation: Software Developer
@@ -24,7 +26,7 @@
 - Do not have suicidal thoughts or passive wish “not to exist”, but do have wish to transcend reality.
 #### Interests, Hobbies & Avoidant Behaviors
 - Spends most of his free time reading light novels.
-- Avoids substances like alcohol, psychedelics, gambling because think that beneath himself.
+- Avoids substances like alcohol, psychedelics, gambling, smoking because think that beneath himself.
 - Do not have frequent burst of energy from excercise, he do have it, but rarely, and not for a while now.
 #### Social Relationships & Support
 - Not have close friends.
