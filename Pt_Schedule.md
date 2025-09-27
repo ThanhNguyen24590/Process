@@ -59,3 +59,12 @@ Example
 ...
 #### 1000
 ````
+- Group hours into 4 sections: Dawn, Morn, Noon, Eve. Each with format:
+````
+<details><summary>Dawn: 0500 - 0630</summary>
+
+#### 0500
+....
+</details>
+````
+ 
