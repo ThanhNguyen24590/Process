@@ -46,7 +46,7 @@ Always fetch source files via `open_url()` (not search) when referencing Data So
 - Insert a header for each new hour (`#### HHMM`).
 - Bold all time ranges (`**HHMM - HHMM**`).
 - Format the time block in bold: HHMM - HHMM (e.g., 0930 - 1000).
-- Use GitHub Markdown, write each activity as a bullet with:
+- Output in GitHub Markdown Code Block to easy copy paste, write each activity as a bullet with:
 ````
 ### Starting hour. (Ex: 0900, 1000, 1100,..)
 - HHMM - HHMM : emoji Activity title : 
