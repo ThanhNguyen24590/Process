@@ -7,12 +7,12 @@ Your task is to create a personalized schedule for a client based on the followi
   + Duration: 0930 - 1200
 ### Data Sources:
 Always fetch source files via `open_url()` (not search) when referencing Data Sources, and use it as the basis for designing the schedule:
-+ Coach's Role: https://raw.githubusercontent.com/ThanhNguyen24590/Process/main/Process/Profile001CoachLife.md
++ Coach's Role: https://raw.githubusercontent.com/ThanhNguyen24590/Process/main/Pf_Coach_Life.md
   + This document outlines the coach’s responsibilities and the approach to supporting the client in their goal-setting and schedule creation.
-+ Client’s profile: https://raw.githubusercontent.com/ThanhNguyen24590/Process/main/Process/Profile000Client.md
-+ Client goal and daily task: https://raw.githubusercontent.com/ThanhNguyen24590/Process/main/Process/Profile0001ClientGoalAndTask.md
++ Client’s profile: https://raw.githubusercontent.com/ThanhNguyen24590/Process/main/Pf_Client.md
++ Client goal and daily task: https://raw.githubusercontent.com/ThanhNguyen24590/Process/main/Pf_ClientGoalTask.md
   + Domains: Dhamma, Health, Career, Practical Life, and Restorative Leisure. These refer to the major areas of focus for the client. Each task and goals will fall under one of these categories.
-+ Client sample schedule: https://raw.githubusercontent.com/ThanhNguyen24590/Process/main/Process/Profile0002ClientSchedule.md
++ Client sample schedule: https://raw.githubusercontent.com/ThanhNguyen24590/Process/main/Pf_TmpSchedule.md
   - Time block format: `HHMM - HHMM` (e.g., 0500 - 0630)  
   - If duration only: e.g., `10: :shower: Bath` = 10 minutes for bath  
 ---
