@@ -1,5 +1,7 @@
-https://github.com/ThanhNguyen24590/Process/blob/main/Process/Prompt_Schedule.md </br>
-https://github.com/ThanhNguyen24590/Dh/blob/main/Med/SuttaLst.md
+https://github.com/ThanhNguyen24590/Process/blob/main/Process/Pt_Schedule.md </br>
+https://github.com/ThanhNguyen24590/Dh/blob/main/Med/SuttaLst.md </br>
+https://github.com/ThanhNguyen24590/Body/blob/main/Exc/R_Str.md
+
  <details><summary>Sati: Anapana, Marana, Dhamma, Karuna, Asubha > Dhatu, Arupa</summary>
 
 + :high_brightness: Anapana: Stability & Joy > Kaya, Vedana, Citta, Dhamma
@@ -124,6 +126,7 @@ Weekly
 + Cs: ISTQB
 + Jp: Duolingo, 10 Kanji, Gammar, Read
 + Manual Skill: Nt: Sk, Learn about tool & item you used.
+
 
 
 
