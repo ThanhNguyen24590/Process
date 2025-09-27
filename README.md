@@ -1,3 +1,4 @@
+https://github.com/ThanhNguyen24590/Process/blob/main/Process/Prompt_Schedule.md
  <details><summary>Sati: Anapana, Marana, Dhamma, Karuna, Asubha > Dhatu, Arupa</summary>
 
 + :high_brightness: Anapana: Stability & Joy > Kaya, Vedana, Citta, Dhamma
@@ -122,6 +123,7 @@ Weekly
 + Cs: ISTQB
 + Jp: Duolingo, 10 Kanji, Gammar, Read
 + Manual Skill: Nt: Sk, Learn about tool & item you used.
+
 
 
 
