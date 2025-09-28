@@ -51,7 +51,7 @@ Every hour: Anap + Stretch + Tibialis anterior exc
 - **1230 – 1300** : 🌬️ Anapanasati 4.
 </details>
 
-<details><summary>Aft</summary>
+<details><summary>Aft: 1300 - 1800</summary>
 
 |   | Noon                                     |
 |-------|---------------------------------------------|
@@ -139,6 +139,7 @@ Weekly
 + Cs: ISTQB
 + Jp: Duolingo, 10 Kanji, Gammar, Read
 + Manual Skill: Nt: Sk, Learn about tool & item you used.
+
 
 
 
