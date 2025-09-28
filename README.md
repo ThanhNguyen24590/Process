@@ -2,6 +2,7 @@ https://github.com/ThanhNguyen24590/Process/blob/main/Pt_Schedule.md </br>
 https://github.com/ThanhNguyen24590/Dh/blob/main/Med/SuttaLst.md </br>
 https://github.com/ThanhNguyen24590/Body/blob/main/Exc/R_Str.md
 
+---
 <details><summary>Dawn: 0500 - 0730 </summary>
 
 - **0500 – 0505** : 🔅 Check & Update Schedule Paper: Make the objective & deadline clear.
@@ -22,6 +23,7 @@ https://github.com/ThanhNguyen24590/Body/blob/main/Exc/R_Str.md
   - ☣️ Health: Asubha
 </details>
 
+---
 <details><summary>Morn: 0630 - 1300: Every hour: Anap + Stretch + Tibialis anterior exc</summary>
 
 - **0730 – 0745** : :u7a7a: Qigong : Connect breath and body, loosen joints.
@@ -48,6 +50,7 @@ https://github.com/ThanhNguyen24590/Body/blob/main/Exc/R_Str.md
 - **1230 – 1300** : :sunny: [Dh Talk](https://www.dhammatalks.org/audio/morning/) + 🌬️ Anapanasati 4.
 </details>
 
+---
 <details><summary>Aft: 1300 - 1800 : Every hour: Anap + Stretch + Tibialis anterior exc</summary>
 
 - **1300 – 1305** : Hygiene * Prep Drink
@@ -65,6 +68,7 @@ https://github.com/ThanhNguyen24590/Body/blob/main/Exc/R_Str.md
   - ☣️ Health: Asubha
 </details>
 
+---
 <details><summary>Eve: 1800 - 2200: Every hour: Anap + Stretch + Tibialis anterior exc</summary>
 
 - **1800 – 1830** : 🚶 Run/Walk + Anap
@@ -142,6 +146,7 @@ Weekly
 + Cs: ISTQB
 + Jp: Duolingo, 10 Kanji, Gammar, Read
 + Manual Skill: Nt: Sk, Learn about tool & item you used.
+
 
 
 
