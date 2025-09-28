@@ -2,7 +2,7 @@ https://github.com/ThanhNguyen24590/Process/blob/main/Pt_Schedule.md </br>
 https://github.com/ThanhNguyen24590/Dh/blob/main/Med/SuttaLst.md </br>
 https://github.com/ThanhNguyen24590/Body/blob/main/Exc/R_Str.md
 
-<details><summary>Morn 1 </summary>
+<details><summary>Dawn </summary>
 
 #### 0500
 - **0500 – 0505** : 🔅 Check & Update Schedule Paper: Make the objective & deadline clear.
@@ -23,18 +23,35 @@ https://github.com/ThanhNguyen24590/Body/blob/main/Exc/R_Str.md
   - ☣️ Health: Asubha
 </details>
 
-<details><summary>Morn 2</summary>
+<details><summary>Morn: 0630 - 1300</summary>
 
-| Morn 2  |                                                                |
-| :-------: | :----------------------------------------------------------------------- |
-| 0700   | :sunny: [Dex](https://github.com/ThanhNguyen24590/Process/blob/main/Body/Dex.md) > [5 animals frolic](https://github.com/ThanhNguyen24590/Process/blob/main/Body/5-Animals.md) | 
-| 0800   | :coffee: Prep Work: Prep Drink, Check Calendar, Mail, Task |
-|   | :sunny: Rec [8 fold path](https://github.com/ThanhNguyen24590/Process/blob/main/README.md) :sunny: Rw Rou > Sche paper, set goal & Progress Bar |
-|---|--Work--|
-| Zenith  | 40: :white_flower: Fd, Fruit :white_flower: Dex :white_flower: Dh Talk -> Med Anap |
+Every hour: Anap + Stretch + Tibialis anterior exc
+#### 0700
+- **0730 – 0745** : :u7a7a: Qigong : Connect breath and body, loosen joints.
+- **0745 – 0800** : :coffee: Prep Office + Drink + Hygiene
+#### 0800
+- **0800 – 0815** : :dart: Check chat > mail > calendar > Jira Dashboard + Review Task: done & need done. Need anymore resouce?
+- **0815 – 0830** : :alarm_clock: Set time block for task, structurize time.
+- **0830 – 0840** : :four_leaf_clover: Daily Report: Talk what done, what to do TODAY + Progress on Long term + Check Calendar.  
+- **0840 – 0900** : :rice: Prep/Get resource.
+
+#### 0900
+- **0900 – 0930** : 💻 Career Study – ISTQB : Read a section or do a short mock test. *Supports yearly certification exam goal.*  
+- **0930 – 1000** : 🎐 Japanese Grammar & Vocabulary : Practice grammar pattern & 10 words. *Supports yearly JLPT N5 goal.* 
+#### 1000 
+- **1000 – 1030** : 📖 Dhamma Book (On the Path) : Read 1 section & highlight key phrase. *Supports daily study.*  
+- **1030 – 1100** : 🎶 Piano Practice : Play casually for joy. *Supports daily leisure & balance.*  
+#### 1100
+- **1100 – 1130** : 🧘 Meditation – Karuṇā or Marana : Reflect on compassion or death. *Supports daily Dhamma cycle.*  
+- **1130 – 1200** : 🥗 Lunch Prep & Meal : Eat slowly, add fruit. *Supports health & energy.*  
+
+#### 1200
+- **1200 – 1220** : 🥗 Lunch
+- **1220 – 1230** : :curly_loop: Stretch + :sa: Rw Jp
+- **1230 – 1300** : 🌬️ Anapanasati 4.
 </details>
 
-<details><summary>afNoon</summary>
+<details><summary>PM</summary>
 
 |   | Noon                                     |
 |-------|---------------------------------------------|
@@ -117,6 +134,7 @@ Weekly
 + Cs: ISTQB
 + Jp: Duolingo, 10 Kanji, Gammar, Read
 + Manual Skill: Nt: Sk, Learn about tool & item you used.
+
 
 
 
