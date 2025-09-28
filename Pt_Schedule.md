@@ -43,9 +43,7 @@ Always fetch source files via `open_url()` (not search) when referencing Data So
 #### Output:
 - Do not use tables.
 - Leave one blank line between activities.
-- Insert a header for each new hour (`#### HHMM`).
 - Bold all time ranges (`**HHMM - HHMM**`).
-- Format the time block in bold: HHMM - HHMM (e.g., 0930 - 1000).
 - Output in GitHub Markdown Code Block to easy copy paste, write each activity as a bullet with:
 ````
 ### Starting hour. (Ex: 0900, 1000, 1100,..)
