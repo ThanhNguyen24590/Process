@@ -51,7 +51,7 @@ Every hour: Anap + Stretch + Tibialis anterior exc
 - **1230 – 1300** : 🌬️ Anapanasati 4.
 </details>
 
-<details><summary>PM</summary>
+<details><summary>Aft</summary>
 
 |   | Noon                                     |
 |-------|---------------------------------------------|
@@ -61,23 +61,28 @@ Every hour: Anap + Stretch + Tibialis anterior exc
 | 1700 - Body| Transit & Exc                               |
 </details>
 
-<details><summary>Eve</summary>
+<details><summary>Eve: 1800 - 2200</summary>
 
-|       |                                               |
-| :------- | :------------------------------------------------------------------------ |
-| Transition | 10: :wind_chime: Change Clothes, Check Light & Air :meat_on_bone: [Mara](https://github.com/ThanhNguyen24590/Process/blob/main/Med/Marana.md) :full_moon: Upd Sche paper, set Work & Progress Bar |
-|  | 10: :moyai: Check Body : Visual, Proportion, Feeling & Discomfort > Msg [Face & Orifices](https://github.com/ThanhNguyen24590/Process/blob/main/Body/HygMsg.md)  |
-|  | 20: :shower: Bath :mushroom: Prep meal: Veggies + Prep drink: milk, herb tea, salted lemon. No caffein |
-|    | |
-| Dh | 10: :anchor:[Eve Dh](https://www.dhammatalks.org/audio/evening/) :u7a7a: Rm Full MN Sutta > Learn: Lying down, walk > :waning_crescent_moon: Rnd (1..50) |
-|  | 30: Med Anap - [Dhamma](https://github.com/ThanhNguyen24590/Process/blob/main/Med/Dh.md), Sleep, Music > Feel |
-| Health | 10: :seedling: Check Back pain & Settle: [DexL](https://github.com/ThanhNguyen24590/Process/blob/main/Body/DexL.md), [Str](https://github.com/ThanhNguyen24590/Process/blob/main/Body/Str.md) |
-|    | |
-| St | 20: Jp: :fallen_leaf: Grammar-Speak (25 lession) :cherry_blossom: Vocabulary :mount_fuji: Kanji (Part 2-300 words)  |
-|    | 20: :computer: Read Full ISTQB Bok + Crs + Mock Test |
-|    |  |
-| 2130 | :musical_keyboard: Piano-Make it fun   |
-| 2200 | :recycle: [DexL](https://github.com/ThanhNguyen24590/Process/blob/main/Body/DexL.md) > Sleep |
+#### 1800
+- **1800 – 1830** : 🚶 Run/Walk + Anap
+- **1830 – 1840** : 🕯️ Preparation : Change clothes, adjust room environment.  
+- **1840 – 1900** : 🍲 Short Dinner
+
+#### 1900
+- **1900 – 1910** : :shower: Bath + ☣️ Health: Asubha > Reset & Refresh
+- **1910 – 1930** : 🌿 Prep drink + Chant Recollect Transition
+- **1930 – 2000** : 🌙 Qigong | Gentle Stretching | Music > Lying down release body tension & Rest
+
+#### 2000
+- **2000 – 2015** : :waning_crescent_moon: Sutta Reading 
+- **2015 – 2030** : :muscle: Exc Str 
+- **2030 – 2055** : 🎐 Japanese Study – Grammar & Vocabulary : Light review. *Supports yearly JLPT goal.* 
+- **2055 – 2100** : :curly_loop: Stretch 
+#### 2100
+- **2100 – 2130** : 💻 ISTQB
+- **2130 – 2145** : 🎶 Piano – Make it fun
+- **2145 – 2155** : 📓 Journaling & Reflection : Note Dhamma insight, what went well today. > Reflection & growth.
+- **2155 – 2200** : 🌿 Sleep Prep (DexL stretch, hygiene) > Sleep 
 </details>
 
 ---
@@ -134,6 +139,7 @@ Weekly
 + Cs: ISTQB
 + Jp: Duolingo, 10 Kanji, Gammar, Read
 + Manual Skill: Nt: Sk, Learn about tool & item you used.
+
 
 
 
