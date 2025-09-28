@@ -2,34 +2,24 @@ https://github.com/ThanhNguyen24590/Process/blob/main/Pt_Schedule.md </br>
 https://github.com/ThanhNguyen24590/Dh/blob/main/Med/SuttaLst.md </br>
 https://github.com/ThanhNguyen24590/Body/blob/main/Exc/R_Str.md
 
-<details><summary>Sati: Anapana, Marana, Dhamma, Karuna, Asubha > Dhatu, Arupa</summary>
-
-+ :high_brightness: Anapana: Stability & Joy > Kaya, Vedana, Citta, Dhamma
-+ Marana: Limitation & Goals > Schedule to hour, even min if neccessary
-+ Dhamma: Refuge & Direction
-+ Karuna: Emotion
-+ Asubha: Nekkamma
-+ Dhatu: Open vs Small/Strict
-+ Arupa: vs Rupa
-</details>
-
 <details><summary>Morn 1 </summary>
-  
-|   |                                                                |
-| :-------: | :----------------------------------------------------------------------- |
-|  | :low_brightness: [DexL](https://github.com/ThanhNguyen24590/Process/blob/main/Body/DexL.md) :toilet: Bathroom   |
-|  | 10: :high_brightness: Out & Aware Rou :fire: Obs body process > Connect Sky & Anap: [Skin](https://github.com/ThanhNguyen24590/Process/blob/main/Body/HygMsg.md) |
-| Refuge Dh | 10: :sunflower: Short DhL [Morn Talk](https://www.dhammatalks.org/audio/morning/)  |
-| | 20: :sunny: set base/refuge: Anap-weather station |
-| | 20: 4 protect: :pray: [Dhamma](https://github.com/ThanhNguyen24590/Process/blob/main/Med/Dh.md) :milky_way: Metta/Karuna :meat_on_bone: [Mara](https://github.com/ThanhNguyen24590/Process/blob/main/Med/Marana.md) :biohazard: Asubha|
-| | |
-| Qigong | 15: :fire: Connect Sky & Anap > , [Joint](https://github.com/ThanhNguyen24590/Process/blob/main/Body/Dex.md)     |
-|    | 15: :muscle: Unify Rythm of [Str](https://github.com/ThanhNguyen24590/Process/blob/main/Body/Str.md)- [15minRou](https://github.com/ThanhNguyen24590/Process/blob/main/Body/15minRou.md) |
-|    | |
-|    | 10: :rice: Break fast & Prep   |
-|    | 10: :shower: Bath |
-| Dh | 10: :orange_book: [Rd Sutta](https://www.dhammatalks.org/random_sutta.php(sad) Topic & Background sati|
-| 0630 | :bus: Anap-Dhatu   |
+
+#### 0500
+- **0500 – 0505** : 🔅 Check & Update Schedule Paper: Make the objective & deadline clear.
+- **0505 – 0520** : 🌄 Kaya-sati: Bathroom + [Stretch](https://github.com/ThanhNguyen24590/Body/blob/main/Exc/R_DexL.md) + Get your caffeine.
+- **0520 – 0540** : 🌻 Sutta Reading (physical book) - Walk: Summarize & memorize MN 1 - Sujato
+- **0540 – 0600** : 🌬️ Book Reading: Note concept to Sati-note. If there light, go outside.
+#### 0600
+- **0600 – 0620** : 🍵 Food contemplation: Light Breakfast + Prep Lunch
+- **0620 – 0635** : 🚿 Bath + Prep Sati-note
+- **0620 – 0635** : 🚌 Bus +Work on the Sati-note
+#### Sati-note
+- Book: 🔥 Recollect concepts + Mindmaping + Questioning.
+- Dhamma: ☀️ Ānāpānasati as weather station, Stability & Joy + Protection: 
+  - 🙏 Refuge & Direction: Dhamma 
+  - 🌌 Emotion: Metta/Karuna 
+  - 🍖 Limitation & Resolve: Mara
+  - ☣️ Health: Asubha
 </details>
 
 <details><summary>Morn 2</summary>
@@ -126,6 +116,7 @@ Weekly
 + Cs: ISTQB
 + Jp: Duolingo, 10 Kanji, Gammar, Read
 + Manual Skill: Nt: Sk, Learn about tool & item you used.
+
 
 
 
