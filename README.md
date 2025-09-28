@@ -8,7 +8,7 @@ https://github.com/ThanhNguyen24590/Body/blob/main/Exc/R_Str.md
 - **0500 – 0505** : 🔅 Check & Update Schedule Paper: Make the objective & deadline clear.
 - **0505 – 0520** : 🌄 Kaya-sati: Bathroom + [Stretch](https://github.com/ThanhNguyen24590/Body/blob/main/Exc/R_DexL.md) + Get your caffeine.
 - **0520 – 0540** : 🌻 Sutta Reading (physical book) - Walk: Summarize & memorize MN 1 - Sujato
-- **0540 – 0600** : 🌬️ Book Reading: Note concept to Sati-note. If there light, go outside.
+- **0540 – 0600** : 🌬️ Book Reading: Fast read- No think- Note concept to Sati-note. If possible, find light outside.
 #### 0600
 - **0600 – 0620** : 🍵 Food contemplation: Light Breakfast + Prep Lunch
 - **0620 – 0635** : 🚿 Bath + Prep Sati-note
@@ -146,6 +146,7 @@ Weekly
 + Cs: ISTQB
 + Jp: Duolingo, 10 Kanji, Gammar, Read
 + Manual Skill: Nt: Sk, Learn about tool & item you used.
+
 
 
 
