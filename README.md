@@ -4,7 +4,6 @@ https://github.com/ThanhNguyen24590/Body/blob/main/Exc/R_Str.md
 
 <details><summary>Dawn: 0500 - 0730 </summary>
 
-#### 0500
 - **0500 – 0505** : 🔅 Check & Update Schedule Paper: Make the objective & deadline clear.
 - **0505 – 0520** : 🌄 Kaya-sati: Bathroom + [Stretch](https://github.com/ThanhNguyen24590/Body/blob/main/Exc/R_DexL.md) + Get your caffeine.
 - **0520 – 0540** : 🌻 Sutta Reading (physical book) - Walk: Summarize & memorize MN 1 - Sujato
@@ -12,7 +11,7 @@ https://github.com/ThanhNguyen24590/Body/blob/main/Exc/R_Str.md
 #### 0600
 - **0600 – 0620** : 🍵 Food contemplation: Light Breakfast + Prep Lunch
 - **0620 – 0635** : 🚿 Bath + Prep Sati-note
-- **0620 – 0635** : 🚌 Bus +Work on the Sati-note
+- **0620 – 0635** : 🚌 Bus + Work on the Sati-note
 #### Sati-note
 - 🔥 Book: Recollect concepts + Mindmaping + Questioning.
 - ☀️ Ānāpānasati as weather station, Stability & Joy
@@ -23,10 +22,8 @@ https://github.com/ThanhNguyen24590/Body/blob/main/Exc/R_Str.md
   - ☣️ Health: Asubha
 </details>
 
-<details><summary>Morn: 0630 - 1300</summary>
+<details><summary>Morn: 0630 - 1300: Every hour: Anap + Stretch + Tibialis anterior exc</summary>
 
-Every hour: Anap + Stretch + Tibialis anterior exc
-#### 0700
 - **0730 – 0745** : :u7a7a: Qigong : Connect breath and body, loosen joints.
 - **0745 – 0800** : :coffee: Prep Office + Drink + Hygiene
 #### 0800
@@ -48,29 +45,35 @@ Every hour: Anap + Stretch + Tibialis anterior exc
 #### 1200
 - **1200 – 1220** : 🥗 Lunch
 - **1220 – 1230** : :curly_loop: Stretch + :sa: Rw Jp
-- **1230 – 1300** : 🌬️ Anapanasati 4.
+- **1230 – 1300** : :sunny: [Dh Talk](https://www.dhammatalks.org/audio/morning/) + 🌬️ Anapanasati 4.
 </details>
 
-<details><summary>Aft: 1300 - 1800</summary>
+<details><summary>Aft: 1300 - 1800 : Every hour: Anap + Stretch + Tibialis anterior exc</summary>
 
-|   | Noon                                     |
-|-------|---------------------------------------------|
-|           |  :coffee: Prep Drink :sunny: [Morn Talk](https://www.dhammatalks.org/audio/morning/) |
-|           |  :sunny: [Morn Talk](https://www.dhammatalks.org/audio/morning/) :sunny: Rec [8 fold path](https://github.com/ThanhNguyen24590/Process/blob/main/README.md) :sunny: Rw Rou > Sche paper, set goal & Progress Bar|
-|---| --Work--|
-| 1700 - Body| Transit & Exc                               |
+- **1300 – 1305** : Hygiene * Prep Drink
+- **1305 – 1310** : Upd Task + Upd Schedule + Upd Sati-Note
+- **1655 – 1700** : Hyg + Prep Off
+#### 1700
+- **1700 – 1830** : 🚌 Bus + Work on the Sati-note
+#### Sati-note
+- 🔥 Book: Recollect concepts + Mindmaping + Questioning.
+- ☀️ Ānāpānasati as weather station, Stability & Joy
+- :large_blue_circle: Protection: 
+  - 🙏 Refuge & Direction: Dhamma 
+  - 🌌 Emotion: Metta/Karuna 
+  - 🍖 Limitation & Resolve: Mara
+  - ☣️ Health: Asubha
 </details>
 
-<details><summary>Eve: 1800 - 2200</summary>
+<details><summary>Eve: 1800 - 2200: Every hour: Anap + Stretch + Tibialis anterior exc</summary>
 
-#### 1800
 - **1800 – 1830** : 🚶 Run/Walk + Anap
 - **1830 – 1840** : 🕯️ Preparation : Change clothes, adjust room environment.  
 - **1840 – 1900** : 🍲 Short Dinner
 
 #### 1900
 - **1900 – 1910** : :shower: Bath + ☣️ Health: Asubha > Reset & Refresh
-- **1910 – 1930** : 🌿 Prep drink + Chant Recollect Transition
+- **1910 – 1930** : 🌿 Prep drink + Update Schedule Paper for Eve + Chant Recollect Transition 
 - **1930 – 2000** : 🌙 Qigong | Gentle Stretching | Music > Lying down release body tension & Rest
 
 #### 2000
@@ -82,7 +85,7 @@ Every hour: Anap + Stretch + Tibialis anterior exc
 - **2100 – 2130** : 💻 ISTQB
 - **2130 – 2145** : 🎶 Piano – Make it fun
 - **2145 – 2155** : 📓 Journaling & Reflection : Note Dhamma insight, what went well today. > Reflection & growth.
-- **2155 – 2200** : 🌿 Sleep Prep (DexL stretch, hygiene) > Sleep 
+- **2155 – 2200** :  Prep Morn Schedule 🌿 Sleep Prep (DexL stretch, hygiene) > Sleep 
 </details>
 
 ---
@@ -139,6 +142,7 @@ Weekly
 + Cs: ISTQB
 + Jp: Duolingo, 10 Kanji, Gammar, Read
 + Manual Skill: Nt: Sk, Learn about tool & item you used.
+
 
 
 
