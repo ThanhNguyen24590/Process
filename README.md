@@ -14,8 +14,9 @@ https://github.com/ThanhNguyen24590/Body/blob/main/Exc/R_Str.md
 - **0620 – 0635** : 🚿 Bath + Prep Sati-note
 - **0620 – 0635** : 🚌 Bus +Work on the Sati-note
 #### Sati-note
-- Book: 🔥 Recollect concepts + Mindmaping + Questioning.
-- Dhamma: ☀️ Ānāpānasati as weather station, Stability & Joy + Protection: 
+- 🔥 Book: Recollect concepts + Mindmaping + Questioning.
+- ☀️ Ānāpānasati as weather station, Stability & Joy
+- :large_blue_circle: Protection: 
   - 🙏 Refuge & Direction: Dhamma 
   - 🌌 Emotion: Metta/Karuna 
   - 🍖 Limitation & Resolve: Mara
@@ -116,6 +117,7 @@ Weekly
 + Cs: ISTQB
 + Jp: Duolingo, 10 Kanji, Gammar, Read
 + Manual Skill: Nt: Sk, Learn about tool & item you used.
+
 
 
 
