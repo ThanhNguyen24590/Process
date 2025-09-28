@@ -2,7 +2,7 @@ https://github.com/ThanhNguyen24590/Process/blob/main/Pt_Schedule.md </br>
 https://github.com/ThanhNguyen24590/Dh/blob/main/Med/SuttaLst.md </br>
 https://github.com/ThanhNguyen24590/Body/blob/main/Exc/R_Str.md
 
-<details><summary>Dawn </summary>
+<details><summary>Dawn: 0500 - 0730 </summary>
 
 #### 0500
 - **0500 – 0505** : 🔅 Check & Update Schedule Paper: Make the objective & deadline clear.
@@ -134,6 +134,7 @@ Weekly
 + Cs: ISTQB
 + Jp: Duolingo, 10 Kanji, Gammar, Read
 + Manual Skill: Nt: Sk, Learn about tool & item you used.
+
 
 
 
