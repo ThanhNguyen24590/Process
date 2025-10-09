@@ -1,22 +1,17 @@
-https://github.com/ThanhNguyen24590/Process/blob/main/Pt_Schedule.md </br>
-https://github.com/ThanhNguyen24590/Dh/blob/main/Med/SuttaLst.md </br>
-https://github.com/ThanhNguyen24590/Body/blob/main/Exc/R_Str.md
-
----
 <details><summary>Dawn: 0500 - 0730 </summary>
 
-- **0500 – 0505** : 🔅 Check & Update Schedule Paper: Make the objective & deadline clear.
-- **0505 – 0520** : 🌄 Kaya-sati: Bathroom + [Stretch](https://github.com/ThanhNguyen24590/Body/blob/main/Exc/R_DexL.md) + Get your caffeine.
-- **0520 – 0540** : 🌻 Sutta Reading (physical book) - Walk: Summarize & memorize MN 1 - Sujato
+- **0500 – 0520** : 🌄 Outsite: Remember & Recite Chant (Pali & Vietnamese) + Sutta
+- **0520 – 0530** : 🔅 Kaya-sati: [Stretch](https://github.com/ThanhNguyen24590/Body/blob/main/Exc/R_DexL.md) + Bathroom + Get your caffeine.
+- **0530 – 0540** : 🌻 Sutta Reading (physical book) - Walk: Summarize & memorize MN 1 - Sujato
 - **0540 – 0600** : 🌬️ Book Reading: Fast read- No think- Note concept to Sati-note. If possible, find light outside.
 #### 0600
-- **0600 – 0620** : 🍵 Food contemplation: Light Breakfast + Prep Lunch
-- **0620 – 0635** : 🚿 Bath + Prep Sati-note
-- **0620 – 0635** : 🚌 Bus + Work on the Sati-note
+- **0600 – 0620** : 🚿 Bath + 🍵 Food contemplation: Light Breakfast + Prep Lunch
+- **0620 – 0635** : Prep (Work items, Clothes, Book Travel..) + Sati-note
+- **0620 – 0635** : 🚌 Bus + Work on the Note
 #### Sati-note
 - 🔥 Book: Recollect concepts + Mindmaping + Questioning.
 - ☀️ Ānāpānasati as weather station, Stability & Joy
-- :large_blue_circle: Protection: 
+- 🔵 Protection: 
   - 🙏 Refuge & Direction: Dhamma 
   - 🌌 Emotion: Metta/Karuna 
   - 🍖 Limitation & Resolve: Mara
@@ -26,13 +21,13 @@ https://github.com/ThanhNguyen24590/Body/blob/main/Exc/R_Str.md
 ---
 <details><summary>Morn: 0630 - 1300: Every hour: Anap + Stretch + Tibialis anterior exc</summary>
 
-- **0730 – 0745** : :u7a7a: Qigong : Connect breath and body, loosen joints.
-- **0745 – 0800** : :coffee: Prep Office + Drink + Hygiene
+- **0730 – 0745** : 🈳 Qigong : Connect breath and body, loosen joints.
+- **0745 – 0800** : ☕ Prep Office + Drink + Hygiene
 #### 0800
-- **0800 – 0815** : :dart: Check chat > mail > calendar > Jira Dashboard + Review Task: done & need done. Need anymore resouce?
-- **0815 – 0830** : :alarm_clock: Set time block for task, structurize time.
-- **0830 – 0840** : :four_leaf_clover: Daily Report: Talk what done, what to do TODAY + Progress on Long term + Check Calendar.  
-- **0840 – 0900** : :rice: Prep/Get resource.
+- **0800 – 0815** : 🎯 Check chat > mail > calendar > Jira Dashboard + Review Task: done & need done. Need anymore resouce?
+- **0815 – 0830** : ⏰ Set time block for task, structurize time.  Check & Update Schedule Paper: Make the objective & deadline clear.
+- **0830 – 0840** : 🍀 Daily Report: Talk what done, what to do TODAY + Progress on Long term + Check Calendar.  
+- **0840 – 0900** : 🍚 Prep/Get resource.
 
 #### 0900
 - **0900 – 0930** : 💻 Career Study – ISTQB : Read a section or do a short mock test. *Supports yearly certification exam goal.*  
@@ -93,6 +88,10 @@ https://github.com/ThanhNguyen24590/Body/blob/main/Exc/R_Str.md
 </details>
 
 ---
++ https://github.com/ThanhNguyen24590/Process/blob/main/Pt_Schedule.md
++ https://github.com/ThanhNguyen24590/Dh/blob/main/Med/SuttaLst.md
++ https://github.com/ThanhNguyen24590/Body/blob/main/Exc/R_Str.md
+---
 ##### Work
 + :anchor:[Eve Dh](https://www.dhammatalks.org/audio/evening/) :u7a7a: Rm Full MN Sutta > Learn: Lying down, walk : > :waning_crescent_moon: Rnd (1..50)
 + :muscle: Learn Exc: [15minRou](https://github.com/ThanhNguyen24590/Process/blob/main/Body/15minRou.md), [5 animals frolic](https://github.com/ThanhNguyen24590/Process/blob/main/Body/5-Animals.md), [HygMsg](https://github.com/ThanhNguyen24590/Process/blob/main/Body/HygMsg.md)
@@ -146,6 +145,7 @@ Weekly
 + Cs: ISTQB
 + Jp: Duolingo, 10 Kanji, Gammar, Read
 + Manual Skill: Nt: Sk, Learn about tool & item you used.
+
 
 
 
