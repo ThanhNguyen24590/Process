@@ -82,14 +82,14 @@ https://github.com/ThanhNguyen24590/Body/blob/main/Exc/R_Str.md
 
 #### 2000
 - **2000 – 2015** : :waning_crescent_moon: Sutta Reading 
-- **2015 – 2030** : :muscle: Exc Str 
-- **2030 – 2055** : 🎐 Japanese Study – Grammar & Vocabulary : Light review. *Supports yearly JLPT goal.* 
-- **2055 – 2100** : :curly_loop: Stretch 
+- **2015 – 2030** : 🎐 Japanese Study – Grammar & Vocabulary
+- **2030 – 2100** : :curly_loop: Stretch + :muscle: Exc Str 
 #### 2100
 - **2100 – 2130** : 💻 ISTQB
-- **2130 – 2145** : 🎶 Piano – Make it fun
-- **2145 – 2155** : 📓 Journaling & Reflection : Note Dhamma insight, what went well today. > Reflection & growth.
-- **2155 – 2200** :  Prep Morn Schedule 🌿 Sleep Prep (DexL stretch, hygiene) > Sleep 
+- **2145 – 2200** : 🎶 Piano – Make it fun
+#### 2200
+- **2200 – 2210** : 📓 Journaling & Reflection : Note Dhamma insight, what went well today. > Reflection & growth.
+- **2215 – 2230** :  Prep Morn Schedule 🌿 Sleep Prep (DexL stretch, hygiene) > Sleep
 </details>
 
 ---
@@ -146,6 +146,7 @@ Weekly
 + Cs: ISTQB
 + Jp: Duolingo, 10 Kanji, Gammar, Read
 + Manual Skill: Nt: Sk, Learn about tool & item you used.
+
 
 
 
