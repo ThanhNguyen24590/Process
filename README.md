@@ -19,19 +19,19 @@
 </details>
 
 ---
-<details><summary>Morn: 0630 - 1300: Every hour: Anap + Stretch + Tibialis anterior exc</summary>
+<details><summary>Morn: 0730 - 1300: Every hour: Anap + Stretch</summary>
 
-- **0730 – 0745** : 🈳 Qigong : Connect breath and body, loosen joints.
+- **0730 – 0745** : 🈳 Qigong : Connect Qi, loosen joints.
 - **0745 – 0800** : ☕ Prep Office + Drink + Hygiene
 #### 0800
-- **0800 – 0815** : 🎯 Check chat > mail > calendar > Jira Dashboard + Review Task: done & need done. Need anymore resouce?
-- **0815 – 0830** : ⏰ Set time block for task, structurize time.  Check & Update Schedule Paper: Make the objective & deadline clear.
-- **0830 – 0840** : 🍀 Daily Report: Talk what done, what to do TODAY + Progress on Long term + Check Calendar.  
-- **0840 – 0900** : 🍚 Prep/Get resource.
+- **0800 – 0805** : 🎯 Check chat > mail > calendar > Jira Dashboard + Review Task: done & need done. Need anymore resouce?
+- **0805 – 0815** : ⏰ Set task's time block & structurize > Mk Sche Paper: TD, objectives & deadline.
+- **0815 – 0830** : 🍀 Daily Report: Talk what done, what to do TODAY + Progress on Long term + Check Calendar.  
+- **0840 – 0900** : 🌬️ Taichi
 
 #### 0900
-- **0900 – 0930** : 💻 Career Study – ISTQB : Read a section or do a short mock test. *Supports yearly certification exam goal.*  
-- **0930 – 1000** : 🎐 Japanese Grammar & Vocabulary : Practice grammar pattern & 10 words. *Supports yearly JLPT N5 goal.* 
+- **0900 – 0930** : 💻 Career Study – ISTQB : Read a section or do a short mock test.  
+- **0930 – 1000** : 🎐 Japanese Grammar & Vocabulary : Practice grammar pattern & 10 words.
 #### 1000 
 - **1000 – 1030** : 📖 Dhamma Book (On the Path) : Read 1 section & highlight key phrase. *Supports daily study.*  
 - **1030 – 1100** : 🎶 Piano Practice : Play casually for joy. *Supports daily leisure & balance.*  
@@ -56,7 +56,7 @@
 #### Sati-note
 - 🔥 Book: Recollect concepts + Mindmaping + Questioning.
 - ☀️ Ānāpānasati as weather station, Stability & Joy
-- :large_blue_circle: Protection: 
+- 🔵 Protection: 
   - 🙏 Refuge & Direction: Dhamma 
   - 🌌 Emotion: Metta/Karuna 
   - 🍖 Limitation & Resolve: Mara
@@ -76,9 +76,9 @@
 - **1930 – 2000** : 🌙 Qigong | Gentle Stretching | Music > Lying down release body tension & Rest
 
 #### 2000
-- **2000 – 2015** : :waning_crescent_moon: Sutta Reading 
+- **2000 – 2015** : 🌘 Sutta Reading 
 - **2015 – 2030** : 🎐 Japanese Study – Grammar & Vocabulary
-- **2030 – 2100** : :curly_loop: Stretch + :muscle: Exc Str 
+- **2030 – 2100** : ➰ Stretch + 💪 Exc Str 
 #### 2100
 - **2100 – 2130** : 💻 ISTQB
 - **2145 – 2200** : 🎶 Piano – Make it fun
@@ -145,6 +145,7 @@ Weekly
 + Cs: ISTQB
 + Jp: Duolingo, 10 Kanji, Gammar, Read
 + Manual Skill: Nt: Sk, Learn about tool & item you used.
+
 
 
 
