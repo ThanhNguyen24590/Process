@@ -1,12 +1,12 @@
 <details><summary>Dawn: 0500 - 0730 </summary>
 
-- **0500 – 0520** : 🌄 Outsite: Remember & Recite Chant (Pali & Vietnamese) + Sutta
-- **0520 – 0530** : 🔅 Kaya-sati: [Stretch](https://github.com/ThanhNguyen24590/Body/blob/main/Exc/R_DexL.md) + Bathroom + Get your caffeine.
-- **0530 – 0540** : 🌻 Sutta Reading (physical book) - Walk: Summarize & memorize MN 1 - Sujato
-- **0540 – 0600** : 🌬️ Book Reading: Fast read- No think- Note concept to Sati-note. If possible, find light outside.
+- **0500 – 0520** : 🚽 Bathroom + 🌄 Outsite: Remember & Recite Chant (Pali & Vietnamese) + Sutta
+- **0520 – 0530** : ☕ Get [Caffeine Drink](https://github.com/ThanhNguyen24590/Body/blob/main/Food/Drink%20%26%20Supplement.txt) + ✨ Kaya-sati: [Stretch](https://github.com/ThanhNguyen24590/Body/blob/main/Exc/R_DexL.md) > 🔅 Notice muscle to focus 
+- **0530 – 0540** : 🌻 Sutta Reading - Walk: Summarize & memorize MN 1 - Sujato
+- **0540 – 0600** : 🌬️ Book Reading: Fast read- No think- Note concept to Sati-note.
 #### 0600
 - **0600 – 0620** : 🚿 Bath + 🍵 Food contemplation: Light Breakfast + Prep Lunch
-- **0620 – 0635** : Prep (Work items, Clothes, Book Travel..) + Sati-note
+- **0620 – 0635** : 🐜 Prep (Work items, Clothes, Book Travel..) + Sati-note
 - **0620 – 0635** : 🚌 Bus + Work on the Note
 #### Sati-note
 - 🔥 Book: Recollect concepts + Mindmaping + Questioning.
@@ -41,8 +41,8 @@
 
 #### 1200
 - **1200 – 1220** : 🥗 Lunch
-- **1220 – 1230** : :curly_loop: Stretch + :sa: Rw Jp
-- **1230 – 1300** : :sunny: [Dh Talk](https://www.dhammatalks.org/audio/morning/) + 🌬️ Anapanasati 4.
+- **1220 – 1230** : ➰ Stretch + 🈂️ Rw Jp
+- **1230 – 1300** : ☀️ [Dh Talk](https://www.dhammatalks.org/audio/morning/) + 🌬️ Anapanasati 4.
 </details>
 
 ---
@@ -145,6 +145,7 @@ Weekly
 + Cs: ISTQB
 + Jp: Duolingo, 10 Kanji, Gammar, Read
 + Manual Skill: Nt: Sk, Learn about tool & item you used.
+
 
 
 
