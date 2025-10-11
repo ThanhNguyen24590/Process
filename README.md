@@ -71,8 +71,8 @@
 - **1840 – 1900** : 🍲 Short Dinner
 
 #### 1900
-- **1900 – 1910** : :shower: Bath + ☣️ Health: Asubha > Reset & Refresh
-- **1910 – 1930** : 🌿 Prep drink + Update Schedule Paper for Eve + Chant Recollect Transition 
+- **1900 – 1910** : 🚿 Bath + ☣️ Health: Asubha > Reset & Refresh
+- **1910 – 1930** : 🍸 Prep drink + 🌿 Update Schedule Paper for Eve + Chant Recollect Transition 
 - **1930 – 2000** : 🌙 Qigong | Gentle Stretching | Music > Lying down release body tension & Rest
 
 #### 2000
@@ -145,6 +145,7 @@ Weekly
 + Cs: ISTQB
 + Jp: Duolingo, 10 Kanji, Gammar, Read
 + Manual Skill: Nt: Sk, Learn about tool & item you used.
+
 
 
 
