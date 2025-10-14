@@ -70,19 +70,21 @@
 - **1830 – 1840** : 🕯️ Preparation : Change clothes, adjust room environment.  
 - **1840 – 1900** : 🍲 Short Dinner
 
-#### 1900
+#### 1900 - Qigong, release tension, Rest
 - **1900 – 1910** : 🚿 Bath + ☣️ Health: Asubha > Reset & Refresh
 - **1910 – 1930** : 🍸 Prep drink + 🌿 Update Schedule Paper for Eve + Chant Recollect Transition 
-- **1930 – 2000** : 🌙 Qigong | Gentle Stretching | Music > Lying down release body tension & Rest
+- **1930 – 2000** : 🌙 Qigong | Stretch| Music > Lying down
 
-#### 2000
+#### 2000 - Dh & Health
 - **2000 – 2015** : 🌘 Sutta Reading 
 - **2015 – 2030** : 🎐 Japanese Study – Grammar & Vocabulary
-- **2030 – 2100** : ➰ Stretch + 💪 Exc Str 
-#### 2100
+- **2030 – 2100** : ➰ Stretch + 💪 Exc Str
+
+#### 2100 - Study
 - **2100 – 2130** : 💻 ISTQB
 - **2145 – 2200** : 🎶 Piano – Make it fun
-#### 2200
+
+#### 2200 - Sleep & Reflect
 - **2200 – 2210** : 📓 Journaling & Reflection : Note Dhamma insight, what went well today. > Reflection & growth.
 - **2215 – 2230** :  Prep Morn Schedule 🌿 Sleep Prep (DexL stretch, hygiene) > Sleep
 </details>
@@ -145,6 +147,7 @@ Weekly
 + Cs: ISTQB
 + Jp: Duolingo, 10 Kanji, Gammar, Read
 + Manual Skill: Nt: Sk, Learn about tool & item you used.
+
 
 
 
