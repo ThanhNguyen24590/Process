@@ -60,12 +60,13 @@
 - **30**: 🚶 Run/Walk + Anap | 👁️ Obs process of movements (muscle, bone,..) > to the Zone 
 - **05**: 🕯️ Adjust env: 👅 clothes, wearable,.. | 🏡 Org Desk, Light, Air,.. 
 - **05**: 🔅 Acknowledge: body state, emotion, mind > 💗 crave/need?
-- **20**: 🍲 Light Dinner | 🍷 Prep drink.
+- **20**: 🍲 Light Dinner | 🍷 Prep drink | 📝Write Sche to Paper
 
 #### 1900: 🧿 Qigong (Tension, Rest) & Protection
 - **10**: 🚿 Bath: Skin, Nose, Mouth-Teeth.
-- **20**: 🌿 Sanctify: Recollection & 🙏 Refuge
-- **30**: 🎼 to the Flow: Qigong, Stretch, Music, Lying down, Dance, [Eve Dh](https://www.dhammatalks.org/audio/evening/) 
+- **20**: 🌿 Sanctify: St & Chant: Recollection 🙏 Refuge
+- **30**: 🎼 to the Flow: Lying down or Step-touch
+  - [Eve Dh](https://www.dhammatalks.org/audio/evening/), Music , Qigong
 
 #### 2000: 🌕 Dh & Health: ✅ Check item in Lst
 - **20**: 📖 Sutta: Rd 1 MN Sutta: Just to rm, comprehend and analysize 
@@ -73,7 +74,7 @@
 - **20**: ➰ Stretch + 💪 Exc Str: Upper-Core-Lower: 10R-3S: pushup, situp, Duck Walk. St 1 taichi form?
 
 #### 2100: 🗝️ Study: ✅ Check item in Lst
-- **30**: 💻 Cs: ISTQB
+- **30**: 💻 Cs: ISTQB: Fast Read & Rm. No need reflect yet.
 - **30**: 🎶 Art-Music: Piano: Rm note & Hear
 
 #### 2200: 🪞 Reflect & 💤 Sleep
@@ -139,6 +140,7 @@ Weekly
 + Cs: ISTQB
 + Jp: Duolingo, 10 Kanji, Gammar, Read
 + Manual Skill: Nt: Sk, Learn about tool & item you used.
+
 
 
 
