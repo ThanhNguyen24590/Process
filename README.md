@@ -1,69 +1,58 @@
-
-[Eve](#Eve)  
-<details><summary>Dawn: 0500 - 0730 </summary>
-
-- **0500 – 0520** : 🚽 Bathroom + 🌄 Outsite: Remember & Recite Chant (Pali & Vietnamese) + Sutta
-- **0520 – 0530** : ☕ Get [Caffeine Drink](https://github.com/ThanhNguyen24590/Body/blob/main/Food/Drink%20%26%20Supplement.txt) + ✨ Kaya-sati: [Stretch](https://github.com/ThanhNguyen24590/Body/blob/main/Exc/R_DexL.md) > 🔅 Notice muscle to focus 
-- **0530 – 0540** : 🌻 Sutta Reading - Walk: Summarize & memorize MN 1 - Sujato
-- **0540 – 0600** : 🌬️ Book Reading: Fast read- No think- Note concept to Sati-note.
-#### 0600
-- **0600 – 0620** : 🚿 Bath + 🍵 Food contemplation: Light Breakfast + Prep Lunch
-- **0620 – 0635** : 🐜 Prep (Work items, Clothes, Book Travel..) + Sati-note
-- **0620 – 0635** : 🚌 Bus + Work on the Note
-#### Sati-note
-- 🔥 Book: Recollect concepts + Mindmaping + Questioning.
-- ☀️ Ānāpānasati as weather station, Stability & Joy
-- 🔵 Protection: 
-  - 🙏 Refuge & Direction: Dhamma 
-  - 🌌 Emotion: Metta/Karuna 
-  - 🍖 Limitation & Resolve: Mara
-  - ☣️ Health: Asubha
-</details>
+[Dawn](#Dawn) > [Morn](#Morn) > [Aft](#Aft) > [Eve](#Eve)  </br>
 
 ---
-<details><summary>Morn: 0730 - 1300: Every hour: Anap + Stretch</summary>
+### Dawn
+#### 0500: 🌄 Energy & 🌞 Light: Outsite
+- **20**: 🚽 Bathroom + 🎼 Recite Chant (Pali & Vietnamese) + Sutta
+- **20**: ☕ Get [Caffeine Drink](https://github.com/ThanhNguyen24590/Body/blob/main/Food/Drink-Supplement.md) + 🔅 Kaya-sati: [Msg](https://github.com/ThanhNguyen24590/Body/blob/main/Exc/lstMsg.md): Face & Throat + [Stretch](https://github.com/ThanhNguyen24590/Body/blob/main/Exc/R_DexL.md): Muscle & Bone + 💪 Upper-Core-Lower: 20 pushup, 20 situp, 20 kicks
+- **20**: 🐜 Prep (Work items, Clothes, Book Travel..) | 🙏 Refuge: Kneel & Buddhanussati - Sutta
 
-- **0730 – 0745** : 🈳 Qigong : Connect Qi, loosen joints.
-- **0745 – 0800** : ☕ Prep Office + Drink + Hygiene
-#### 0800
-- **0800 – 0805** : 🎯 Check chat > mail > calendar > Jira Dashboard + Review Task: done & need done. Need anymore resouce?
-- **0805 – 0815** : ⏰ Set task's time block & structurize > Mk Sche Paper: TD, objectives & deadline.
-- **0815 – 0830** : 🍀 Daily Report: Talk what done, what to do TODAY + Progress on Long term + Check Calendar.  
-- **0840 – 0900** : 🌬️ Taichi
+#### 0600: 👔 Prep
+- **10**: 🍵 Light Breakfast + Prep Lunch
+- **10**: 🚿 Bath: Skin, Head, Teeth.
+- **15**: 🌬️ Fast read- No think- Note concept: Sutta,...
 
-#### 0900
-- **0900 – 0930** : 💻 Career Study – ISTQB : Read a section or do a short mock test.  
-- **0930 – 1000** : 🎐 Japanese Grammar & Vocabulary : Practice grammar pattern & 10 words.
-#### 1000 
-- **1000 – 1030** : 📖 Dhamma Book (On the Path) : Read 1 section & highlight key phrase. *Supports daily study.*  
-- **1030 – 1100** : 🎶 Piano Practice : Play casually for joy. *Supports daily leisure & balance.*  
-#### 1100
-- **1100 – 1130** : 🧘 Meditation – Karuṇā or Marana : Reflect on compassion or death. *Supports daily Dhamma cycle.*  
-- **1130 – 1200** : 🥗 Lunch Prep & Meal : Eat slowly, add fruit. *Supports health & energy.*  
+#### 0630: 🚌 Wrk on Note
+- 🔥 Book: Recollect concepts + Mindmaping + Questioning.
+- ☀️ Ānāpānasati as weather station, Stability & Joy
+- 🔵 Protection: Chose 1 subj: 🙏 Refuge & Direction: Dhamma | 🌌 Emotion: Metta/Karuna | 🍖 Limitation & Resolve: Mara | ☣️ Health: Asubha
 
-#### 1200
+---
+### Morn
+#### 0700: 🈳 Qigong & ☕ Prep
+- **15**: 🈳 Qigong : Connect Qi, loosen joints.
+- **15**: ☕ Prep Office + Drink + Hygiene
+
+#### 0800: ☯️ Balance & Get thing moving
+- **05**: 🎯 Check chat > mail > calendar > Jira Dashboard + Review Task: done & need done. Need anymore resouce?
+- **05**: ⏰ Set task's time block & structurize > Mk Sche Paper: TD, objectives & deadline.
+- **10**: 🍀 Daily Report: Talk what done, what to do TODAY + Progress on Long term + Check Calendar.  
+- **30**: ☯️ Taichi
+
+#### 0900: 🗝️ Study
+- **30**: 💻 Cs: ISTQB : Read a section or do a short mock test.  
+- **30**: 🎐 Japanese Grammar & Vocabulary : Practice grammar pattern & 10 words.
+- **30**: 📖 Dhamma Book (On the Path) : Read 1 section & highlight key phrase. *Supports daily study.*  
+- **30**: 🎶 Piano Practice : Play casually for joy. *Supports daily leisure & balance.*  
+- **30**: 🧘 Meditation – Karuṇā or Marana : Reflect on compassion or death. *Supports daily Dhamma cycle.*  
+- **30**: 🥗 Lunch Prep & Meal : Eat slowly, add fruit. *Supports health & energy.*  
+
+#### 1200: 🥗 Lunch
 - **1200 – 1220** : 🥗 Lunch
 - **1220 – 1230** : ➰ Stretch + 🈂️ Rw Jp
 - **1230 – 1300** : ☀️ [Dh Talk](https://www.dhammatalks.org/audio/morning/) + 🌬️ Anapanasati 4.
-</details>
 
 ---
-<details><summary>Aft: 1300 - 1800 : Every hour: Anap + Stretch + Tibialis anterior exc</summary>
+### Aft
+#### 1300: Get thing moving
+- **05**: Hygiene * Prep Drink
+- **05** : Upd Task + Upd Schedule + Upd Sati-Note
 
-- **1300 – 1305** : Hygiene * Prep Drink
-- **1305 – 1310** : Upd Task + Upd Schedule + Upd Sati-Note
-- **1655 – 1700** : Hyg + Prep Off
-#### 1700
-- **1700 – 1830** : 🚌 Bus + Work on the Sati-note
-#### Sati-note
-- 🔥 Book: Recollect concepts + Mindmaping + Questioning.
-- ☀️ Ānāpānasati as weather station, Stability & Joy
-- 🔵 Protection: 
-  - 🙏 Refuge & Direction: Dhamma 
-  - 🌌 Emotion: Metta/Karuna 
-  - 🍖 Limitation & Resolve: Mara
-  - ☣️ Health: Asubha
-</details>
+#### 1700: Hyg + 🚌 Prep Off
+- 🔥 Recollect: What you done in the day: Morn, Noon, Aft by hour -> Could do diff? How could be worse/ better? Need support?
+- ☀ Any new concepts + Mindmap/categorize + Question/More Rsr?
+-  
+- 🔵 Protection: Ānāpānasati as weather station, Stability & Joy | 🙏 Refuge & Direction: Dhamma | 🌌 Emotion: Metta/Karuna | 🍖 Limitation & Resolve: Mara | ☣️ Health: Asubha
 
 ---
 ### Eve
@@ -76,7 +65,7 @@
 #### 1900: 🧿 Qigong (Tension, Rest) & Protection
 - **10**: 🚿 Bath: Skin, Nose, Mouth-Teeth.
 - **20**: 🌿 Sanctify: Recollection & 🙏 Refuge
-- **30**: 🎼 to the Flow: Qigong, Stretch, Music, Lying down, Dance
+- **30**: 🎼 to the Flow: Qigong, Stretch, Music, Lying down, Dance, [Eve Dh](https://www.dhammatalks.org/audio/evening/) 
 
 #### 2000: 🌕 Dh & Health: ✅ Check item in Lst
 - **20**: 📖 Sutta: Rd 1 MN Sutta: Just to rm, comprehend and analysize 
@@ -150,6 +139,7 @@ Weekly
 + Cs: ISTQB
 + Jp: Duolingo, 10 Kanji, Gammar, Read
 + Manual Skill: Nt: Sk, Learn about tool & item you used.
+
 
 
 
