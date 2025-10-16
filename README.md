@@ -70,7 +70,7 @@
 #### 2000: 🌕 Dh & Health: ✅ Check item in Lst
 - **20**: 📖 Sutta: Rd 1 MN Sutta: Just to rm, comprehend and analysize 
 - **20**: 🎐 Japanese Study: Rd Minna No Nihongo (Grammar & Vocabulary)
-- **20**: ➰ Stretch + 💪 Exc Str: Upper-Core-Lower: 10R-3S: pushup, situp, Duck Walk
+- **20**: ➰ Stretch + 💪 Exc Str: Upper-Core-Lower: 10R-3S: pushup, situp, Duck Walk. St 1 taichi form?
 
 #### 2100: 🗝️ Study: ✅ Check item in Lst
 - **30**: 💻 Cs: ISTQB
@@ -139,6 +139,7 @@ Weekly
 + Cs: ISTQB
 + Jp: Duolingo, 10 Kanji, Gammar, Read
 + Manual Skill: Nt: Sk, Learn about tool & item you used.
+
 
 
 
