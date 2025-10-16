@@ -1,3 +1,5 @@
+
+[Eve](#Eve)  
 <details><summary>Dawn: 0500 - 0730 </summary>
 
 - **0500 – 0520** : 🚽 Bathroom + 🌄 Outsite: Remember & Recite Chant (Pali & Vietnamese) + Sutta
@@ -64,30 +66,31 @@
 </details>
 
 ---
-<details><summary>Eve: 1800 - 2200: Every hour: Anap + Stretch + Tibialis anterior exc</summary>
+### Eve
+#### 1800: ✨ Energy & ☣️ Health
+- **30**: 🚶 Run/Walk + Anap | 👁️ Obs process of movements (muscle, bone,..) > to the Zone 
+- **05**: 🕯️ Adjust env: 👅 clothes, wearable,.. | 🏡 Org Desk, Light, Air,.. 
+- **05**: 🔅 Acknowledge: body state, emotion, mind > 💗 crave/need?
+- **20**: 🍲 Light Dinner | 🍷 Prep drink.
 
-- **1800 – 1830** : 🚶 Run/Walk + Anap
-- **1830 – 1840** : 🕯️ Preparation : Change clothes, adjust room environment.  
-- **1840 – 1900** : 🍲 Short Dinner
+#### 1900: 🧿 Qigong (Tension, Rest) & Protection
+- **10**: 🚿 Bath: Skin, Nose, Mouth-Teeth.
+- **20**: 🌿 Sanctify: Recollection & 🙏 Refuge
+- **30**: 🎼 to the Flow: Qigong, Stretch, Music, Lying down, Dance
 
-#### 1900 - Qigong, release tension, Rest
-- **1900 – 1910** : 🚿 Bath + ☣️ Health: Asubha > Reset & Refresh
-- **1910 – 1930** : 🍸 Prep drink + 🌿 Update Schedule Paper for Eve + Chant Recollect Transition 
-- **1930 – 2000** : 🌙 Qigong | Stretch| Music > Lying down
+#### 2000: 🌕 Dh & Health: ✅ Check item in Lst
+- **20**: 📖 Sutta: Rd 1 MN Sutta: Just to rm, comprehend and analysize 
+- **20**: 🎐 Japanese Study: Rd Minna No Nihongo (Grammar & Vocabulary)
+- **20**: ➰ Stretch + 💪 Exc Str: Upper-Core-Lower: 10R-3S: pushup, situp, Duck Walk
 
-#### 2000 - Dh & Health
-- **2000 – 2015** : 🌘 Sutta Reading 
-- **2015 – 2030** : 🎐 Japanese Study – Grammar & Vocabulary
-- **2030 – 2100** : ➰ Stretch + 💪 Exc Str
+#### 2100: 🗝️ Study: ✅ Check item in Lst
+- **30**: 💻 Cs: ISTQB
+- **30**: 🎶 Art-Music: Piano: Rm note & Hear
 
-#### 2100 - Study
-- **2100 – 2130** : 💻 ISTQB
-- **2145 – 2200** : 🎶 Piano – Make it fun
-
-#### 2200 - Sleep & Reflect
-- **2200 – 2210** : 📓 Journaling & Reflection : Note Dhamma insight, what went well today. > Reflection & growth.
-- **2215 – 2230** :  Prep Morn Schedule 🌿 Sleep Prep (DexL stretch, hygiene) > Sleep
-</details>
+#### 2200: 🪞 Reflect & 💤 Sleep
+- **10**: 📓 Journal & Reflect, or just Draw: Dsc Your day
+- **10**: ➰ DexL + Light Exc: 20 Kneel Push up
+- **10**: Anap Break down > Sleep
 
 ---
 + https://github.com/ThanhNguyen24590/Process/blob/main/Pt_Schedule.md
@@ -147,6 +150,7 @@ Weekly
 + Cs: ISTQB
 + Jp: Duolingo, 10 Kanji, Gammar, Read
 + Manual Skill: Nt: Sk, Learn about tool & item you used.
+
 
 
 
