@@ -3,9 +3,9 @@
 ---
 ### Dawn
 #### 0500: 🌄 Energy & 🌞 Light: Outsite
-- **20**: 🚽 Bathroom + 🎼 Recite Chant (Pali & Vietnamese) + Sutta
+- **20**: 🚽 Bathroom + Drink Water > 🎼 Recite Chant (Pali & Vietnamese) + Sutta
 - **20**: ☕ Get [Caffeine Drink](https://github.com/ThanhNguyen24590/Body/blob/main/Food/Drink-Supplement.md) + 🔅 Kaya-sati: [Msg](https://github.com/ThanhNguyen24590/Body/blob/main/Exc/lstMsg.md): Face & Throat + [Stretch](https://github.com/ThanhNguyen24590/Body/blob/main/Exc/R_DexL.md): Muscle & Bone + 💪 Upper-Core-Lower: 20 pushup, 20 situp, 20 kicks
-- **20**: 🐜 Prep (Work items, Clothes, Book Travel..) | 🙏 Refuge: Kneel & Buddhanussati - Sutta
+- **20**: 🐜 Prep (Work items, Clothes, Note concepts to Reflect..) | 🙏 Refuge: Kneel & Buddhanussati - Sutta
 
 #### 0600: 👔 Prep
 - **10**: 🍵 Light Breakfast + Prep Lunch
@@ -140,6 +140,7 @@ Weekly
 + Cs: ISTQB
 + Jp: Duolingo, 10 Kanji, Gammar, Read
 + Manual Skill: Nt: Sk, Learn about tool & item you used.
+
 
 
 
