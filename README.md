@@ -56,19 +56,19 @@
 
 ---
 ### Eve
-#### 1800: ✨ Energy & ☣️ Health
-- **30**: 🚶 Run/Walk + Anap | 👁️ Obs process of movements (muscle, bone,..) > to the Zone 
+#### 1800: ✨ Energy Mgm
+- **30**: 🚶 Run/Walk + Anap | 👁️ Obs process of movements (muscle, bone,..) > Movement Zone, initialize
 - **05**: 🕯️ Adjust env: 👅 clothes, wearable,.. | 🏡 Org Desk, Light, Air,.. 
-- **05**: 🔅 Acknowledge: body state, emotion, mind > 💗 crave/need?
+- **05**: 🔅 Satipatthana: body state, emotion, mind > engergy state > 💗 crave/need?
 - **20**: 🍲 Light Dinner | 🍷 Prep drink | 📝Write Sche to Paper
 
-#### 1900: 🧿 Qigong (Tension, Rest) & Protection
+#### 1900: 🧿 Qigong (Tension, Rest), Protection & Rest
 - **10**: 🚿 Bath: Skin, Nose, Mouth-Teeth.
 - **20**: 🌿 Sanctify: St & Chant: Recollection 🙏 Refuge
 - **30**: 🎼 to the Flow: Lying down or Step-touch
   - [Eve Dh](https://www.dhammatalks.org/audio/evening/), Music , Qigong
 
-#### 2000: 🌕 Dh & Health: ✅ Check item in Lst
+#### 2000: 🌕 Dh & ☣️ Health: ✅ Check item in Lst
 - **20**: 📖 Sutta: Rd 1 MN Sutta: Just to rm, comprehend and analysize 
 - **20**: 🎐 Japanese Study: Rd Minna No Nihongo (Grammar & Vocabulary)
 - **20**: ➰ Stretch + 💪 Exc Str: Upper-Core-Lower: 10R-3S: pushup, situp, Duck Walk. St 1 taichi form?
@@ -140,6 +140,7 @@ Weekly
 + Cs: ISTQB
 + Jp: Duolingo, 10 Kanji, Gammar, Read
 + Manual Skill: Nt: Sk, Learn about tool & item you used.
+
 
 
 
