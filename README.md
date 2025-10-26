@@ -50,9 +50,16 @@
 
 ---
 ### Aft
-#### 1300: Get thing moving
-- **05**: Hygiene * Prep Drink
-- **05** : Upd Task + Upd Schedule + Upd Sati-Note
+- 🚽 Bathroom + Drink Water + Eye Drop
+- ☕ [NOT Caffeine Drink](https://github.com/ThanhNguyen24590/Body/blob/main/Food/Drink-Supplement.md)
+- 🔅 Upd Task + Upd Schedule + Upd Sati-Note
+#### Art time
+- 🎥 Movie | Animation | Anime | TV Series | Documentary
+#### Std Dhmma
+#### Qigong - Kaya-sati
+- 🌞 [Msg](https://github.com/ThanhNguyen24590/Body/blob/main/Exc/lstMsg.md): Face & Throat + [Stretch](https://github.com/ThanhNguyen24590/Body/blob/main/Exc/R_DexL.md): Muscle & Bone
+- 💪 Upper-Core-Lower: 20 pushup, 20 situp, 20 kicks
+
 
 #### 1700: Hyg + 🚌 Prep Off
 - 🔥 Recollect: What you done in the day: Morn, Noon, Aft by hour -> Could do diff? How could be worse/ better? Need support?
@@ -146,6 +153,7 @@ Weekly
 + Cs: ISTQB
 + Jp: Duolingo, 10 Kanji, Gammar, Read
 + Manual Skill: Nt: Sk, Learn about tool & item you used.
+
 
 
 
