@@ -2,17 +2,23 @@
 
 ---
 ### Dawn
-#### 0500: 🌄 Energy & 🌞 Light: Outsite
-- **20**: 🚽 Bathroom + Drink Water > 🎼 Recite Chant (Pali & Vietnamese) + Sutta
-- **20**: ☕ Get [Caffeine Drink](https://github.com/ThanhNguyen24590/Body/blob/main/Food/Drink-Supplement.md) + 🔅 Kaya-sati: [Msg](https://github.com/ThanhNguyen24590/Body/blob/main/Exc/lstMsg.md): Face & Throat + [Stretch](https://github.com/ThanhNguyen24590/Body/blob/main/Exc/R_DexL.md): Muscle & Bone + 💪 Upper-Core-Lower: 20 pushup, 20 situp, 20 kicks
-- **20**: 🐜 Prep (Work items, Clothes, Note concepts to Reflect..) | 🙏 Refuge: Kneel & Buddhanussati - Sutta
+- 🚽 Bathroom + Drink Water + Eye Drop
+- ☕ [Caffeine Drink](https://github.com/ThanhNguyen24590/Body/blob/main/Food/Drink-Supplement.md)
+- 🌄 Setup Ouside & 🔅 Wait for Light
+#### Refuge Ratanattaya
+- 🎼 Kneel & Chant (Pali & Vietnamese)
+- △ Buddhanussati: Ascetic Buddha -> Your Body
+- 📚 Sutta Rd
+#### Qigong - Kaya-sati
+- 🌞 [Msg](https://github.com/ThanhNguyen24590/Body/blob/main/Exc/lstMsg.md): Face & Throat + [Stretch](https://github.com/ThanhNguyen24590/Body/blob/main/Exc/R_DexL.md): Muscle & Bone
+- 💪 Upper-Core-Lower: 20 pushup, 20 situp, 20 kicks
+- 🍵 :**10**: Light Breakfast + Prep Lunch + Medicine
+- 🚿 :**10**: Bath-Skin, Head, Teeth.
+#### Prep
+- 🐜 Work: items, Clothes, Note concepts to Reflect..
+- 🌬 Mind: Fast read- No think- Note concept: Sutta,...
 
-#### 0600: 👔 Prep
-- **10**: 🍵 Light Breakfast + Prep Lunch
-- **10**: 🚿 Bath: Skin, Head, Teeth.
-- **15**: 🌬️ Fast read- No think- Note concept: Sutta,...
-
-#### 0630: 🚌 Wrk on Note
+#### 🚌 Wrk on Note: **0630**
 - 🔥 Book: Recollect concepts + Mindmaping + Questioning.
 - ☀️ Ānāpānasati as weather station, Stability & Joy
 - 🔵 Protection: Chose 1 subj: 🙏 Refuge & Direction: Dhamma | 🌌 Emotion: Metta/Karuna | 🍖 Limitation & Resolve: Mara | ☣️ Health: Asubha
@@ -140,6 +146,7 @@ Weekly
 + Cs: ISTQB
 + Jp: Duolingo, 10 Kanji, Gammar, Read
 + Manual Skill: Nt: Sk, Learn about tool & item you used.
+
 
 
 
