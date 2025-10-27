@@ -6,7 +6,7 @@
 - ☕ [Caffeine Drink](https://github.com/ThanhNguyen24590/Body/blob/main/Food/Drink-Supplement.md)
 - 🌄 Setup Ouside & 🔅 Wait for Light
 #### Refuge Ratanattaya
-- 🎼 Kneel & Chant (Pali & Vietnamese)
+- 🎼 Kneel & Chant (Pali & Vietnamese) + Recollect Sutta: Ariya Pariyesana - Samaññaphala
 - △ Buddhanussati: Ascetic Buddha -> Your Body
 - 📚 Sutta Rd
 #### Qigong - Kaya-sati
@@ -69,7 +69,9 @@
 
 ---
 ### Eve
-#### 1800: ✨ Energy Mgm
+#### 1800: ✨ Refuge Ratanattaya
+- Kneel + Recollect Mahaparinibbana
+- Buddhanussati: Mahaparinibbana
 - **30**: 🚶 Run/Walk + Anap | 👁️ Obs process of movements (muscle, bone,..) > Movement Zone, initialize
 - **05**: 🕯️ Adjust env: 👅 clothes, wearable,.. | 🏡 Org Desk, Light, Air,.. 
 - **05**: 🔅 Satipatthana: body state, emotion, mind > engergy state > 💗 crave/need?
@@ -153,6 +155,7 @@ Weekly
 + Cs: ISTQB
 + Jp: Duolingo, 10 Kanji, Gammar, Read
 + Manual Skill: Nt: Sk, Learn about tool & item you used.
+
 
 
 
