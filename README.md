@@ -71,7 +71,7 @@
 ### Eve
 #### 1800: ✨ Refuge Ratanattaya
 - Kneel + Recollect Mahaparinibbana
-- Buddhanussati: Mahaparinibbana
+- Buddhanussati: Mahaparinibbana | Paint: Buddha mediate in night
 - **30**: 🚶 Run/Walk + Anap | 👁️ Obs process of movements (muscle, bone,..) > Movement Zone, initialize
 - **05**: 🕯️ Adjust env: 👅 clothes, wearable,.. | 🏡 Org Desk, Light, Air,.. 
 - **05**: 🔅 Satipatthana: body state, emotion, mind > engergy state > 💗 crave/need?
@@ -155,6 +155,7 @@ Weekly
 + Cs: ISTQB
 + Jp: Duolingo, 10 Kanji, Gammar, Read
 + Manual Skill: Nt: Sk, Learn about tool & item you used.
+
 
 
 
