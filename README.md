@@ -1,27 +1,4 @@
-[Dawn](#Dawn) > [Morn](#Morn) > [Aft](#Aft) > [Eve](#Eve)  </br>
-
----
-### Dawn
-- 🚽 Bathroom + Drink Water + Eye Drop
-- ☕ [Caffeine Drink](https://github.com/ThanhNguyen24590/Body/blob/main/Food/Drink-Supplement.md)
-- 🌄 Setup Ouside & 🔅 Wait for Light
-#### Refuge Ratanattaya
-- 🎼 Kneel & Chant (Pali & Vietnamese) + Recollect Sutta: Ariya Pariyesana - Samaññaphala
-- △ Buddhanussati: Ascetic Buddha -> Your Body
-- 📚 Sutta Rd
-#### Qigong - Kaya-sati
-- 🌞 [Msg](https://github.com/ThanhNguyen24590/Body/blob/main/Exc/lstMsg.md): Face & Throat + [Stretch](https://github.com/ThanhNguyen24590/Body/blob/main/Exc/R_DexL.md): Muscle & Bone
-- 💪 Upper-Core-Lower: 20 pushup, 20 situp, 20 kicks
-- 🍵 :**10**: Light Breakfast + Prep Lunch + Medicine
-- 🚿 :**10**: Bath-Skin, Head, Teeth.
-#### Prep
-- 🐜 Work: items, Clothes, Note concepts to Reflect..
-- 🌬 Mind: Fast read- No think- Note concept: Sutta,...
-
-#### 🚌 Wrk on Note: **0630**
-- 🔥 Book: Recollect concepts + Mindmaping + Questioning.
-- ☀️ Ānāpānasati as weather station, Stability & Joy
-- 🔵 Protection: Chose 1 subj: 🙏 Refuge & Direction: Dhamma | 🌌 Emotion: Metta/Karuna | 🍖 Limitation & Resolve: Mara | ☣️ Health: Asubha
+[Dawn](https://github.com/ThanhNguyen24590/Process/blob/main/11.Dawn.md) > [Morn](#Morn) > [Aft](#Aft) > [#Eve](https://github.com/ThanhNguyen24590/Process/blob/main/31.Ev.md)  </br>
 
 ---
 ### Morn
@@ -66,36 +43,6 @@
 - ☀ Any new concepts + Mindmap/categorize + Question/More Rsr?
 -  
 - 🔵 Protection: Ānāpānasati as weather station, Stability & Joy | 🙏 Refuge & Direction: Dhamma | 🌌 Emotion: Metta/Karuna | 🍖 Limitation & Resolve: Mara | ☣️ Health: Asubha
-
----
-### Eve
-#### 1800: ✨ Refuge Ratanattaya
-- Kneel + Recollect Mahaparinibbana
-- Buddhanussati: Mahaparinibbana | Paint: Buddha mediate in night
-- **30**: 🚶 Run/Walk + Anap | 👁️ Obs process of movements (muscle, bone,..) > Movement Zone, initialize
-- **05**: 🕯️ Adjust env: 👅 clothes, wearable,.. | 🏡 Org Desk, Light, Air,.. 
-- **05**: 🔅 Satipatthana: body state, emotion, mind > engergy state > 💗 crave/need?
-- **20**: 🍲 Light Dinner | 🍷 Prep drink | 📝Write Sche to Paper
-
-#### 1900: 🧿 Qigong (Tension, Rest), Protection & Rest
-- **10**: 🚿 Bath: Skin, Nose, Mouth-Teeth.
-- **20**: 🌿 Sanctify: St & Chant: Recollection 🙏 Refuge
-- **30**: 🎼 to the Flow: Lying down or Step-touch
-  - [Eve Dh](https://www.dhammatalks.org/audio/evening/), Music , Qigong
-
-#### 2000: 🌕 Dh & ☣️ Health: ✅ Check item in Lst
-- **20**: 📖 Sutta: Rd 1 MN Sutta: Just to rm, comprehend and analysize 
-- **20**: 🎐 Japanese Study: Rd Minna No Nihongo (Grammar & Vocabulary)
-- **20**: ➰ Stretch + 💪 Exc Str: Upper-Core-Lower: 10R-3S: pushup, situp, Duck Walk. St 1 taichi form?
-
-#### 2100: 🗝️ Study: ✅ Check item in Lst
-- **30**: 💻 Cs: ISTQB: Fast Read & Rm. No need reflect yet.
-- **30**: 🎶 Art-Music: Piano: Rm note & Hear
-
-#### 2200: 🪞 Reflect & 💤 Sleep
-- **10**: 📓 Journal & Reflect, or just Draw: Dsc Your day
-- **10**: ➰ DexL + Light Exc: 20 Kneel Push up
-- **10**: Anap Break down > Sleep
 
 ---
 + https://github.com/ThanhNguyen24590/Process/blob/main/Pt_Schedule.md
@@ -155,6 +102,7 @@ Weekly
 + Cs: ISTQB
 + Jp: Duolingo, 10 Kanji, Gammar, Read
 + Manual Skill: Nt: Sk, Learn about tool & item you used.
+
 
 
 
