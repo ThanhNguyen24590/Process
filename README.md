@@ -1,29 +1,6 @@
-[Dawn](https://github.com/ThanhNguyen24590/Process/blob/main/11.Dawn.md) > [Morn](#Morn) > [Aft](#Aft) > [#Eve](https://github.com/ThanhNguyen24590/Process/blob/main/31.Ev.md)  </br>
-
----
-### Morn
-#### 0700: Energy, Light & Qi
-- **15**: 🈳 Qigong : Connect Qi, loosen joints.
-- **15**: ☕ Prep Office + Drink + Hygiene
-
-#### 0800: Mk Base & Direction
-- **05**: 🎯 Check chat > mail > calendar > Jira Dashboard + Review Task: done & need done. Need anymore resouce?
-- **05**: ⏰ Set task's time block & structurize > Mk Sche Paper: TD, objectives & deadline.
-- **10**: 🍀 Daily Report: Talk what done, what to do TODAY + Progress on Long term + Check Calendar.  
-- **30**: ☯️ Taichi
-
-#### 0900: 🗝️ Study: Each session 30 min
-- 💻 Cs: ISTQB : Read a section or do a short mock test.  
-- 🎐 Japanese Grammar & Vocabulary : Practice grammar pattern & 10 words.
-- 📖 Dhamma Book (On the Path) : Read 1 section & highlight key phrase.
-- 🎶 Piano Practice : Play casually for joy.
-- 🧘 Meditation – Karuṇā or Marana : Reflect on compassion or death. 
+[Dawn](https://github.com/ThanhNguyen24590/Process/blob/main/11.Dawn.md) > [Morn](https://github.com/ThanhNguyen24590/Process/blob/main/12.Morn.md) > [Aft](#Aft) > [#Eve](https://github.com/ThanhNguyen24590/Process/blob/main/31.Ev.md)  </br>
 
 
-#### 1200: 🥗 Lunch
-- **1200 – 1220** : 🥗 Lunch: Eat slowly, add fruit
-- **1220 – 1230** : ➰ Stretch + 🈂️ Rw Jp
-- **1230 – 1300** : ☀️ [Dh Talk](https://www.dhammatalks.org/audio/morning/) + 🌬️ Anapanasati 4.
 
 ---
 ### Aft
@@ -102,6 +79,7 @@ Weekly
 + Cs: ISTQB
 + Jp: Duolingo, 10 Kanji, Gammar, Read
 + Manual Skill: Nt: Sk, Learn about tool & item you used.
+
 
 
 
