@@ -1,4 +1,5 @@
-### Search for 4 ahara
+### aharepatikulasanna
+#### Search for 4 ahara
 + Effort & Discipline to get food, with no certainty to get what want.
 + There's bad food: disguised poison (immediate dukha, future dukha), bait (immediate sukha, future dukha)
 + There's good food: medicine (immediate dukha, future sukha), healthy food (immediate sukha, future sukha)
@@ -15,8 +16,12 @@
 	+ Severe: Cancer (brain, lungs, skin, testicle, bone,..), Blind, Deaf, Cripple, Bed Rot (by not moving)
 ---
 
-### Mental: Avoid  dukkha, Search for sukkha ===
+### Mental: pañca nīvaraṇa
+#### Avoid  dukkha, Search for sukkha
 + Effort & Discipline against bad state: Boredom,self loathing, hatred (for self or others), lust.....
 + Effort against bad habit that dealing with bad state: be dull, ignorance: addiction: binge eating, drinking, reading, etc...
 + Effort to get intellect pleasure: analysing, thinking, contextualizing, studying, asking, memorize, making meaning....
 + Effort to be Transcendent: Samadhi State & Vision. 
+
+#### Ref
++ [Five_hindrances](https://en.wikipedia.org/wiki/Five_hindrances)
