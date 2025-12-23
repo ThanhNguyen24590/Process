@@ -1,3 +1,5 @@
+Feeling of obstruction, hindrances, blockage.
+
 ### aharepatikulasanna
 #### Search for 4 ahara
 + Effort & Discipline to get food, with no certainty to get what want.
@@ -25,3 +27,4 @@
 
 #### Ref
 + [Five_hindrances](https://en.wikipedia.org/wiki/Five_hindrances)
+
