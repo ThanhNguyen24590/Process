@@ -1,4 +1,4 @@
-Feeling of obstruction, hindrances, blockage.
+Feeling of obstruction, hindrances, blockage. > saṅkhāresu nibbidā
 
 ### aharepatikulasanna
 #### Search for 4 ahara
@@ -27,4 +27,5 @@ Feeling of obstruction, hindrances, blockage.
 
 #### Ref
 + [Five_hindrances](https://en.wikipedia.org/wiki/Five_hindrances)
+
 
