@@ -1,37 +1,3 @@
-[Dawn](https://github.com/ThanhNguyen24590/Process/blob/main/11.Dawn.md) > [Morn](https://github.com/ThanhNguyen24590/Process/blob/main/12.Morn.md) > [Aft](#Aft) > [#Eve](https://github.com/ThanhNguyen24590/Process/blob/main/31.Ev.md)  </br>
-
-
-
----
-### Aft
-- 🚽 Bathroom + Drink Water + Eye Drop
-- ☕ [NOT Caffeine Drink](https://github.com/ThanhNguyen24590/Body/blob/main/Food/Drink-Supplement.md)
-- 🔅 Upd Task + Upd Schedule + Upd Sati-Note
-#### Art time
-- 🎥 Movie | Animation | Anime | TV Series | Documentary
-#### Std Dhmma
-#### Qigong - Kaya-sati
-- 🌞 [Msg](https://github.com/ThanhNguyen24590/Body/blob/main/Exc/lstMsg.md): Face & Throat + [Stretch](https://github.com/ThanhNguyen24590/Body/blob/main/Exc/R_DexL.md): Muscle & Bone
-- 💪 Upper-Core-Lower: 20 pushup, 20 situp, 20 kicks
-
-
-#### 1700: Hyg + 🚌 Prep Off
-- 🔥 Recollect: What you done in the day: Morn, Noon, Aft by hour -> Could do diff? How could be worse/ better? Need support?
-- ☀ Any new concepts + Mindmap/categorize + Question/More Rsr?
--  
-- 🔵 Protection: Ānāpānasati as weather station, Stability & Joy | 🙏 Refuge & Direction: Dhamma | 🌌 Emotion: Metta/Karuna | 🍖 Limitation & Resolve: Mara | ☣️ Health: Asubha
-
----
-+ https://github.com/ThanhNguyen24590/Process/blob/main/Pt_Schedule.md
-+ https://github.com/ThanhNguyen24590/Dh/blob/main/Med/SuttaLst.md
-+ https://github.com/ThanhNguyen24590/Body/blob/main/Exc/R_Str.md
----
-##### Work
-+ :anchor:[Eve Dh](https://www.dhammatalks.org/audio/evening/) :u7a7a: Rm Full MN Sutta > Learn: Lying down, walk : > :waning_crescent_moon: Rnd (1..50)
-+ :muscle: Learn Exc: [15minRou](https://github.com/ThanhNguyen24590/Process/blob/main/Body/15minRou.md), [5 animals frolic](https://github.com/ThanhNguyen24590/Process/blob/main/Body/5-Animals.md), [HygMsg](https://github.com/ThanhNguyen24590/Process/blob/main/Body/HygMsg.md)
-+ :computer: Read Full ISTQB Bok + Crs + Mock Test
-+ Jp: :fallen_leaf: Grammar-Speak (25 lession) :cherry_blossom: Vocabulary :mount_fuji: Kanji (Part 2-300 words)
-+ :musical_keyboard: Piano-Make it fun  
 
 ---
 #### Prj
@@ -79,6 +45,7 @@ Weekly
 + Cs: ISTQB
 + Jp: Duolingo, 10 Kanji, Gammar, Read
 + Manual Skill: Nt: Sk, Learn about tool & item you used.
+
 
 
 
