@@ -1,5 +1,6 @@
 - [ ] Org Bookmark
 - [ ] Org ELib - Ck Lib
+- [ ] Upd Nt Buddho
 - [ ] Upd Prj Lst + Deadline
 - [ ] Upd Medicine Lst
 
@@ -42,6 +43,7 @@ Journaling
 + Cs: ISTQB
 + Jp: Duolingo, 10 Kanji, Gammar, Read
 + Manual Skill: Nt: Sk, Learn about tool & item you used.
+
 
 
 
