@@ -1,9 +1,5 @@
-[#Dawn](https://github.com/ThanhNguyen24590/Process/blob/main/11.Dawn.md) > [#Morn](https://github.com/ThanhNguyen24590/Process/blob/main/12.Morn.md) > [#Aft](Aft) > [#Eve](https://github.com/ThanhNguyen24590/Process/blob/main/31.Ev.md) 
----
-#### Prj
-<details><summary>Dh Study</summary>
-
-Daily
+#### Prj Lst
+Dh Study
 + Rm & Org TriPitaka: Rd [MN 1](https://suttacentral.net/mn-mulapannasa) | [Ls](https://www.paliaudio.com/majjhima-nikaya) | Rsr Pali -> Vid Sutta
 + Chant (Find Chant zone with suitable rythm), Dh Talk ([Morn Short](https://www.dhammatalks.org/audio/morning/), [Eve](https://www.dhammatalks.org/audio/evening/)), Med
 + Rd: [stg On The Path](https://www.dhammatalks.org/books/OnThePath/Section0001.html)
@@ -14,15 +10,7 @@ Weekly
 + Rsr: Csr: Early Meditation + Ajahn Brahmamavaso, ...
   + Neuroscience, Psychology & Science of Mind: Robert M. Sapolsky - Behave (Lib>NonFic.Mind),
   + Wiki: https://en.wikipedia.org/wiki/Emotion
-</details>
-<details><summary>Journaling</summary>
-
-+ Hour start: Mk sche & goal for each hour.
-+ Hour end: Log Emotion  & Check Progress > Journaling > Rw & Upd Process
-</details>
-
-<details>
-  <summary>Dh Extended</summary>
+Dh Extended
 + Expand [Kammaṭṭhāna](https://en.wikipedia.org/wiki/Kamma%E1%B9%AD%E1%B9%ADh%C4%81na)
 + Rd [stg Mindful of the Body](https://www.dhammatalks.org/books/MindfulBody/Section0001.html)
 + Ls Dhamma talk, Med Guide > Med : Thai forest tradition: Thanissaro, Ajahn Brahm, Ajahn Sujato,...
@@ -30,9 +18,11 @@ Weekly
 + Eastern Philosophy: Mahayana, vajrayana, secular Buddhism, Chinese philosophy, Indian philosophy
 + Philosophy of mind: Western philosophy
 +  Productivity: Learning how to learn, time mng.
-</details>
+---
 
-
+Journaling
++ Hour start: Mk sche & goal for each hour.
++ Hour end: Log Emotion & Check Progress > Journaling > Rw & Upd Process
 
 #### Vaca: Brahma-vihārā: Karuna > Mudita > Metta > Upekka
 + Art: Music: Piano 15 min
@@ -45,6 +35,7 @@ Weekly
 + Cs: ISTQB
 + Jp: Duolingo, 10 Kanji, Gammar, Read
 + Manual Skill: Nt: Sk, Learn about tool & item you used.
+
 
 
 
