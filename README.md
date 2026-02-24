@@ -1,3 +1,8 @@
+- [ ] Upd Prj Lst + Deadline
+- [ ] Upd Medicine Lst
+
+
+---
 #### Prj Lst
 Dh Study
 + Rm & Org TriPitaka: Rd [MN 1](https://suttacentral.net/mn-mulapannasa) | [Ls](https://www.paliaudio.com/majjhima-nikaya) | Rsr Pali -> Vid Sutta
@@ -35,6 +40,7 @@ Journaling
 + Cs: ISTQB
 + Jp: Duolingo, 10 Kanji, Gammar, Read
 + Manual Skill: Nt: Sk, Learn about tool & item you used.
+
 
 
 
