@@ -4,7 +4,51 @@
 - [ ] Upd Prj Lst + Deadline
 - [ ] Upd Medicine Lst
 
+---
+Qi circulation
+- Sati, Msg & general movement: stimming, [00.Msg](https://github.com/ThanhNguyen24590/Body/edit/main/00.Msg.md)
+  - Check discomfort-blockage-dullnes: Neck-Spine, shoulder-hand, thight-knee-feet
+  - Check Sati: rythm, finger's tip, toe's tip, Joint
+- Breathwork: Box breath, alternate nostril,.. > Anap Sati
+- St & Practice vs stagnant energy
+  - Taichi - Qigong: 5 animal frolics, Silk reeling, Zhan Zhuang
+  - Yoga
+- Nature Walk: Light, Air,...
 
+Kaya Form & Quality
+- Body Weight Fitness, Running > Runner High, HIIT
+  - Waist, Thigh, Belly, Neck,.. Fat > Body Weight
+  - Organt: Heart, Vein: less fat
+- Strength Training: Bone & Muscle Hardened vs atrophy
+- Stretching: Joint has wide range: [Dex](https://github.com/ThanhNguyen24590/Body/blob/main/1.2.Dex.md), [DexL](https://github.com/ThanhNguyen24590/Body/blob/main/1.1.DexL.md)
+
+Hygine Maintain
+- Sleep Hygiene: Consistent sleep schedule, suitable env + before sleep activity.
+- Orif: Eye > Eye Rest + Drop Frequent
+- Orif: Oral Microbiome: Nose - Mask, Teeth - Cleanse, Throat - Water
+- Orif: Could remove waste?
+- Skin: Face (Oil), Feet (Odor)
+
+Food & Nutrition 
+- Chose Healthy & Suitable, Focus on Whole Food: [Food](https://github.com/ThanhNguyen24590/Body/tree/main/Food)
+- Stress Food > Stress Management
+- Supplement: Research & Sche
+
+Preventative Health & Medical Care
+- Dưỡng sinh, Đông y
+- Vaccination
+
+Knowledge Read
+- NonFic, Histology
+- Wiki: Health, Men%27s_health
+
+Knowledge Video/Course
+- Yoga
+- Anatomy: Human Anatomy, Introductory Human Physiology, Histology
+- Survival
+
+Sport
+- Martial art: UFC
 ---
 #### Prj Lst
 Dh Study
