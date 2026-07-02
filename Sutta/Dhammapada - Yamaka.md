@@ -1,5 +1,5 @@
 [Dhammapada](https://suttacentral.net/dhp1-20/en/sujato?lang=en&layout=sidebyside)
-### Yamakavagga
+
 - Manopubbaṅgamā dhammā, manoseṭṭhā manomayā; Manasā ce paduṭṭhena, bhāsati vā karoti vā; Tato naṁ dukkhamanveti, cakkaṁva vahato padaṁ.
 - Manopubbaṅgamā dhammā, manoseṭṭhā manomayā; Manasā ce pasannena, bhāsati vā karoti vā; Tato naṁ sukhamanveti, chāyāva anapāyinī.
 
@@ -10,8 +10,3 @@
 
 - Bahumpi ce saṁhita bhāsamāno, Na takkaro hoti naro pamatto; Gopova gāvo gaṇayaṁ paresaṁ, Na bhāgavā sāmaññassa hoti. 
 - Appampi ce saṁhita bhāsamāno, Dhammassa hoti anudhammacārī; Rāgañca dosañca pahāya mohaṁ, Sammappajāno suvimuttacitto; Anupādiyāno idha vā huraṁ vā, Sa bhāgavā sāmaññassa hoti.
-
-### Appamādavagga
-- Appamādo amatapadaṁ, pamādo maccuno padaṁ; Appamattā na mīyanti,ye pamattā yathā matā. Evaṁ visesato ñatvā, appamādamhi paṇḍitā; Appamāde pamodanti, ariyānaṁ gocare ratā. Te jhāyino sātatikā, niccaṁ daḷhaparakkamā; Phusanti dhīrā nibbānaṁ, yogakkhemaṁ anuttaraṁ.
-
-- Uṭṭhānenappamādena, saṁyamena damena ca; Dīpaṁ kayirātha medhāvī, yaṁ ogho nābhikīrati.
