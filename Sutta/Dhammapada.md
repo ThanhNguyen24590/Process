@@ -1,26 +1,17 @@
-- [01.Yamakavagga](https://suttacentral.net/dhp1-20/en/sujato?lang=en&layout=sidebyside)
-- [02.Appamādavagga](https://suttacentral.net/dhp21-32/en/sujato?lang=en&layout=sidebyside)
-- [03.Cittavagga](https://suttacentral.net/dhp33-43/en/sujato?lang=en&layout=sidebyside)
-- [04.Pupphavagga](https://suttacentral.net/dhp44-59/en/sujato?lang=en&layout=sidebyside)
-- [05.Bālavagga](https://suttacentral.net/dhp60-75/en/sujato?lang=en&layout=sidebyside)
-- [06.Paṇḍitavagga](https://suttacentral.net/dhp76-89/en/sujato?lang=en&layout=sidebyside)
-- [07.Arahantavagga](https://suttacentral.net/dhp90-99/en/sujato?lang=en&layout=sidebyside)
-- [08.Sahassavagga](https://suttacentral.net/dhp100-115/en/sujato?lang=en&layout=sidebyside)
-- [09.Pāpavagga](https://suttacentral.net/dhp116-128/en/sujato?lang=en&layout=sidebyside)
-- [10.Daṇḍavagga](https://suttacentral.net/dhp129-145/en/sujato?lang=en&layout=sidebyside)
-- [11.Jarāvagga](https://suttacentral.net/dhp146-156/en/sujato?lang=en&layout=sidebyside)
-- [12.Attavagga](https://suttacentral.net/dhp157-166/en/sujato?lang=en&layout=sidebyside)
-- [13.Lokavagga](https://suttacentral.net/dhp167-178/en/sujato?lang=en&layout=sidebyside)
-- [14.Buddhavagga](https://suttacentral.net/dhp179-196/en/sujato?lang=en&layout=sidebyside)
-- [15.Sukhavagga](https://suttacentral.net/dhp197-208/en/sujato?lang=en&layout=sidebyside)
-- [16.Piyavagga](https://suttacentral.net/dhp209-220/en/sujato?lang=en&layout=sidebyside)
-- [17.Kodhavagga](https://suttacentral.net/dhp221-234/en/sujato?lang=en&layout=sidebyside)
-- [18.Malavagga](https://suttacentral.net/dhp235-255/en/sujato?lang=en&layout=sidebyside)
-- [19.Dhammaṭṭhavagga](https://suttacentral.net/dhp256-272/en/sujato?lang=en&layout=sidebyside)
-- [20.Maggavagga](https://suttacentral.net/dhp273-289/en/sujato?lang=en&layout=sidebyside)
-- [21.Pakiṇṇakavagga](https://suttacentral.net/dhp290-305/en/sujato?lang=en&layout=sidebyside)
-- [22.Nirayavagga](https://suttacentral.net/dhp306-319/en/sujato?lang=en&layout=sidebyside)
-- [23.Nāgavagga](https://suttacentral.net/dhp320-333/en/sujato?lang=en&layout=sidebyside)
-- [24.Taṇhāvagga](https://suttacentral.net/dhp334-359/en/sujato?lang=en&layout=sidebyside)
-- [25.Bhikkhuvagga](https://suttacentral.net/dhp360-382/en/sujato?lang=en&layout=sidebyside)
-- [26.Brāhmaṇavagga](https://suttacentral.net/dhp383-423/en/sujato?lang=en&layout=sidebyside)
+[Dhammapada](https://suttacentral.net/dhp1-20/en/sujato?lang=en&layout=sidebyside)
+### Yamakavagga
+- Manopubbaṅgamā dhammā, manoseṭṭhā manomayā; Manasā ce paduṭṭhena, bhāsati vā karoti vā; Tato naṁ dukkhamanveti, cakkaṁva vahato padaṁ.
+- Manopubbaṅgamā dhammā, manoseṭṭhā manomayā; Manasā ce pasannena, bhāsati vā karoti vā; Tato naṁ sukhamanveti, chāyāva anapāyinī.
+
+- Subhānupassiṁ viharantaṁ, indriyesu asaṁvutaṁ; Bhojanamhi cāmattaññuṁ, kusītaṁ hīnavīriyaṁ; Taṁ ve pasahati māro, vāto rukkhaṁva dubbalaṁ.
+- Asubhānupassiṁ viharantaṁ, Indriyesu susaṁvutaṁ; Bhojanamhi ca mattaññuṁ, Saddhaṁ āraddhavīriyaṁ; Taṁ ve nappasahati māro, Vāto selaṁva pabbataṁ.
+
+- Yathā agāraṁ ducchannaṁ, vuṭṭhī samativijjhati; Evaṁ abhāvitaṁ cittaṁ, rāgo samativijjhati. Yathā agāraṁ suchannaṁ, vuṭṭhī na samativijjhati; Evaṁ subhāvitaṁ cittaṁ, rāgo na samativijjhati.
+
+- Bahumpi ce saṁhita bhāsamāno, Na takkaro hoti naro pamatto; Gopova gāvo gaṇayaṁ paresaṁ, Na bhāgavā sāmaññassa hoti. 
+- Appampi ce saṁhita bhāsamāno, Dhammassa hoti anudhammacārī; Rāgañca dosañca pahāya mohaṁ, Sammappajāno suvimuttacitto; Anupādiyāno idha vā huraṁ vā, Sa bhāgavā sāmaññassa hoti.
+
+### Appamādavagga
+- Appamādo amatapadaṁ, pamādo maccuno padaṁ; Appamattā na mīyanti,ye pamattā yathā matā. Evaṁ visesato ñatvā, appamādamhi paṇḍitā; Appamāde pamodanti, ariyānaṁ gocare ratā. Te jhāyino sātatikā, niccaṁ daḷhaparakkamā; Phusanti dhīrā nibbānaṁ, yogakkhemaṁ anuttaraṁ.
+
+- Uṭṭhānenappamādena, saṁyamena damena ca; Dīpaṁ kayirātha medhāvī, yaṁ ogho nābhikīrati.
